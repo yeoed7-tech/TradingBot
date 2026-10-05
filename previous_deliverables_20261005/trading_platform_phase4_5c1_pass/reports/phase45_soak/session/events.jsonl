@@ -1,0 +1,173 @@
+{"event": "market_data", "timestamp": "2026-09-28 07:43:00+00:00", "symbol": "BTC/KRW", "open": 112747000.0, "high": 112747000.0, "low": 112713000.0, "close": 112713000.0, "volume": 0.52527567}
+{"event": "market_data", "timestamp": "2026-09-28 07:44:00+00:00", "symbol": "BTC/KRW", "open": 112721000.0, "high": 112721000.0, "low": 112700000.0, "close": 112700000.0, "volume": 0.40448043}
+{"event": "market_data", "timestamp": "2026-09-28 07:45:00+00:00", "symbol": "BTC/KRW", "open": 112701000.0, "high": 112721000.0, "low": 112700000.0, "close": 112720000.0, "volume": 0.66408631}
+{"event": "market_data", "timestamp": "2026-09-28 07:46:00+00:00", "symbol": "BTC/KRW", "open": 112719000.0, "high": 112720000.0, "low": 112713000.0, "close": 112718000.0, "volume": 0.91791338}
+{"event": "market_data", "timestamp": "2026-09-28 07:47:00+00:00", "symbol": "BTC/KRW", "open": 112718000.0, "high": 112718000.0, "low": 112713000.0, "close": 112718000.0, "volume": 1.66742797}
+{"event": "market_data", "timestamp": "2026-09-28 07:48:00+00:00", "symbol": "BTC/KRW", "open": 112718000.0, "high": 112780000.0, "low": 112718000.0, "close": 112780000.0, "volume": 2.48931614}
+{"event": "market_data", "timestamp": "2026-09-28 07:49:00+00:00", "symbol": "BTC/KRW", "open": 112780000.0, "high": 112784000.0, "low": 112743000.0, "close": 112784000.0, "volume": 0.31102635}
+{"event": "market_data", "timestamp": "2026-09-28 07:50:00+00:00", "symbol": "BTC/KRW", "open": 112784000.0, "high": 112799000.0, "low": 112743000.0, "close": 112794000.0, "volume": 0.86079859}
+{"event": "market_data", "timestamp": "2026-09-28 07:51:00+00:00", "symbol": "BTC/KRW", "open": 112794000.0, "high": 112800000.0, "low": 112740000.0, "close": 112800000.0, "volume": 1.18833228}
+{"event": "market_data", "timestamp": "2026-09-28 07:52:00+00:00", "symbol": "BTC/KRW", "open": 112799000.0, "high": 112800000.0, "low": 112772000.0, "close": 112800000.0, "volume": 1.71447764}
+{"event": "market_data", "timestamp": "2026-09-28 07:53:00+00:00", "symbol": "BTC/KRW", "open": 112800000.0, "high": 112820000.0, "low": 112799000.0, "close": 112819000.0, "volume": 1.15549829}
+{"event": "market_data", "timestamp": "2026-09-28 07:54:00+00:00", "symbol": "BTC/KRW", "open": 112820000.0, "high": 112857000.0, "low": 112819000.0, "close": 112830000.0, "volume": 0.79526181}
+{"event": "market_data", "timestamp": "2026-09-28 07:55:00+00:00", "symbol": "BTC/KRW", "open": 112857000.0, "high": 112991000.0, "low": 112839000.0, "close": 112991000.0, "volume": 0.9119046}
+{"event": "market_data", "timestamp": "2026-09-28 07:56:00+00:00", "symbol": "BTC/KRW", "open": 112991000.0, "high": 112991000.0, "low": 112901000.0, "close": 112966000.0, "volume": 0.26182097}
+{"event": "market_data", "timestamp": "2026-09-28 07:57:00+00:00", "symbol": "BTC/KRW", "open": 112981000.0, "high": 112990000.0, "low": 112895000.0, "close": 112895000.0, "volume": 0.87535089}
+{"event": "market_data", "timestamp": "2026-09-28 07:58:00+00:00", "symbol": "BTC/KRW", "open": 112887000.0, "high": 112887000.0, "low": 112814000.0, "close": 112822000.0, "volume": 0.41438733}
+{"event": "market_data", "timestamp": "2026-09-28 07:59:00+00:00", "symbol": "BTC/KRW", "open": 112822000.0, "high": 112824000.0, "low": 112814000.0, "close": 112814000.0, "volume": 2.7664722}
+{"event": "market_data", "timestamp": "2026-09-28 08:00:00+00:00", "symbol": "BTC/KRW", "open": 112824000.0, "high": 112870000.0, "low": 112800000.0, "close": 112870000.0, "volume": 1.76739641}
+{"event": "market_data", "timestamp": "2026-09-28 08:01:00+00:00", "symbol": "BTC/KRW", "open": 112870000.0, "high": 112991000.0, "low": 112824000.0, "close": 112940000.0, "volume": 0.43896548}
+{"event": "market_data", "timestamp": "2026-09-28 08:02:00+00:00", "symbol": "BTC/KRW", "open": 112940000.0, "high": 112987000.0, "low": 112844000.0, "close": 112920000.0, "volume": 0.40127538}
+{"event": "market_data", "timestamp": "2026-09-28 08:03:00+00:00", "symbol": "BTC/KRW", "open": 112919000.0, "high": 112920000.0, "low": 112888000.0, "close": 112919000.0, "volume": 0.46471026}
+{"event": "market_data", "timestamp": "2026-09-28 08:04:00+00:00", "symbol": "BTC/KRW", "open": 112920000.0, "high": 112920000.0, "low": 112886000.0, "close": 112920000.0, "volume": 1.01486362}
+{"event": "market_data", "timestamp": "2026-09-28 08:05:00+00:00", "symbol": "BTC/KRW", "open": 112920000.0, "high": 112920000.0, "low": 112919000.0, "close": 112920000.0, "volume": 0.63308539}
+{"event": "market_data", "timestamp": "2026-09-28 08:06:00+00:00", "symbol": "BTC/KRW", "open": 112920000.0, "high": 112980000.0, "low": 112893000.0, "close": 112920000.0, "volume": 1.81250237}
+{"event": "market_data", "timestamp": "2026-09-28 08:07:00+00:00", "symbol": "BTC/KRW", "open": 112973000.0, "high": 112980000.0, "low": 112920000.0, "close": 112920000.0, "volume": 1.12646534}
+{"event": "market_data", "timestamp": "2026-09-28 08:08:00+00:00", "symbol": "BTC/KRW", "open": 112901000.0, "high": 112976000.0, "low": 112894000.0, "close": 112930000.0, "volume": 2.61487927}
+{"event": "market_data", "timestamp": "2026-09-28 08:09:00+00:00", "symbol": "BTC/KRW", "open": 112930000.0, "high": 112979000.0, "low": 112920000.0, "close": 112929000.0, "volume": 0.20443209}
+{"event": "market_data", "timestamp": "2026-09-28 08:10:00+00:00", "symbol": "BTC/KRW", "open": 112927000.0, "high": 112928000.0, "low": 112900000.0, "close": 112900000.0, "volume": 0.39646813}
+{"event": "market_data", "timestamp": "2026-09-28 08:11:00+00:00", "symbol": "BTC/KRW", "open": 112900000.0, "high": 112934000.0, "low": 112896000.0, "close": 112903000.0, "volume": 1.50570206}
+{"event": "market_data", "timestamp": "2026-09-28 08:12:00+00:00", "symbol": "BTC/KRW", "open": 112934000.0, "high": 112977000.0, "low": 112890000.0, "close": 112907000.0, "volume": 0.16839984}
+{"event": "market_data", "timestamp": "2026-09-28 08:13:00+00:00", "symbol": "BTC/KRW", "open": 112933000.0, "high": 112933000.0, "low": 112886000.0, "close": 112932000.0, "volume": 0.39861968}
+{"event": "market_data", "timestamp": "2026-09-28 08:14:00+00:00", "symbol": "BTC/KRW", "open": 112932000.0, "high": 112977000.0, "low": 112856000.0, "close": 112899000.0, "volume": 0.83546196}
+{"event": "market_data", "timestamp": "2026-09-28 08:15:00+00:00", "symbol": "BTC/KRW", "open": 112933000.0, "high": 112933000.0, "low": 112882000.0, "close": 112933000.0, "volume": 0.65000494}
+{"event": "market_data", "timestamp": "2026-09-28 08:16:00+00:00", "symbol": "BTC/KRW", "open": 112933000.0, "high": 112976000.0, "low": 112932000.0, "close": 112976000.0, "volume": 0.7390671}
+{"event": "market_data", "timestamp": "2026-09-28 08:17:00+00:00", "symbol": "BTC/KRW", "open": 112976000.0, "high": 112977000.0, "low": 112974000.0, "close": 112977000.0, "volume": 0.35498512}
+{"event": "market_data", "timestamp": "2026-09-28 08:18:00+00:00", "symbol": "BTC/KRW", "open": 112977000.0, "high": 112977000.0, "low": 112900000.0, "close": 112902000.0, "volume": 1.05584253}
+{"event": "market_data", "timestamp": "2026-09-28 08:19:00+00:00", "symbol": "BTC/KRW", "open": 112902000.0, "high": 112965000.0, "low": 112901000.0, "close": 112904000.0, "volume": 0.1009211}
+{"event": "market_data", "timestamp": "2026-09-28 08:20:00+00:00", "symbol": "BTC/KRW", "open": 112957000.0, "high": 112957000.0, "low": 112900000.0, "close": 112900000.0, "volume": 0.79886527}
+{"event": "market_data", "timestamp": "2026-09-28 08:21:00+00:00", "symbol": "BTC/KRW", "open": 112903000.0, "high": 112903000.0, "low": 112880000.0, "close": 112895000.0, "volume": 0.57197599}
+{"event": "market_data", "timestamp": "2026-09-28 08:22:00+00:00", "symbol": "BTC/KRW", "open": 112895000.0, "high": 112895000.0, "low": 112830000.0, "close": 112842000.0, "volume": 0.57820964}
+{"event": "market_data", "timestamp": "2026-09-28 08:23:00+00:00", "symbol": "BTC/KRW", "open": 112842000.0, "high": 112846000.0, "low": 112841000.0, "close": 112846000.0, "volume": 0.38292496}
+{"event": "market_data", "timestamp": "2026-09-28 08:24:00+00:00", "symbol": "BTC/KRW", "open": 112846000.0, "high": 112846000.0, "low": 112797000.0, "close": 112799000.0, "volume": 1.20554705}
+{"event": "market_data", "timestamp": "2026-09-28 08:25:00+00:00", "symbol": "BTC/KRW", "open": 112794000.0, "high": 112794000.0, "low": 112760000.0, "close": 112761000.0, "volume": 0.55926379}
+{"event": "market_data", "timestamp": "2026-09-28 08:26:00+00:00", "symbol": "BTC/KRW", "open": 112761000.0, "high": 112788000.0, "low": 112757000.0, "close": 112788000.0, "volume": 1.37493044}
+{"event": "market_data", "timestamp": "2026-09-28 08:27:00+00:00", "symbol": "BTC/KRW", "open": 112788000.0, "high": 112794000.0, "low": 112768000.0, "close": 112790000.0, "volume": 0.5645906}
+{"event": "market_data", "timestamp": "2026-09-28 08:28:00+00:00", "symbol": "BTC/KRW", "open": 112790000.0, "high": 112790000.0, "low": 112784000.0, "close": 112788000.0, "volume": 0.29305869}
+{"event": "market_data", "timestamp": "2026-09-28 08:29:00+00:00", "symbol": "BTC/KRW", "open": 112788000.0, "high": 112788000.0, "low": 112761000.0, "close": 112762000.0, "volume": 0.67384281}
+{"event": "market_data", "timestamp": "2026-09-28 08:30:00+00:00", "symbol": "BTC/KRW", "open": 112762000.0, "high": 112780000.0, "low": 112761000.0, "close": 112763000.0, "volume": 0.83136446}
+{"event": "market_data", "timestamp": "2026-09-28 08:31:00+00:00", "symbol": "BTC/KRW", "open": 112763000.0, "high": 112763000.0, "low": 112730000.0, "close": 112730000.0, "volume": 1.40732498}
+{"event": "market_data", "timestamp": "2026-09-28 08:32:00+00:00", "symbol": "BTC/KRW", "open": 112749000.0, "high": 112751000.0, "low": 112714000.0, "close": 112750000.0, "volume": 0.57113148}
+{"event": "market_data", "timestamp": "2026-09-28 08:33:00+00:00", "symbol": "BTC/KRW", "open": 112750000.0, "high": 112788000.0, "low": 112722000.0, "close": 112788000.0, "volume": 2.65405092}
+{"event": "market_data", "timestamp": "2026-09-28 08:34:00+00:00", "symbol": "BTC/KRW", "open": 112782000.0, "high": 112794000.0, "low": 112763000.0, "close": 112794000.0, "volume": 1.58682763}
+{"event": "market_data", "timestamp": "2026-09-28 08:35:00+00:00", "symbol": "BTC/KRW", "open": 112794000.0, "high": 112820000.0, "low": 112794000.0, "close": 112820000.0, "volume": 2.30918326}
+{"event": "market_data", "timestamp": "2026-09-28 08:36:00+00:00", "symbol": "BTC/KRW", "open": 112820000.0, "high": 112820000.0, "low": 112800000.0, "close": 112802000.0, "volume": 0.57272945}
+{"event": "market_data", "timestamp": "2026-09-28 08:37:00+00:00", "symbol": "BTC/KRW", "open": 112802000.0, "high": 112803000.0, "low": 112762000.0, "close": 112762000.0, "volume": 1.67858018}
+{"event": "market_data", "timestamp": "2026-09-28 08:38:00+00:00", "symbol": "BTC/KRW", "open": 112760000.0, "high": 112763000.0, "low": 112669000.0, "close": 112670000.0, "volume": 1.91904029}
+{"event": "market_data", "timestamp": "2026-09-28 08:39:00+00:00", "symbol": "BTC/KRW", "open": 112670000.0, "high": 112670000.0, "low": 112668000.0, "close": 112668000.0, "volume": 0.47422809}
+{"event": "market_data", "timestamp": "2026-09-28 08:40:00+00:00", "symbol": "BTC/KRW", "open": 112668000.0, "high": 112676000.0, "low": 112650000.0, "close": 112676000.0, "volume": 1.27743738}
+{"event": "market_data", "timestamp": "2026-09-28 08:41:00+00:00", "symbol": "BTC/KRW", "open": 112676000.0, "high": 112676000.0, "low": 112601000.0, "close": 112614000.0, "volume": 0.79772762}
+{"event": "market_data", "timestamp": "2026-09-28 08:42:00+00:00", "symbol": "BTC/KRW", "open": 112602000.0, "high": 112631000.0, "low": 112589000.0, "close": 112589000.0, "volume": 1.21300216}
+{"event": "market_data", "timestamp": "2026-09-28 08:43:00+00:00", "symbol": "BTC/KRW", "open": 112589000.0, "high": 112589000.0, "low": 112575000.0, "close": 112575000.0, "volume": 0.4680332}
+{"event": "market_data", "timestamp": "2026-09-28 08:44:00+00:00", "symbol": "BTC/KRW", "open": 112578000.0, "high": 112578000.0, "low": 112574000.0, "close": 112574000.0, "volume": 0.73270316}
+{"event": "market_data", "timestamp": "2026-09-28 08:45:00+00:00", "symbol": "BTC/KRW", "open": 112574000.0, "high": 112574000.0, "low": 112570000.0, "close": 112572000.0, "volume": 0.46117365}
+{"event": "market_data", "timestamp": "2026-09-28 08:46:00+00:00", "symbol": "BTC/KRW", "open": 112572000.0, "high": 112631000.0, "low": 112564000.0, "close": 112631000.0, "volume": 1.80013548}
+{"event": "market_data", "timestamp": "2026-09-28 08:47:00+00:00", "symbol": "BTC/KRW", "open": 112631000.0, "high": 112700000.0, "low": 112621000.0, "close": 112623000.0, "volume": 0.85055184}
+{"event": "market_data", "timestamp": "2026-09-28 08:48:00+00:00", "symbol": "BTC/KRW", "open": 112700000.0, "high": 112700000.0, "low": 112624000.0, "close": 112630000.0, "volume": 0.5491643}
+{"event": "market_data", "timestamp": "2026-09-28 08:49:00+00:00", "symbol": "BTC/KRW", "open": 112630000.0, "high": 112699000.0, "low": 112627000.0, "close": 112627000.0, "volume": 0.5973315}
+{"event": "market_data", "timestamp": "2026-09-28 08:50:00+00:00", "symbol": "BTC/KRW", "open": 112627000.0, "high": 112629000.0, "low": 112535000.0, "close": 112537000.0, "volume": 1.26166839}
+{"event": "market_data", "timestamp": "2026-09-28 08:51:00+00:00", "symbol": "BTC/KRW", "open": 112541000.0, "high": 112628000.0, "low": 112500000.0, "close": 112520000.0, "volume": 4.27453674}
+{"event": "market_data", "timestamp": "2026-09-28 08:52:00+00:00", "symbol": "BTC/KRW", "open": 112621000.0, "high": 112621000.0, "low": 112505000.0, "close": 112536000.0, "volume": 1.0491904}
+{"event": "market_data", "timestamp": "2026-09-28 08:53:00+00:00", "symbol": "BTC/KRW", "open": 112536000.0, "high": 112614000.0, "low": 112536000.0, "close": 112614000.0, "volume": 0.37815341}
+{"event": "market_data", "timestamp": "2026-09-28 08:54:00+00:00", "symbol": "BTC/KRW", "open": 112613000.0, "high": 112626000.0, "low": 112581000.0, "close": 112626000.0, "volume": 0.48617067}
+{"event": "market_data", "timestamp": "2026-09-28 08:55:00+00:00", "symbol": "BTC/KRW", "open": 112626000.0, "high": 112626000.0, "low": 112613000.0, "close": 112613000.0, "volume": 0.52835554}
+{"event": "market_data", "timestamp": "2026-09-28 08:56:00+00:00", "symbol": "BTC/KRW", "open": 112626000.0, "high": 112626000.0, "low": 112600000.0, "close": 112600000.0, "volume": 0.90856568}
+{"event": "market_data", "timestamp": "2026-09-28 08:57:00+00:00", "symbol": "BTC/KRW", "open": 112600000.0, "high": 112600000.0, "low": 112593000.0, "close": 112600000.0, "volume": 1.0227404}
+{"event": "market_data", "timestamp": "2026-09-28 08:58:00+00:00", "symbol": "BTC/KRW", "open": 112600000.0, "high": 112626000.0, "low": 112580000.0, "close": 112626000.0, "volume": 1.43430618}
+{"event": "market_data", "timestamp": "2026-09-28 08:59:00+00:00", "symbol": "BTC/KRW", "open": 112626000.0, "high": 112626000.0, "low": 112554000.0, "close": 112601000.0, "volume": 0.26538408}
+{"event": "market_data", "timestamp": "2026-09-28 09:00:00+00:00", "symbol": "BTC/KRW", "open": 112601000.0, "high": 112626000.0, "low": 112554000.0, "close": 112626000.0, "volume": 0.46663438}
+{"event": "market_data", "timestamp": "2026-09-28 09:01:00+00:00", "symbol": "BTC/KRW", "open": 112626000.0, "high": 112626000.0, "low": 112621000.0, "close": 112626000.0, "volume": 0.4557865}
+{"event": "market_data", "timestamp": "2026-09-28 09:02:00+00:00", "symbol": "BTC/KRW", "open": 112626000.0, "high": 112626000.0, "low": 112500000.0, "close": 112500000.0, "volume": 7.23200414}
+{"event": "market_data", "timestamp": "2026-09-28 09:03:00+00:00", "symbol": "BTC/KRW", "open": 112545000.0, "high": 112553000.0, "low": 112500000.0, "close": 112501000.0, "volume": 3.65866129}
+{"event": "market_data", "timestamp": "2026-09-28 09:04:00+00:00", "symbol": "BTC/KRW", "open": 112501000.0, "high": 112513000.0, "low": 112499000.0, "close": 112500000.0, "volume": 1.26111729}
+{"event": "market_data", "timestamp": "2026-09-28 09:05:00+00:00", "symbol": "BTC/KRW", "open": 112500000.0, "high": 112500000.0, "low": 112495000.0, "close": 112495000.0, "volume": 1.20454063}
+{"event": "market_data", "timestamp": "2026-09-28 09:06:00+00:00", "symbol": "BTC/KRW", "open": 112496000.0, "high": 112496000.0, "low": 112495000.0, "close": 112495000.0, "volume": 0.92929942}
+{"event": "market_data", "timestamp": "2026-09-28 09:07:00+00:00", "symbol": "BTC/KRW", "open": 112495000.0, "high": 112496000.0, "low": 112486000.0, "close": 112494000.0, "volume": 0.7197813}
+{"event": "market_data", "timestamp": "2026-09-28 09:08:00+00:00", "symbol": "BTC/KRW", "open": 112494000.0, "high": 112494000.0, "low": 112400000.0, "close": 112400000.0, "volume": 4.66096923}
+{"event": "market_data", "timestamp": "2026-09-28 09:09:00+00:00", "symbol": "BTC/KRW", "open": 112400000.0, "high": 112450000.0, "low": 112400000.0, "close": 112403000.0, "volume": 3.73597846}
+{"event": "market_data", "timestamp": "2026-09-28 09:10:00+00:00", "symbol": "BTC/KRW", "open": 112403000.0, "high": 112409000.0, "low": 112382000.0, "close": 112382000.0, "volume": 2.44927813}
+{"event": "market_data", "timestamp": "2026-09-28 09:11:00+00:00", "symbol": "BTC/KRW", "open": 112382000.0, "high": 112416000.0, "low": 112370000.0, "close": 112400000.0, "volume": 1.5438785}
+{"event": "market_data", "timestamp": "2026-09-28 09:12:00+00:00", "symbol": "BTC/KRW", "open": 112400000.0, "high": 112465000.0, "low": 112396000.0, "close": 112450000.0, "volume": 0.88890636}
+{"event": "market_data", "timestamp": "2026-09-28 09:13:00+00:00", "symbol": "BTC/KRW", "open": 112450000.0, "high": 112472000.0, "low": 112411000.0, "close": 112472000.0, "volume": 1.24866929}
+{"event": "market_data", "timestamp": "2026-09-28 09:14:00+00:00", "symbol": "BTC/KRW", "open": 112466000.0, "high": 112500000.0, "low": 112466000.0, "close": 112499000.0, "volume": 3.350564}
+{"event": "market_data", "timestamp": "2026-09-28 09:15:00+00:00", "symbol": "BTC/KRW", "open": 112499000.0, "high": 112560000.0, "low": 112495000.0, "close": 112560000.0, "volume": 0.98247092}
+{"event": "market_data", "timestamp": "2026-09-28 09:16:00+00:00", "symbol": "BTC/KRW", "open": 112560000.0, "high": 112627000.0, "low": 112496000.0, "close": 112496000.0, "volume": 0.70111039}
+{"event": "market_data", "timestamp": "2026-09-28 09:17:00+00:00", "symbol": "BTC/KRW", "open": 112496000.0, "high": 112496000.0, "low": 112396000.0, "close": 112492000.0, "volume": 1.16941726}
+{"event": "market_data", "timestamp": "2026-09-28 09:18:00+00:00", "symbol": "BTC/KRW", "open": 112492000.0, "high": 112492000.0, "low": 112490000.0, "close": 112490000.0, "volume": 0.37135084}
+{"event": "market_data", "timestamp": "2026-09-28 09:19:00+00:00", "symbol": "BTC/KRW", "open": 112491000.0, "high": 112601000.0, "low": 112483000.0, "close": 112601000.0, "volume": 2.64403471}
+{"event": "market_data", "timestamp": "2026-09-28 09:20:00+00:00", "symbol": "BTC/KRW", "open": 112601000.0, "high": 112609000.0, "low": 112471000.0, "close": 112604000.0, "volume": 1.17720448}
+{"event": "market_data", "timestamp": "2026-09-28 09:21:00+00:00", "symbol": "BTC/KRW", "open": 112508000.0, "high": 112626000.0, "low": 112508000.0, "close": 112625000.0, "volume": 0.67847693}
+{"event": "market_data", "timestamp": "2026-09-28 09:22:00+00:00", "symbol": "BTC/KRW", "open": 112625000.0, "high": 112626000.0, "low": 112540000.0, "close": 112544000.0, "volume": 0.29649525}
+{"event": "market_data", "timestamp": "2026-09-28 09:23:00+00:00", "symbol": "BTC/KRW", "open": 112544000.0, "high": 112544000.0, "low": 112501000.0, "close": 112503000.0, "volume": 0.29219991}
+{"event": "market_data", "timestamp": "2026-09-28 09:24:00+00:00", "symbol": "BTC/KRW", "open": 112503000.0, "high": 112503000.0, "low": 112474000.0, "close": 112500000.0, "volume": 1.40326084}
+{"event": "market_data", "timestamp": "2026-09-28 09:25:00+00:00", "symbol": "BTC/KRW", "open": 112500000.0, "high": 112503000.0, "low": 112499000.0, "close": 112503000.0, "volume": 0.99313692}
+{"event": "market_data", "timestamp": "2026-09-28 09:26:00+00:00", "symbol": "BTC/KRW", "open": 112503000.0, "high": 112503000.0, "low": 112497000.0, "close": 112500000.0, "volume": 2.25037171}
+{"event": "market_data", "timestamp": "2026-09-28 09:27:00+00:00", "symbol": "BTC/KRW", "open": 112500000.0, "high": 112500000.0, "low": 112400000.0, "close": 112456000.0, "volume": 0.93045402}
+{"event": "market_data", "timestamp": "2026-09-28 09:28:00+00:00", "symbol": "BTC/KRW", "open": 112455000.0, "high": 112455000.0, "low": 112400000.0, "close": 112417000.0, "volume": 0.09320185}
+{"event": "market_data", "timestamp": "2026-09-28 09:29:00+00:00", "symbol": "BTC/KRW", "open": 112417000.0, "high": 112417000.0, "low": 112398000.0, "close": 112398000.0, "volume": 1.25085091}
+{"event": "market_data", "timestamp": "2026-09-28 09:30:00+00:00", "symbol": "BTC/KRW", "open": 112398000.0, "high": 112398000.0, "low": 112393000.0, "close": 112397000.0, "volume": 0.20330529}
+{"event": "market_data", "timestamp": "2026-09-28 09:31:00+00:00", "symbol": "BTC/KRW", "open": 112397000.0, "high": 112397000.0, "low": 112379000.0, "close": 112380000.0, "volume": 0.65181858}
+{"event": "market_data", "timestamp": "2026-09-28 09:32:00+00:00", "symbol": "BTC/KRW", "open": 112380000.0, "high": 112380000.0, "low": 112373000.0, "close": 112378000.0, "volume": 1.1469402}
+{"event": "market_data", "timestamp": "2026-09-28 09:33:00+00:00", "symbol": "BTC/KRW", "open": 112378000.0, "high": 112379000.0, "low": 112370000.0, "close": 112378000.0, "volume": 1.18067277}
+{"event": "market_data", "timestamp": "2026-09-28 09:34:00+00:00", "symbol": "BTC/KRW", "open": 112378000.0, "high": 112378000.0, "low": 112358000.0, "close": 112358000.0, "volume": 0.94039853}
+{"event": "market_data", "timestamp": "2026-09-28 09:35:00+00:00", "symbol": "BTC/KRW", "open": 112358000.0, "high": 112376000.0, "low": 112358000.0, "close": 112358000.0, "volume": 0.91649588}
+{"event": "market_data", "timestamp": "2026-09-28 09:36:00+00:00", "symbol": "BTC/KRW", "open": 112376000.0, "high": 112376000.0, "low": 112300000.0, "close": 112308000.0, "volume": 3.60011481}
+{"event": "market_data", "timestamp": "2026-09-28 09:37:00+00:00", "symbol": "BTC/KRW", "open": 112308000.0, "high": 112320000.0, "low": 112260000.0, "close": 112260000.0, "volume": 5.59729693}
+{"event": "market_data", "timestamp": "2026-09-28 09:38:00+00:00", "symbol": "BTC/KRW", "open": 112260000.0, "high": 112267000.0, "low": 112210000.0, "close": 112224000.0, "volume": 1.76335188}
+{"event": "market_data", "timestamp": "2026-09-28 09:39:00+00:00", "symbol": "BTC/KRW", "open": 112240000.0, "high": 112249000.0, "low": 112150000.0, "close": 112191000.0, "volume": 6.02023042}
+{"event": "market_data", "timestamp": "2026-09-28 09:40:00+00:00", "symbol": "BTC/KRW", "open": 112191000.0, "high": 112197000.0, "low": 112165000.0, "close": 112166000.0, "volume": 0.66100647}
+{"event": "market_data", "timestamp": "2026-09-28 09:41:00+00:00", "symbol": "BTC/KRW", "open": 112180000.0, "high": 112180000.0, "low": 112111000.0, "close": 112111000.0, "volume": 3.845557}
+{"event": "market_data", "timestamp": "2026-09-28 09:42:00+00:00", "symbol": "BTC/KRW", "open": 112111000.0, "high": 112112000.0, "low": 112097000.0, "close": 112100000.0, "volume": 3.90236579}
+{"event": "signal", "timestamp": "2026-09-28 09:43:55.798544+00:00", "symbol": "BTC/KRW", "target_weight": 0.0, "strategy": "ema_cross", "reason": "EMA trend regime", "order_type": "MARKET", "limit_price": null}
+{"event": "portfolio", "timestamp": "2026-09-28T09:43:55.798544+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:43:55.526000+00:00", "bid": 112099000.0, "ask": 112103000.0, "bid_quantity": 0.00022363, "ask_quantity": 0.00178408}
+{"event": "portfolio", "timestamp": "2026-09-28T09:43:59.194728+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:43:58.326000+00:00", "bid": 112099000.0, "ask": 112106000.0, "bid_quantity": 0.00031284, "ask_quantity": 0.00690901}
+{"event": "market_data", "timestamp": "2026-09-28 09:43:00+00:00", "symbol": "BTC/KRW", "open": 112100000.0, "high": 112107000.0, "low": 112097000.0, "close": 112107000.0, "volume": 2.63537182}
+{"event": "signal", "timestamp": "2026-09-28 09:44:02.893370+00:00", "symbol": "BTC/KRW", "target_weight": 0.0, "strategy": "ema_cross", "reason": "EMA trend regime", "order_type": "MARKET", "limit_price": null}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:02.893370+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:02.026000+00:00", "bid": 112100000.0, "ask": 112107000.0, "bid_quantity": 0.00405298, "ask_quantity": 1.97093747}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:06.250012+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:05.426000+00:00", "bid": 112106000.0, "ask": 112107000.0, "bid_quantity": 0.0005, "ask_quantity": 1.96826146}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:09.606343+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:09.326000+00:00", "bid": 112100000.0, "ask": 112107000.0, "bid_quantity": 0.00186822, "ask_quantity": 1.84193342}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:12.962805+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:12.726000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.19511276, "ask_quantity": 1.50944128}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:16.321369+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:15.226000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.19511276, "ask_quantity": 1.47930156}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:19.675808+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:18.926000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.16378001, "ask_quantity": 1.36202176}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:23.032382+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:22.426000+00:00", "bid": 112100000.0, "ask": 112106000.0, "bid_quantity": 0.00074724, "ask_quantity": 0.00144988}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:26.385253+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:26.126000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.16337384, "ask_quantity": 0.85420977}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:29.735891+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:29.226000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.17433883, "ask_quantity": 0.91021625}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:33.087736+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:32.126000+00:00", "bid": 112100000.0, "ask": 112107000.0, "bid_quantity": 0.03399612, "ask_quantity": 0.89222336}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:36.438779+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:35.526000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.12018619, "ask_quantity": 0.87951637}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:39.796673+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:39.526000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.11309427, "ask_quantity": 0.86952586}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:43.149161+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:42.526000+00:00", "bid": 112099000.0, "ask": 112102000.0, "bid_quantity": 0.01690053, "ask_quantity": 6.228e-05}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:46.501657+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:45.626000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.01694514, "ask_quantity": 0.9391421}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:49.858602+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:49.226000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.02764548, "ask_quantity": 0.95915568}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:53.215086+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:53.026000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.02764548, "ask_quantity": 0.9315344}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:56.567516+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:55.426000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.02764548, "ask_quantity": 0.9297504}
+{"event": "portfolio", "timestamp": "2026-09-28T09:44:59.923448+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:44:58.826000+00:00", "bid": 112099000.0, "ask": 112107000.0, "bid_quantity": 0.0673028, "ask_quantity": 0.91471837}
+{"event": "market_data", "timestamp": "2026-09-28 09:44:00+00:00", "symbol": "BTC/KRW", "open": 112107000.0, "high": 112107000.0, "low": 112099000.0, "close": 112099000.0, "volume": 1.80807096}
+{"event": "signal", "timestamp": "2026-09-28 09:45:03.626899+00:00", "symbol": "BTC/KRW", "target_weight": 0.0, "strategy": "ema_cross", "reason": "EMA trend regime", "order_type": "MARKET", "limit_price": null}
+{"event": "portfolio", "timestamp": "2026-09-28T09:45:03.626899+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:45:02.426000+00:00", "bid": 112098000.0, "ask": 112099000.0, "bid_quantity": 0.00214267, "ask_quantity": 0.35251625}
+{"event": "portfolio", "timestamp": "2026-09-28T09:45:06.986812+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:45:06.426000+00:00", "bid": 112098000.0, "ask": 112099000.0, "bid_quantity": 0.00241029, "ask_quantity": 2.14778129}
+{"event": "portfolio", "timestamp": "2026-09-28T09:45:10.340119+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:45:09.126000+00:00", "bid": 112098000.0, "ask": 112099000.0, "bid_quantity": 0.0003, "ask_quantity": 2.18674981}
+{"event": "portfolio", "timestamp": "2026-09-28T09:45:13.695423+00:00", "feed_state": "NORMAL", "cash": 1000000.0, "equity": 1000000.0, "positions": {}, "unrealized_pnl": 0, "realized_pnl": 0, "fees": 0, "drawdown": 0.0, "risk_killed": false}
+{"event": "quote", "symbol": "BTC/KRW", "timestamp": "2026-09-28 09:45:12.926000+00:00", "bid": 112098000.0, "ask": 112099000.0, "bid_quantity": 0.00089206, "ask_quantity": 2.10093181}

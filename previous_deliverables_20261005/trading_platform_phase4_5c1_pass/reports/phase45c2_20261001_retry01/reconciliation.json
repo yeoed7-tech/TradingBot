@@ -1,0 +1,32 @@
+{
+  "status": "FAIL",
+  "mismatches": [
+    {
+      "field": "runtime_reconciliation",
+      "actual": "None",
+      "expected": "True"
+    }
+  ],
+  "integrity": "ok",
+  "duplicates": {
+    "orders": 0,
+    "fills": 0,
+    "client_order_ids": 0,
+    "ohlcv": 0
+  },
+  "computed": {
+    "cash": "899862.158201050000000000000000",
+    "fees": "50.043898950000000000000000",
+    "realized_pnl": "0",
+    "positions": {
+      "BTC/KRW": {
+        "quantity": "0.00087488",
+        "cost": "100137.841798950000000000000000"
+      }
+    }
+  },
+  "fills": 2,
+  "orders": 1,
+  "open_orders": [],
+  "cursor": "2026-10-01T16:38:00+00:00"
+}

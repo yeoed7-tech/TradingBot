@@ -1,0 +1,2 @@
+{"event": "feed_status", "timestamp": "2026-09-28 00:56:35.706642+00:00", "state": "FAILED", "reason": "PublicDataUnavailable: load_markets: ExchangeNotAvailable: upbit GET https://api.upbit.com/v1/market/all"}
+{"event": "kill_switch", "reason": "PublicDataUnavailable: load_markets: ExchangeNotAvailable: upbit GET https://api.upbit.com/v1/market/all"}

@@ -1,0 +1,190 @@
+{
+  "mode": "paper",
+  "status": "NORMAL",
+  "processed_bars": 480,
+  "normal_events": 7111,
+  "simulated_orders": 2,
+  "simulated_fills": 2,
+  "risk_killed": false,
+  "kill_reason": "",
+  "last_snapshot": {
+    "timestamp": "2026-10-02T23:12:41.353545+00:00",
+    "feed_state": "NORMAL",
+    "cash": "999908.614243060000000000000000",
+    "equity": "999908.614243060000000000000000",
+    "positions": {},
+    "unrealized_pnl": "0E-24",
+    "realized_pnl": "-91.385756940000000000000000",
+    "fees": "100.081956940000000000000000",
+    "drawdown": "-0.00023784622916159945848851116844657406459403745317871024536846737",
+    "risk_killed": false
+  },
+  "cache_sizes": {
+    "orders": 2,
+    "fills": 2,
+    "events": 1000,
+    "snapshots": 1000,
+    "trades": 1,
+    "execution_events": 2,
+    "risk_events": 0
+  },
+  "cache_limit": 1000,
+  "position_cost_basis": {},
+  "open_orders": [],
+  "risk_state": {
+    "peak": "1000146.495315580000000000000000",
+    "day_start": "1000000.0",
+    "week_start": "1000000.0",
+    "killed": false
+  },
+  "market_cursor": "2026-10-02T23:11:00+00:00",
+  "execution_backend": "SimulationBroker",
+  "return": "-0.00009138575694",
+  "max_drawdown": "-0.00031657733442000000000",
+  "started_at": "2026-10-02T17:12:44.147812+00:00",
+  "duration_seconds": 21600.0,
+  "source": "Upbit public API via ccxt.async_support",
+  "integration_success": true,
+  "writer_owner_id": "c907429f-4b7f-4c04-a685-e2ea844dda80",
+  "fencing_token": 1,
+  "metadata": {
+    "symbol": "BTC/KRW",
+    "base": "BTC",
+    "quote": "KRW",
+    "spot": true,
+    "precision": {
+      "price": 1e-08,
+      "amount": 1e-08
+    },
+    "limits": {
+      "leverage": {
+        "min": null,
+        "max": null
+      },
+      "amount": {
+        "min": null,
+        "max": null
+      },
+      "price": {
+        "min": null,
+        "max": null
+      },
+      "cost": {
+        "min": null,
+        "max": null
+      }
+    },
+    "account_access": false,
+    "fee_source": "configured paper assumption",
+    "rules_source": "https://docs.upbit.com/kr/docs/krw-market-info (checked 2026-09-28)",
+    "simulation_rules": {
+      "min_quantity": 0.0,
+      "price_tiers": [
+        [
+          1000000.0,
+          1000.0
+        ],
+        [
+          500000.0,
+          500.0
+        ],
+        [
+          100000.0,
+          100.0
+        ],
+        [
+          50000.0,
+          50.0
+        ],
+        [
+          10000.0,
+          10.0
+        ],
+        [
+          5000.0,
+          5.0
+        ],
+        [
+          100.0,
+          1.0
+        ],
+        [
+          10.0,
+          0.1
+        ],
+        [
+          1.0,
+          0.01
+        ],
+        [
+          0.1,
+          0.001
+        ],
+        [
+          0.01,
+          0.0001
+        ],
+        [
+          0.001,
+          1e-05
+        ],
+        [
+          0.0001,
+          1e-06
+        ],
+        [
+          1e-05,
+          1e-07
+        ],
+        [
+          0.0,
+          1e-08
+        ]
+      ],
+      "min_notional": 5000.0,
+      "price_tick": 1e-08,
+      "quantity_step": 1e-08
+    },
+    "effective_min_quantity": 1e-08,
+    "precision_source": "ccxt descriptor; not authenticated order-chance endpoint"
+  },
+  "ticker": {
+    "symbol": "BTC/KRW",
+    "timestamp": "2026-10-02 17:12:37.313000+00:00",
+    "last": 115300000.0
+  },
+  "fees": {
+    "symbol": "BTC/KRW",
+    "maker": 0.0005,
+    "taker": 0.0005,
+    "source": "configured paper assumption; no private fee endpoint called"
+  },
+  "stop_reason": "configured observation duration reached",
+  "reconciliation_ok": true,
+  "lease_token": 1,
+  "feed_metrics": {
+    "rest_requests": 7111,
+    "gap_events": 0,
+    "stale_events": 0,
+    "duplicate_events": 0,
+    "normal_events": 7111
+  },
+  "websocket_reconnects": 0,
+  "websocket_received": 169824,
+  "websocket_duplicate_events": 0,
+  "finished_at": "2026-10-02T23:12:44.445885+00:00",
+  "adapter_audit": {
+    "api_attempts": 363,
+    "api_successes": 363,
+    "transport": {
+      "public_http_attempts": 363,
+      "GET /v1/market/all": 1,
+      "GET /v1/ticker": 1,
+      "GET /v1/candles/minutes/1": 361
+    }
+  },
+  "real_order_http_requests": 0,
+  "real_cancel_http_requests": 0,
+  "private_http_requests": 0,
+  "blocked_requests": 0
+}

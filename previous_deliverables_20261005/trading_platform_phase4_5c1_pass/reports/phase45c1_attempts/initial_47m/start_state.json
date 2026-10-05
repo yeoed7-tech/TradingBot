@@ -1,0 +1,24 @@
+{
+  "status": "PARTIAL_RECONSTRUCTED_FROM_TOOL_OUTPUT",
+  "start": "2026-09-29T06:55:32.511885+00:00",
+  "pid": 2,
+  "source_sha256": "6cecd91566774272bcf389b142e88e6f70b23d81bc10a4d6b13e59de0f20af9f",
+  "config_path": "config/paper_upbit.toml",
+  "strategy": {
+    "name": "ema_cross",
+    "params": {
+      "fast": 20,
+      "slow": 100,
+      "weight": 0.1
+    }
+  },
+  "symbol": "BTC/KRW",
+  "timeframe": "1m",
+  "starting_cash": "1000000.0",
+  "database_path": "reports/phase45c1/paper_1h.sqlite3 (lost)",
+  "writer_owner_id": "85efd665-8e79-4b32-9245-8e11ee9c01bd",
+  "fencing_token": 1,
+  "initial_rss": 151920640,
+  "initial_db_size": 0,
+  "initial_log_size": 42313
+}

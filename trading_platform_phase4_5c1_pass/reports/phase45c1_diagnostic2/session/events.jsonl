@@ -1,0 +1,2 @@
+{"event": "feed_status", "timestamp": "2026-09-29 07:53:23.565056+00:00", "state": "FAILED", "reason": "no valid market event before deadline"}
+{"event": "kill_switch", "reason": "no valid market event before deadline"}

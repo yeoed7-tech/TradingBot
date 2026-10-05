@@ -1,0 +1,96 @@
+{
+  "independent_check": {
+    "status": "PASS",
+    "mismatches": [],
+    "integrity": "ok",
+    "duplicates": {
+      "orders": 0,
+      "fills": 0,
+      "client_order_ids": 0,
+      "ohlcv": 0
+    },
+    "computed": {
+      "cash": "999908.614243060000000000000000",
+      "fees": "100.081956940000000000000000",
+      "realized_pnl": "-91.385756940000000000000000",
+      "positions": {
+        "BTC/KRW": {
+          "quantity": "0E-8",
+          "cost": "0"
+        }
+      }
+    },
+    "fills": 2,
+    "orders": 2,
+    "open_orders": [],
+    "cursor": "2026-10-02T23:11:00+00:00"
+  },
+  "operational_checks": {
+    "integrity_check": "ok",
+    "lease": {
+      "owner_id": "",
+      "fencing_token": 1
+    },
+    "risk_state": {
+      "account": "paper",
+      "killed": 0,
+      "kill_reason": "",
+      "day": "2026-10-02",
+      "week": "[2026, 40]",
+      "day_start": "1000000.0",
+      "week_start": "1000000.0",
+      "peak": "1000146.495315580000000000000000",
+      "last_equity": "999908.614243060000000000000000",
+      "current_drawdown": -0.00023784622916159945,
+      "daily_loss_state": -9.138575694e-05,
+      "weekly_loss_state": -9.138575694e-05,
+      "consecutive_losses": 1,
+      "trades_seen": 1,
+      "state_json": "{\"trade_offset\": 0, \"trades\": [{\"symbol\": \"BTC/KRW\", \"strategy\": \"ema_cross\", \"opened_at\": \"2026-10-02T20:02:05.617781+00:00\", \"closed_at\": \"2026-10-02T23:12:04.935533+00:00\", \"pnl\": \"-91.385756940000000000000000\", \"quantity\": \"0.00086962\", \"holding_seconds\": 11399.317752}], \"tr\": {\"BTC/KRW\": [2000.0, 24000.0, 82000.0, 80000.0, 123000.0, 52000.0, 52000.0, 44000.0, 20000.0, 19000.0, 31000.0, 6000.0, 34000.0, 9000.0]}, \"previous_close\": {\"BTC/KRW\": 115151000.0}}"
+    },
+    "events": [
+      {
+        "level": "INFO",
+        "event": "STARTUP",
+        "message": "paper session started"
+      },
+      {
+        "level": "INFO",
+        "event": "SHUTDOWN",
+        "message": "paper session stopped"
+      }
+    ],
+    "orders": [
+      {
+        "internal_order_id": "9833a795-1283-4603-abe2-69f9ea06aa23",
+        "client_order_id": "9833a795-1283-4603-abe2-69f9ea06aa23",
+        "side": "BUY",
+        "status": "FILLED"
+      },
+      {
+        "internal_order_id": "41b5e7d6-2857-41a9-bc69-78fd2bdde9ec",
+        "client_order_id": "41b5e7d6-2857-41a9-bc69-78fd2bdde9ec",
+        "side": "SELL",
+        "status": "FILLED"
+      }
+    ],
+    "fills": [
+      {
+        "exchange_fill_id": "paper:9833a795-1283-4603-abe2-69f9ea06aa23:1",
+        "side": "BUY",
+        "quantity": "0.00086962",
+        "price": "115082000.0",
+        "fee": "50.038804420000000000000000",
+        "realized_pnl": "0"
+      },
+      {
+        "exchange_fill_id": "paper:41b5e7d6-2857-41a9-bc69-78fd2bdde9ec:1",
+        "side": "SELL",
+        "quantity": "0.00086962",
+        "price": "115092000.0",
+        "fee": "50.043152520000000000000000",
+        "realized_pnl": "-91.385756940000000000000000"
+      }
+    ]
+  }
+}

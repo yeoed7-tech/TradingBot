@@ -1,0 +1,84 @@
+......................................................................F. [ 57%]
+.......F..............................................                   [100%]
+================================== FAILURES ===================================
+______________ test_lease_blocks_ledger_write_and_second_process ______________
+
+tmp_path = WindowsPath('C:/Users/����/AppData/Local/Temp/pytest-of-����/pytest-1/test_lease_blocks_ledger_write0')
+
+    def test_lease_blocks_ledger_write_and_second_process(tmp_path):
+        import multiprocessing as mp
+        url,l=db(tmp_path)
+        a=WriterLease(l,'ema_cross',ttl=3);a.acquire();l.lease=a
+        def attempt(q):
+            other=PaperLedger(url)
+            try:WriterLease(other,'ema_cross',ttl=3).acquire();q.put('UNSAFE')
+            except LeaseLost:q.put('BLOCKED')
+>       q=mp.get_context('fork').Queue();p=mp.get_context('fork').Process(target=attempt,args=(q,));p.start();p.join(5)
+          ^^^^^^^^^^^^^^^^^^^^^^
+
+tests\test_phase45_hardening.py:64: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+..\..\..\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\multiprocessing\context.py:243: in get_context
+    return super().get_context(method)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <multiprocessing.context.DefaultContext object at 0x000002550B507380>
+method = 'fork'
+
+    def get_context(self, method=None):
+        if method is None:
+            return self
+        try:
+            ctx = _concrete_contexts[method]
+        except KeyError:
+>           raise ValueError('cannot find context for %r' % method) from None
+E           ValueError: cannot find context for 'fork'
+
+..\..\..\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\multiprocessing\context.py:193: ValueError
+__________ test_crashed_process_lease_expires_and_new_owner_recovers __________
+
+tmp_path = WindowsPath('C:/Users/����/AppData/Local/Temp/pytest-of-����/pytest-1/test_crashed_process_lease_exp0')
+
+    def test_crashed_process_lease_expires_and_new_owner_recovers(tmp_path):
+        import multiprocessing as mp
+        url,l=db(tmp_path)
+        def crash(q):
+            from trading_bot.persistence.ledger import PaperLedger
+            from trading_bot.persistence.lease import WriterLease
+            import os
+            child=PaperLedger(url);owner=WriterLease(child,'ema_cross',ttl=1)
+            q.put(owner.acquire());os._exit(72)
+>       q=mp.get_context('fork').Queue();p=mp.get_context('fork').Process(target=crash,args=(q,))
+          ^^^^^^^^^^^^^^^^^^^^^^
+
+tests\test_phase45_hardening.py:228: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+..\..\..\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\multiprocessing\context.py:243: in get_context
+    return super().get_context(method)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <multiprocessing.context.DefaultContext object at 0x000002550B507380>
+method = 'fork'
+
+    def get_context(self, method=None):
+        if method is None:
+            return self
+        try:
+            ctx = _concrete_contexts[method]
+        except KeyError:
+>           raise ValueError('cannot find context for %r' % method) from None
+E           ValueError: cannot find context for 'fork'
+
+..\..\..\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\multiprocessing\context.py:193: ValueError
+============================== warnings summary ===============================
+.venv\Lib\site-packages\fastapi\testclient.py:1
+  C:\Users\����\Documents\project_tradingBot\trading_platform_phase4_5c1_pass\.venv\Lib\site-packages\fastapi\testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+    from starlette.testclient import TestClient as TestClient  # noqa
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+FAILED tests/test_phase45_hardening.py::test_lease_blocks_ledger_write_and_second_process
+FAILED tests/test_phase45_hardening.py::test_crashed_process_lease_expires_and_new_owner_recovers
+2 failed, 124 passed, 1 warning in 44.49s

@@ -1,0 +1,217 @@
+{
+  "initial_cash": 1000000.0,
+  "bar_seconds": 60,
+  "live_trading": false,
+  "persistence": {
+    "enabled": true,
+    "database_url": "sqlite:///C:\\Users\\\uc740\ub3d9\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\paper_6h.sqlite3",
+    "account": "paper",
+    "lease_ttl": 30.0,
+    "single_writer": true,
+    "recent_cache_limit": 1000
+  },
+  "paper_trading": {
+    "exchange": "upbit",
+    "symbol": "BTC/KRW",
+    "timeframe": "1m",
+    "starting_cash": 1000000.0,
+    "fee_rate": 0.0005,
+    "slippage_bps": 5.0,
+    "poll_interval": 3.0,
+    "quote_source": "websocket",
+    "network_trust_env": true,
+    "ca_bundle_path": null,
+    "request_timeout": 15.0,
+    "stale_data_timeout": 90.0,
+    "quote_max_age": 10.0,
+    "clock_skew_tolerance": 2.0,
+    "warmup_bars": 120,
+    "page_size": 200,
+    "max_pages": 100,
+    "max_gap_bars": 1440,
+    "max_book_participation": 0.1,
+    "rules_source": "https://docs.upbit.com/kr/docs/krw-market-info (checked 2026-09-28)",
+    "market_rules": {
+      "min_quantity": 0.0,
+      "price_tiers": [
+        [
+          1000000.0,
+          1000.0
+        ],
+        [
+          500000.0,
+          500.0
+        ],
+        [
+          100000.0,
+          100.0
+        ],
+        [
+          50000.0,
+          50.0
+        ],
+        [
+          10000.0,
+          10.0
+        ],
+        [
+          5000.0,
+          5.0
+        ],
+        [
+          100.0,
+          1.0
+        ],
+        [
+          10.0,
+          0.1
+        ],
+        [
+          1.0,
+          0.01
+        ],
+        [
+          0.1,
+          0.001
+        ],
+        [
+          0.01,
+          0.0001
+        ],
+        [
+          0.001,
+          1e-05
+        ],
+        [
+          0.0001,
+          1e-06
+        ],
+        [
+          1e-05,
+          1e-07
+        ],
+        [
+          0.0,
+          1e-08
+        ]
+      ],
+      "min_notional": 5000.0,
+      "price_tick": 1e-08,
+      "quantity_step": 1e-08
+    },
+    "reconnect": {
+      "max_attempts": 3,
+      "base_backoff": 0.5,
+      "max_backoff": 8.0,
+      "max_consecutive_failures": 5
+    }
+  },
+  "strategy": {
+    "name": "ema_cross",
+    "params": {
+      "fast": 20,
+      "slow": 100,
+      "weight": 0.1
+    }
+  },
+  "execution": {
+    "fee_rate": 0.0005,
+    "slippage_bps": 5.0,
+    "delay_bars": 1,
+    "max_volume_participation": 0.01,
+    "expiry_bars": 4
+  },
+  "risk": {
+    "max_gross_weight": 0.3,
+    "max_symbol_weight": 0.2,
+    "daily_loss": 0.03,
+    "weekly_loss": 0.08,
+    "max_drawdown": 0.2,
+    "max_consecutive_losses": 5,
+    "max_price_jump": 0.5,
+    "max_slippage_bps": 100.0,
+    "sizing": "fixed_fractional",
+    "fixed_fraction": 0.1,
+    "risk_per_trade": 0.01,
+    "atr_multiple": 2.0,
+    "atr_period": 14,
+    "rebalance_tolerance": 0.005
+  },
+  "rules": {
+    "min_quantity": 0.0,
+    "price_tiers": [],
+    "min_notional": 10.0,
+    "price_tick": 0.01,
+    "quantity_step": 1e-06
+  },
+  "symbol_rules": {
+    "BTC/KRW": {
+      "min_quantity": 0.0,
+      "price_tiers": [
+        [
+          1000000.0,
+          1000.0
+        ],
+        [
+          500000.0,
+          500.0
+        ],
+        [
+          100000.0,
+          100.0
+        ],
+        [
+          50000.0,
+          50.0
+        ],
+        [
+          10000.0,
+          10.0
+        ],
+        [
+          5000.0,
+          5.0
+        ],
+        [
+          100.0,
+          1.0
+        ],
+        [
+          10.0,
+          0.1
+        ],
+        [
+          1.0,
+          0.01
+        ],
+        [
+          0.1,
+          0.001
+        ],
+        [
+          0.01,
+          0.0001
+        ],
+        [
+          0.001,
+          1e-05
+        ],
+        [
+          0.0001,
+          1e-06
+        ],
+        [
+          1e-05,
+          1e-07
+        ],
+        [
+          0.0,
+          1e-08
+        ]
+      ],
+      "min_notional": 5000.0,
+      "price_tick": 1e-08,
+      "quantity_step": 1e-08
+    }
+  }
+}

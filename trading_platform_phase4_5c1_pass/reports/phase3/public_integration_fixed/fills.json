@@ -1,0 +1,44 @@
+[
+  {
+    "order_id": "03048dc6-508e-46b4-841a-651334b146c1",
+    "timestamp": "2026-09-28 05:46:56.109765+00:00",
+    "symbol": "BTC/KRW",
+    "strategy": "public_integration_probe",
+    "side": "BUY",
+    "quantity": 0.00086073,
+    "price": 112860000.0,
+    "fee": 48.570993900000005,
+    "slippage": 50.352705,
+    "signal": "BUY",
+    "portfolio_value": 999901.0763011001,
+    "pnl": 0.0
+  },
+  {
+    "order_id": "03048dc6-508e-46b4-841a-651334b146c1",
+    "timestamp": "2026-09-28 05:46:59.606506+00:00",
+    "symbol": "BTC/KRW",
+    "strategy": "public_integration_probe",
+    "side": "BUY",
+    "quantity": 2.577e-05,
+    "price": 112877000.0,
+    "fee": 1.454420145,
+    "slippage": 1.687935,
+    "signal": "BUY",
+    "portfolio_value": 999906.541245955,
+    "pnl": 0.0
+  },
+  {
+    "order_id": "ea2b440c-103e-4ef8-ba9f-0eddeb00c4f6",
+    "timestamp": "2026-09-28 05:47:07.094963+00:00",
+    "symbol": "BTC/KRW",
+    "strategy": "public_integration_probe",
+    "side": "SELL",
+    "quantity": 0.0008865,
+    "price": 112743000.0,
+    "fee": 49.97333475,
+    "slippage": 58.95225,
+    "signal": "SELL",
+    "portfolio_value": 999795.8426612051,
+    "pnl": -204.1573387949902
+  }
+]

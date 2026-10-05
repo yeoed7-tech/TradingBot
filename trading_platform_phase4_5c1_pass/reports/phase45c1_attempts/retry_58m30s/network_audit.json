@@ -1,0 +1,10 @@
+{
+  "status": "NOT RUN",
+  "scope": "No final audit for 58m30s attempt",
+  "public_rest_count": null,
+  "public_websocket_count": null,
+  "private_api_count": null,
+  "order_http_count": null,
+  "cancel_http_count": null,
+  "reason": "Final adapter output lost; missing counts must not be inferred as zero."
+}

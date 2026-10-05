@@ -1,0 +1,12 @@
+{
+  "verdict": "PASS",
+  "paper_runtime_seconds": 3600.276096,
+  "soak_runner_seconds": 3602.00741444,
+  "wrapper_seconds": 3630.248656084,
+  "active_last_8m_rss_slope_B_per_hour": 1511312.701147244,
+  "active_last_8m_rss_delta_B": 155648,
+  "source_evidence_directory": "reports/phase45c1_run_20260930_approved",
+  "previous_runs_combined": false,
+  "new_features_added": false,
+  "environment_diagnostic": "Sandbox FastAPI TestClient hangs even for a minimal unrelated app; same project test passed outside sandbox. Approved execution used for full run."
+}

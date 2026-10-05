@@ -1,0 +1,38 @@
+initial_cash = 100000.0
+bar_seconds = 86400
+live_trading = false
+
+[strategy]
+name = "ema_cross"
+[strategy.params]
+fast = 20
+slow = 100
+weight = 0.4
+
+[execution]
+fee_rate = 0.001
+slippage_bps = 5.0
+delay_bars = 1
+max_volume_participation = 0.01
+expiry_bars = 4
+
+[risk]
+max_gross_weight = 0.8
+max_symbol_weight = 0.5
+daily_loss = 0.03
+weekly_loss = 0.08
+max_drawdown = 0.2
+max_consecutive_losses = 5
+max_price_jump = 0.5
+max_slippage_bps = 50.0
+sizing = "fixed_fractional"
+fixed_fraction = 0.35
+risk_per_trade = 0.01
+atr_multiple = 2.0
+atr_period = 14
+rebalance_tolerance = 0.005
+
+[rules]
+min_notional = 10.0
+price_tick = 0.01
+quantity_step = 0.000001

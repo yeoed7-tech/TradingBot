@@ -1,0 +1,10 @@
+{
+  "status": "PARTIAL",
+  "observed_start": "2026-09-29T15:36:01+00:00",
+  "writer_owner_id": "23a86bec-b5d5-4abe-af88-9ec7333c59c6",
+  "fencing_token": 1,
+  "source_state": "git unavailable; source hash of exact lost run unavailable",
+  "configuration": "config/paper_upbit.toml unchanged EMA20/100; BTC/KRW 1m; cash1000000",
+  "pid": null,
+  "evidence": "Reconstructed only from surviving tool output."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": "d08413a8-1a5f-406b-ad56-cc38ab59ca2a",
+    "timestamp": "2026-10-01 14:23:37.838986+00:00",
+    "symbol": "BTC/KRW",
+    "strategy": "ema_cross",
+    "side": "BUY",
+    "quantity": "0.00000533",
+    "price": "114360000.0",
+    "fee": "0.304769400000000000000000",
+    "slippage": "0.314470000000000000000000",
+    "fill_id": "paper:d08413a8-1a5f-406b-ad56-cc38ab59ca2a:1",
+    "signal": "BUY",
+    "portfolio_value": "999999.380760600000000000000000",
+    "pnl": "0"
+  },
+  {
+    "order_id": "d08413a8-1a5f-406b-ad56-cc38ab59ca2a",
+    "timestamp": "2026-10-01 14:23:40.882418+00:00",
+    "symbol": "BTC/KRW",
+    "strategy": "ema_cross",
+    "side": "BUY",
+    "quantity": "0.00086955",
+    "price": "114402000.0",
+    "fee": "49.739129550000000000000000",
+    "slippage": "68.694450000000000000000000",
+    "fill_id": "paper:d08413a8-1a5f-406b-ad56-cc38ab59ca2a:2",
+    "signal": "BUY",
+    "portfolio_value": "999881.064441050000000000000000",
+    "pnl": "0"
+  }
+]

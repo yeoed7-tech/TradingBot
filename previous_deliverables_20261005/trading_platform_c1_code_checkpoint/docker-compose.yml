@@ -1,0 +1,9 @@
+services:
+  research:
+    build: .
+    network_mode: none
+    volumes:
+      - ./reports:/app/reports
+    environment:
+      LIVE_TRADING: "FALSE"
+    command: ["python", "-m", "trading_bot.main", "demo", "--out", "/app/reports/demo"]

@@ -1,0 +1,10 @@
+{
+  "status": "ENVIRONMENT_LIMITATION",
+  "stage": "pre-regression",
+  "paper_started": false,
+  "sandbox_minimal_FastAPI": "timeout15s",
+  "sandbox_project_TestClient": "timeout20s; stack waits for AnyIO blocking portal",
+  "approved_same_project_test": "1 passed, 1 warning in 1.80s",
+  "action": "blocked wrapper and pytest terminated; fresh approved run completed",
+  "skipped_tests": 0
+}

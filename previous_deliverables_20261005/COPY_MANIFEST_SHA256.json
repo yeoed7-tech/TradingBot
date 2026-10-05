@@ -1,0 +1,3350 @@
+[
+  {
+    "Path": "trading_platform_phase45c2_6h_artifacts_20261003.zip",
+    "Bytes": 271381,
+    "SHA256": "E85BE21CE4A78974C473566BD7B56C2A688DE300C434674B7B5DF000AE307075",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase45c2_6h_artifacts_20261003.zip"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\.dockerignore",
+    "Bytes": 97,
+    "SHA256": "0749DC12E73B6C0DA5E10AE3D507D4F415BC65A9BEF44FC4BA83CFE209B83D9B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\.dockerignore"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\.env.example",
+    "Bytes": 65,
+    "SHA256": "8E718AC9C684B09342358E2FC54BA96F2BA073CFC404DEC7785502E1ED2F0B6A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\.env.example"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\.gitignore",
+    "Bytes": 122,
+    "SHA256": "FCB2C7E722B8C77CAB7DB26EC2257DE1FAD5547E78D35E0E6C51F9603F682C5A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\.gitignore"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\alembic.ini",
+    "Bytes": 91,
+    "SHA256": "9815704EEC7208BFDF136AE6A0AC7DCC764DAE768126A22BBD4CB686ED18CC14",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\alembic.ini"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docker-compose.paper.yml",
+    "Bytes": 279,
+    "SHA256": "0C4A7677286DB4500C7197A7084E6BD119BFD89DE6413B6D66282676D43DEA7D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docker-compose.paper.yml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docker-compose.postgres.yml",
+    "Bytes": 326,
+    "SHA256": "55EBBEF698259645E9255A1F9BF578F6B347BC70932FAAB3C8DA93E5416A5970",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docker-compose.postgres.yml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docker-compose.yml",
+    "Bytes": 235,
+    "SHA256": "77A1B40F8CAB4B0FF8239EF10BD815AAEC68D93B01F27BC16CA7CDD3E2EF6129",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docker-compose.yml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\Dockerfile",
+    "Bytes": 381,
+    "SHA256": "AB2A55B347D143CF3B3433724F2B4511EEB8B9220262664507BB15EC2DF3CDF9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\Dockerfile"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\main.py",
+    "Bytes": 72,
+    "SHA256": "7E84583569B511CB2122E8EE9D763C93E58FCC3AEF34504BAF76DBEDEA3D0A44",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\main.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\MANIFEST.sha256.json",
+    "Bytes": 35471,
+    "SHA256": "C5F005C88D28FF8CD67C58FE47162EFC7CBF9532D01E3801C55AE01C04142BFC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\MANIFEST.sha256.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\pyproject.toml",
+    "Bytes": 720,
+    "SHA256": "921088C09F283851C208D3934A51809017AE94E2DFD77AA983BDC47D55C0CCE0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\pyproject.toml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\README.md",
+    "Bytes": 11805,
+    "SHA256": "2A89E86B162EA078D44DFC388E7F692C13B198858AFA5C284FB1EA5FAB5114BD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\README.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\requirements.txt",
+    "Bytes": 212,
+    "SHA256": "AEE741D172216356693101FA5FCDBB9533B139B61DF23CAFD92B1B742D799796",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\requirements.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\__main__.py",
+    "Bytes": 41,
+    "SHA256": "6A1195A688C9775F37DF8D0E72278F068216AD32452FD4F3463C7BA3736D5352",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\__main__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\main.py",
+    "Bytes": 4672,
+    "SHA256": "5EAD4BDABA87BE58363AE6D90EE0DAFA7629135B12654E2218DB74BA048C5885",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\main.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\__init__.py",
+    "Bytes": 227,
+    "SHA256": "C77B35CCA629C1386F54CC226EE1ADAACD0CCC6FBFD905F06EB408CD0BCC0794",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\base_strategy.py",
+    "Bytes": 1519,
+    "SHA256": "7E6915464472C2EB982FFC43E9D84D337550A5C12FF52AFDEDFAA155295D78C5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\base_strategy.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\breakout_strategy.py",
+    "Bytes": 1319,
+    "SHA256": "F12C9B3BDDE11A15C023BAAB30E0DA9EA392655661D8A5B3E4D524D41FC9934D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\breakout_strategy.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\ema_cross.py",
+    "Bytes": 1159,
+    "SHA256": "EDCD8D9D991892185C3392ADD87E9747ED76521F84AE7AE19E61B35CACB07A05",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\ema_cross.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\ensemble.py",
+    "Bytes": 1017,
+    "SHA256": "094DCA1F0003E6E3519A3649A7C4D1A517581F5547AB04D251218A761EB65A57",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\ensemble.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\laure_infinite.py",
+    "Bytes": 2527,
+    "SHA256": "A4EE5D23D369902AEA64558100A219F4648E3191A7EDA53390141E1CFF229BD4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\laure_infinite.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\rsi_strategy.py",
+    "Bytes": 1726,
+    "SHA256": "84E997AE1C026CCE7F30886BD658B291D95962E8CEBFA1058051E389BA34DF88",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\strategies\\rsi_strategy.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\__init__.py",
+    "Bytes": 74,
+    "SHA256": "8D10FB1CE558DE17E8748F2A287642AA148676453B74012EFA1BF31CA82B1DDD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\decimal_type.py",
+    "Bytes": 804,
+    "SHA256": "C57DA691281DDCC5FA7D2C370F9634E819D5FE23A69517473A2C8AA2CE24C40B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\decimal_type.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\lease.py",
+    "Bytes": 4799,
+    "SHA256": "99E0607092A21B8D7D3F4A8EACB6B4FDB4FA435CE33D5184D02B5243D89DEB6D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\lease.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\ledger.py",
+    "Bytes": 25302,
+    "SHA256": "32DE5AD47FFA0B07A4AE6AC3C7F5F8059D25564C321183BE37656E92DA7B4685",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\ledger.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\models.py",
+    "Bytes": 8683,
+    "SHA256": "9A3AE8483E963A161DF8947B0ABF1D8CDEA49B56CB2D16D902677065894B1822",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\models.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\retention.py",
+    "Bytes": 1182,
+    "SHA256": "D4784FA33F8D0C918390AB45D320E33CD0C8730F2D5F1D0A9A755A6C3FA8723E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\retention.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\runtime.py",
+    "Bytes": 8003,
+    "SHA256": "12BE0A2E1DE8C1B6906736BE33B3C164D5BD6E630890C32F9720F7F2E3D807AA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\persistence\\runtime.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\paper_trading\\__init__.py",
+    "Bytes": 39,
+    "SHA256": "66FD147D5C7AA4A79E5A8387329A4633F5D97D33C22E7E5C4C422B94D08F452F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\paper_trading\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\paper_trading\\engine.py",
+    "Bytes": 10099,
+    "SHA256": "26E8DE418100D569BE8ADE3EBA9A0C07AD603BC060B1672344CF4E78BB0C52F5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\paper_trading\\engine.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\paper_trading\\runner.py",
+    "Bytes": 7838,
+    "SHA256": "5BC913FFB312867495184CC746F1861CAE6ADF29A9D68147429E7677B39A6DD1",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\paper_trading\\runner.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\monitoring\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\monitoring\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\monitoring\\events.py",
+    "Bytes": 561,
+    "SHA256": "68F43D6AF68E9BA979B12848C62781E0CEAB2DA076050AAF6B24326FD7B02A58",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\monitoring\\events.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\monitoring\\rotating.py",
+    "Bytes": 1215,
+    "SHA256": "8C8764F2217C7303CAC0A3C9EDA01905D4C1BB1169D4F6BCE2C77C09AE3B66E1",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\monitoring\\rotating.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\data\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\data\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\data\\feeds.py",
+    "Bytes": 6047,
+    "SHA256": "1499477381C11519D94D23C9D700B4DCA25F978A556D625FD33A79128331BBD9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\data\\feeds.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\data\\market_data.py",
+    "Bytes": 3390,
+    "SHA256": "2C1EE2485541AEBFAD0FC3C89B0941754357CC8612F5DDC5CE232C915CF2BD4F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\data\\market_data.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\data\\upbit_ws.py",
+    "Bytes": 3482,
+    "SHA256": "05F7E87E8527385E1376FF502195B01F53C3E78AED9809148728843086BDFCC9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\data\\upbit_ws.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\session.py",
+    "Bytes": 1720,
+    "SHA256": "3AF53C113BD13230A028BF3B7D2C2D7494761C21C1DCF0FBC76033D12ADD8DDF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\session.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\risk\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\risk\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\risk\\engine.py",
+    "Bytes": 3942,
+    "SHA256": "B00FEEF5736BE783169DA50C9D9F5AE08510A69FD5927A0084BA8CB00FFE03AC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\risk\\engine.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\portfolio\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\portfolio\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\portfolio\\engine.py",
+    "Bytes": 4046,
+    "SHA256": "3FAA6B1790C9124D17F4974A5ABBBEAFE60ECB1C1E152DA71A28C6649A0D0917",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\portfolio\\engine.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\portfolio\\precision.py",
+    "Bytes": 1574,
+    "SHA256": "4D57CC1D9D18D02BA41C096625DDE4D4264DDD5833F06C4E327B11E055C530B5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\portfolio\\precision.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\execution\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\execution\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\execution\\engine.py",
+    "Bytes": 6524,
+    "SHA256": "267B8CE589203A3E00A9831A2F7954BE2507E8CF8210DF6872D3768BFDBC082D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\execution\\engine.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\base.py",
+    "Bytes": 733,
+    "SHA256": "B5601193163316A8996507FC89746360556E5CEE99D1F1C16EDD25CB394CAA40",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\base.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\mock.py",
+    "Bytes": 1667,
+    "SHA256": "2B85ED3481F6523C6C0F59F05AF74419F5C95EDE219C91E4D750C9A44A8C240C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\mock.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\public.py",
+    "Bytes": 1463,
+    "SHA256": "D11A618F31E9F81251E0EAFC6FFD13D13B3C14AEDF8B95A3C8ED285F88C43F0F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\public.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\upbit_public.py",
+    "Bytes": 7879,
+    "SHA256": "8A60FA3138896BF38F459C0611C25940341D6AFE269A2BA540709ACC1D830E95",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\exchange\\upbit_public.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\events\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\events\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\events\\market.py",
+    "Bytes": 2186,
+    "SHA256": "44D6EC41D2B72B8111F3F976C54CF2D43A1653AA818DE93A2A54BB5C39E6A2F0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\events\\market.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\core\\events\\models.py",
+    "Bytes": 3416,
+    "SHA256": "0E194DB1A53C7095520E6117545010972E6041ED2522E822E39FA85C0E7EF177",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\core\\events\\models.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\config\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\config\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\config\\settings.py",
+    "Bytes": 5499,
+    "SHA256": "463EC2389F2FCAEE354186EB1CD45380CF60177074E1B791016A0FFC1CD140BD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\config\\settings.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\backtest\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\backtest\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\backtest\\engine.py",
+    "Bytes": 4634,
+    "SHA256": "A2C236A6F432C6406A02DB6D48128DAAC6CDC04C55F65F8C440B8E189F28774E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\backtest\\engine.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\backtest\\validation.py",
+    "Bytes": 4480,
+    "SHA256": "BC35E0735BFEC2BC7B6A47C77E4065688C47D0DB988A22C4C5BA00D87457D05B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\backtest\\validation.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\api\\__init__.py",
+    "Bytes": 32,
+    "SHA256": "BF937B038AB9951532E97D1472D02FC48ADA0CDA346D414752B15303A0091A1F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\api\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\api\\app.py",
+    "Bytes": 5785,
+    "SHA256": "197CA349D6E8867983F6F4ACA1C26ADC904FB2BA957B705C37C819DF6300BA11",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\api\\app.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\analytics\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\analytics\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\analytics\\metrics.py",
+    "Bytes": 2252,
+    "SHA256": "20FAB3DD6CDEFF92F22C4BED87FCAB82102EC81FA9E42A472D37C857772D324A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\analytics\\metrics.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\trading_bot\\analytics\\report.py",
+    "Bytes": 6240,
+    "SHA256": "14373DBF10B108306D8468E2DE05CD20EBF03D1B91259DFC5ACA1F29432B94E9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\trading_bot\\analytics\\report.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tools\\upbit_connection_diagnostics.zip",
+    "Bytes": 20252,
+    "SHA256": "7B1E8FDD173812B090FC1EC43A0D086B5661BC1D1FF912BB9FAB859FB4C592B1",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tools\\upbit_connection_diagnostics.zip"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\conftest.py",
+    "Bytes": 1162,
+    "SHA256": "D3C270AE0AC9FAE18EAE0198C55D3C83BAB899F39256FFF1F3FE8AE934308441",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\conftest.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\test_core.py",
+    "Bytes": 9380,
+    "SHA256": "6D614D3B1EE1004B47FCD018D9429716731523E2C905E9E1718E83EBB7D86966",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\test_core.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\test_phase3_adapter.py",
+    "Bytes": 10472,
+    "SHA256": "AC59D00394B05A401529A080C5B05F07D905F58DDF257B360F7D608F1E02EEC0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\test_phase3_adapter.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\test_phase3_feed.py",
+    "Bytes": 4503,
+    "SHA256": "278B1F4B049D5F47AC1F4DEF018B18E1A8B4BD0C3F6FAC2E3F87970F5EB5FEB4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\test_phase3_feed.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\test_phase3_paper.py",
+    "Bytes": 13165,
+    "SHA256": "5F4C765E08B02FCFB288AD33DB5252E8C10A4CDDC531C81907B9923F267CD1B4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\test_phase3_paper.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\test_phase4_persistence.py",
+    "Bytes": 15619,
+    "SHA256": "96D0186A989772E112A7F113404B873E6F751B6AE07107E412866005C1168F74",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\test_phase4_persistence.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\test_phase45_hardening.py",
+    "Bytes": 14770,
+    "SHA256": "035FCC9BB3CC52CD6B86440492B4DDE4A6C7F1AA06B0470F42F7DD90B1FF7DFF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\test_phase45_hardening.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\test_phase45b_precision.py",
+    "Bytes": 11018,
+    "SHA256": "2B145D27CD52FD96DC2A31613106AF21F6D1AC2BC920A3F85769AE7879D2EB81",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\test_phase45b_precision.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\tests\\test_research.py",
+    "Bytes": 4403,
+    "SHA256": "5A0D4CEDBF9DFB1EFD320ADA42C613F2BC8B37E4C81A555612CB645327A87A18",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\tests\\test_research.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\scripts\\benchmark_feed.py",
+    "Bytes": 894,
+    "SHA256": "A37F2155FCA5F1587C2C61A38344B8B01B33BFD5637BB91919F93FD1F8F4EEE5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\scripts\\benchmark_feed.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\scripts\\phase45c1_accept.py",
+    "Bytes": 17066,
+    "SHA256": "86E6460F980CE1D5949D040371E997295844300B56D6DD4593B4DCCA89C44868",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\scripts\\phase45c1_accept.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\scripts\\public_integration.py",
+    "Bytes": 1377,
+    "SHA256": "837E2FB36E72D7DB80AB8370ACD3F71F0366AB883B8215A66D203E63FFFDEB87",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\scripts\\public_integration.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\scripts\\reconcile_paper.py",
+    "Bytes": 2277,
+    "SHA256": "5D1E1A0DD8D80E288E005AE9320D8FF28ED06A9F4641CD9254484E5911477116",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\scripts\\reconcile_paper.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\scripts\\soak_paper.py",
+    "Bytes": 6163,
+    "SHA256": "C10CFF26698E1793165FDBA929F97E97EE287451275398103CE12B8D3210828C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\scripts\\soak_paper.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\scripts\\verify_postgres.py",
+    "Bytes": 3446,
+    "SHA256": "C7A4C325F1974F98AF7D95CB2B4D5853E710ECD0607AAEF9D007CB73E6D378C6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\scripts\\verify_postgres.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo_run.txt",
+    "Bytes": 1105,
+    "SHA256": "38502CFC47AB4DB1F7D8A147E2621093B1309C7D012199EF2E96FE24A35EE363",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo_run.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\environment.json",
+    "Bytes": 217,
+    "SHA256": "E8966D2E7AEAE62797DB888ED9100D853FC4F2773C94E31BDA833E6F3AEC5ED4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\environment.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase1_tests.txt",
+    "Bytes": 99,
+    "SHA256": "79177054A6156CFB71A514B95D71B963DDEEAFAE8C4DFE042AF32A8012E95476",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase1_tests.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase2_tests.txt",
+    "Bytes": 99,
+    "SHA256": "633E94B1F5F31868282C3747277FB33B0560F329488E867BA094A51DAF3F39DF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase2_tests.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_backtest_comparison_new.jsonl",
+    "Bytes": 314,
+    "SHA256": "8A9DA47826629AAD6E0750948BB326BF1229B144CB99FD6E9C564E72640ABDD6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_backtest_comparison_new.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_backtest_comparison_old.jsonl",
+    "Bytes": 314,
+    "SHA256": "7367BA0D89DB669DAC21CF4EA1CE6D9D4FF76A3BC3E20D30097693FA7C40A6FA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_backtest_comparison_old.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_pytest.txt",
+    "Bytes": 674,
+    "SHA256": "FB40138849FF2174A7E48FF289E30D6E4681D33B121A21B9503F99A66CCFFE7D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_pytest.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_regression_after.txt",
+    "Bytes": 674,
+    "SHA256": "B3DB6834F7237763732F23195FD5A8E4DC4EBDBAE733FAA106BFBCB451BCE55B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_regression_after.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single_run.txt",
+    "Bytes": 547,
+    "SHA256": "C70860A1A8303475DBDA58A32673C11C84AFCCC8A5A990C768D7106E9A473822",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single_run.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\verification.txt",
+    "Bytes": 341,
+    "SHA256": "5F5FE99D9FBE173A8C78DE1A2C14C6AF743F643E55E51B1808DBAB1B3F915041",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\verification.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\walk_forward_run.txt",
+    "Bytes": 5192,
+    "SHA256": "38ACBB313C5851CA9FF36D4729DC874CE3015EE8950227ADABB96EFE39560B23",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\walk_forward_run.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\walk_forward\\validation.json",
+    "Bytes": 5113,
+    "SHA256": "236D34FEADF4E3B17651FF8138EC9609E8623334BB8761CF35B2B278BFDD2158",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\walk_forward\\validation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\soak_6h\\runtime_self.jsonl",
+    "Bytes": 35405,
+    "SHA256": "7E5E3944EB51F3F720426733C5298BD7256DE0DAF663DF93B693B201BAD49364",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\soak_6h\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\soak_6h\\soak.json",
+    "Bytes": 175251,
+    "SHA256": "6B3909BCA88563810F9A9612BAD1D2C7E1A2261BE971303A70B8E020FFE66BDE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\soak_6h\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\config.json",
+    "Bytes": 4190,
+    "SHA256": "ADBAF27E97F29E4C6B152695468F0D0F9DD3043A50B482DFFB4C05F1D80D4851",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\events.jsonl",
+    "Bytes": 365680,
+    "SHA256": "BF4C3EFEC2A755DD1AC66E686740225296BBF902A2C3DB755B0708317A62693B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\fills.json",
+    "Bytes": 513,
+    "SHA256": "EB935ABCA878CB1D94F06473B423DDB3240C6901A7F9A3B9DA37FFBEC8C0F5A0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\orders.json",
+    "Bytes": 402,
+    "SHA256": "A18BCAA93BCF8366160905612F0D5C46338856A042FA744CE03B1C2458688CA1",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\snapshots.json",
+    "Bytes": 653105,
+    "SHA256": "E42BAFDD1AF37AFDC397AA4A169939C51FEDBC3A171F7FF465875548DA9A693B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\summary.json",
+    "Bytes": 4739,
+    "SHA256": "A9B5A12876F2F6EAB2888FE7F671B840E24520A1C50A653D8C2FEB3679A86543",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\soak_6h\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\charts.png",
+    "Bytes": 216950,
+    "SHA256": "7AFCF5CEF9B4410F26F40AEF463113F1A813664D67279C7FD42AA9E8A439F82E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\charts.png"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\equity.csv",
+    "Bytes": 82507,
+    "SHA256": "C198D7BA4AF128B4421B073C98D383629181EDD697682B453BD76A461A909260",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\equity.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\events.jsonl",
+    "Bytes": 1075643,
+    "SHA256": "32BA65D59E61EAA2106801EEECD2EB62F63AF7B7C3374BD38608782A169E8858",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\fills.csv",
+    "Bytes": 5918,
+    "SHA256": "AF49DB755FAA4E56E68EAB70998D04D49451BD0F51C5885354F256C3C6B67F85",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\fills.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\index.html",
+    "Bytes": 2775,
+    "SHA256": "D7495B8D20E130F9BEC0AA7ED180D398F1520884E2E566F9480FACD7B1FD3299",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\metrics.json",
+    "Bytes": 3197,
+    "SHA256": "680DC19CE3C748B151FDA4F4FE9510C9B069DEAF60EB40B6FD46CFEAE1F35EDD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\metrics.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\monthly_returns.csv",
+    "Bytes": 1022,
+    "SHA256": "FF7F80914FD6BF070F9EA48259B944AA1F294326CABA26D57F1369CB4A7761CF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\monthly_returns.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\orders.csv",
+    "Bytes": 4325,
+    "SHA256": "13BAD8A4919B4242ADD519072B178049C361B3C14AF7A5029E05F9AFF597FC73",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\orders.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\single\\trades.csv",
+    "Bytes": 519,
+    "SHA256": "8B28515DEF019130ABC3C04C5F89D9F4AA329F248CAFD31E868ED83D1802E2E9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\single\\trades.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\keepawake.ps1",
+    "Bytes": 560,
+    "SHA256": "6C949670777C22835BF38519C42117F9E9B1F77DB0CFE06283DD575CD7417EA6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\keepawake.ps1"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\keepawake.stderr.log",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\keepawake.stderr.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\keepawake.stdout.log",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\keepawake.stdout.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\paper_6h.sqlite3",
+    "Bytes": 1814528,
+    "SHA256": "3AFA9A9D48AE77A86A5E774A1E625936ECBCD2292D382B760D00B49C839D2613",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\paper_6h.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\process.stderr.log",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\process.stderr.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\process.stdout.log",
+    "Bytes": 152,
+    "SHA256": "045F7368FEF7171ECE149B40635567CBAA1BF95FD5A59B7B1379B50771535723",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\process.stdout.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\pytest_full.txt",
+    "Bytes": 4535,
+    "SHA256": "703FAD01C086FA02AC29DB543A3C540C66F5B4515ABCD959589012AEAD97563C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\pytest_full.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\pytest_windows_compatible.txt",
+    "Bytes": 733,
+    "SHA256": "4F23C3E4A49C2B070900F87BF70CFB3DE98AF985482D09AFF78024C5D6CAF698",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\pytest_windows_compatible.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\reconciliation.json",
+    "Bytes": 3098,
+    "SHA256": "111E8D94E839F2AC087FCD5070B6D36D72CBE31939AE41ED9FE11F5E3A440C6F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\runtime_self.jsonl",
+    "Bytes": 61293,
+    "SHA256": "D22A2ED85AD666562A7AAE0083ACDCCC3D2293DD294944A37144FBE2DD0F564E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\soak.json",
+    "Bytes": 297637,
+    "SHA256": "83433A2ED3FE223C3C8F23A0360CCD6255702BBC1A93630EEEEDAE85EDFDCA36",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\config.json",
+    "Bytes": 4214,
+    "SHA256": "97BA160E5F9AD29505B548803BC936A4831F15D96DC1A64FA109695DB1FC39B4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\events.jsonl",
+    "Bytes": 366804,
+    "SHA256": "0FA0F0976624C44BE398DC6EC8EAE8A394EC0C3BA578BB5075F8ABD1631B3FD6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\fills.json",
+    "Bytes": 1052,
+    "SHA256": "C4398019520850D12FF8370541DB3128DFFDE35C41F743DEE8BDC22CC042188B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\orders.json",
+    "Bytes": 802,
+    "SHA256": "0FBAD21C6DBC36C503C76DD413728F4833F75D92729155B4FEB801CAFD095B4E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\snapshots.json",
+    "Bytes": 651753,
+    "SHA256": "20D41D42AECD2C0D4E301C6A37BE74615291DA9E62D515FBE3683906CD338685",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\summary.json",
+    "Bytes": 4441,
+    "SHA256": "2F040A2A496B76B57AAF01A3473CA588429C9DD000BBEE3397D800BDE2771F3C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261003_retry01\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\keepawake.ps1",
+    "Bytes": 576,
+    "SHA256": "2437219B706435A3652571A6DAA6D2214ECFE32B247900D7AB2721C0D477D0A7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\keepawake.ps1"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\keepawake.stderr.log",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\keepawake.stderr.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\keepawake.stdout.log",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\keepawake.stdout.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\paper_6h.sqlite3",
+    "Bytes": 851968,
+    "SHA256": "0489CCE6ED4E326DC0DE534DCCC3260402CC45C71C11E7CA3B8C8F17982EE453",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\paper_6h.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\process.stderr.log",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\process.stderr.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\process.stdout.log",
+    "Bytes": 152,
+    "SHA256": "EAE548538B1613A508FE5AEB9F212F726C0BB9BF365E4C206E909BBEEDCD0114",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\process.stdout.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\runtime_self.jsonl",
+    "Bytes": 31010,
+    "SHA256": "21765E0FDA48EA1F7E2D56D0B438FDE293619BFCC8E98D56EACE597E6074ECD9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\soak.json",
+    "Bytes": 155329,
+    "SHA256": "7AEE1AEB0F19ABDAE236AAF3BD515FBE9BFB242FB41203E65FB49DE3E7A39EDA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\windows_process_metrics.csv",
+    "Bytes": 11701,
+    "SHA256": "45E53140C86E11B8804D5887E8E9D6BCC92A1619994F86784B974C2929EF49F6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\windows_process_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\config.json",
+    "Bytes": 4214,
+    "SHA256": "CA0AA1DD1AD52BB00B21D75A29453FED7A8B0F9F2DB3AF475B60A16449A99548",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\events.jsonl",
+    "Bytes": 247709,
+    "SHA256": "EAFAF9D014363178ABD24FAC28F40530F787EDA89605A8DF7814BA8863E4EE2C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\fills.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\orders.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\snapshots.json",
+    "Bytes": 352003,
+    "SHA256": "0203E26EE45954A8847610EF37D84ACE376494B9793510AF24F5543B4ADCB0E2",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\summary.json",
+    "Bytes": 4349,
+    "SHA256": "B51F2B41725B1B4896015A9F146767FBB1CE5489BEFFEE82573DC2309711477D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry03\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\paper_6h.sqlite3",
+    "Bytes": 1134592,
+    "SHA256": "9D537CFC87991ACE1944364AB0EC054DEA6B5B6BB45C7F61BC8C32324118333A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\paper_6h.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\process.stderr.log",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\process.stderr.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\process.stdout.log",
+    "Bytes": 152,
+    "SHA256": "F6747F6C7141BB5DAEBCF1802440F2AEF1F92A923639A37A267372E4EF9AF115",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\process.stdout.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\runtime_self.jsonl",
+    "Bytes": 37858,
+    "SHA256": "8F7B26CB939663849F9DB1DB9E45E4692FE8BF9FCD17213D0066EFD7DB7D17AF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\soak.json",
+    "Bytes": 188766,
+    "SHA256": "A30B518E0C5A55AA76397A45A1563099443CC271C66DE683CF1279FBC9C5556E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\windows_process_metrics.csv",
+    "Bytes": 11695,
+    "SHA256": "3FBA6D68F9F98A4D853A18AEE0C4470F3474DCDADF9F59F1A9C019808C29E2C6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\windows_process_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\config.json",
+    "Bytes": 4214,
+    "SHA256": "6AB1B60796F9DE76E2DE7B29EFE2A3025E7882F0BE3C69C58E3AECC85A739DDF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\events.jsonl",
+    "Bytes": 357834,
+    "SHA256": "1D6C71E283E01A30686638155921303BF30D3A6D849D5F255FB0A3C12FACF2F0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\fills.json",
+    "Bytes": 1052,
+    "SHA256": "27C12371866BF61D580C87D534A54037A40E04C4C3220257361E8D496BBDF260",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\orders.json",
+    "Bytes": 802,
+    "SHA256": "1FEB34B800678E4A5D850DDB1F2D9C7090A619FA24A262E90DE8FED9F22780B5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\snapshots.json",
+    "Bytes": 641183,
+    "SHA256": "96C9720C162AAA4580FA4D63FA0D545EB24D5B74619D5702A611571032D29A6E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\summary.json",
+    "Bytes": 4511,
+    "SHA256": "9E4678C529B7BB0BE783A349FE09F0A08B0DF32BB12E32434EF4A716C5FF4B4E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261002_retry02\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\paper_6h.sqlite3",
+    "Bytes": 876544,
+    "SHA256": "5BD74E2B038F29882A32AD5EF066870CA8E04A807272D1779DADD04ED97EC264",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\paper_6h.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\reconciliation.json",
+    "Bytes": 660,
+    "SHA256": "C075750F742E5173FF7D2DD6E7605B55266449780330603CE925AE71A0E71A7C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\runtime_self.jsonl",
+    "Bytes": 30558,
+    "SHA256": "2076C456B043D1F157436FD09ED661471287C3A4086206345CFF689E20E89E4A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\soak.json",
+    "Bytes": 153327,
+    "SHA256": "D42D605539A69816B07A7EB857DC8189A0D8E5F716E86F98464093A841FD8460",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\windows_process_metrics.csv",
+    "Bytes": 8550,
+    "SHA256": "C0A0B8034317143E2A326108F57297EF11039E3B8CDC38E85F3ADC6FE0241321",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\windows_process_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\config.json",
+    "Bytes": 4214,
+    "SHA256": "61A04162F66C0475226775037877E85BED4A6F5492D33E624010838E641383F7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\events.jsonl",
+    "Bytes": 365740,
+    "SHA256": "2CE9FD3F704EFBCFA0CFE8D3C3C7B15F34DD81C5BF41986E22D63174EA1FD521",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\fills.json",
+    "Bytes": 1021,
+    "SHA256": "FB8DFABFF6DE843DE22386FC91A9052875311BEDC5D9E6ED7CC338B1F6D439EE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\orders.json",
+    "Bytes": 402,
+    "SHA256": "4A525A74C0E0F062DFAAF94E9790D2F312CD12D2DD28621F54CDC7765D332A35",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\snapshots.json",
+    "Bytes": 653231,
+    "SHA256": "5E752B601C4492830E459357F9B5D0A223B630E499B1B268B41C53D7E7052670",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\summary.json",
+    "Bytes": 4738,
+    "SHA256": "9E352BE202285C42DDCC858D606F70D66D1EB3F2A02208F02359EE3127F26A1A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001_retry01\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\paper_6h.sqlite3",
+    "Bytes": 143360,
+    "SHA256": "4B105F6DA23ECA49258FAC590EA5E4E3847217B693AA298EBEEC144B9C631485",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\paper_6h.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\runtime_self.jsonl",
+    "Bytes": 153,
+    "SHA256": "0CCAF7B2C0A846212961124F799313E55DC4DC22F4B5E882C1AF55C6E5C3ADD4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\soak.json",
+    "Bytes": 2966,
+    "SHA256": "F88B39B5B4896F81256661EBEC1B467AA631A77D5E4318B02B300DBB16534D59",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\config.json",
+    "Bytes": 4206,
+    "SHA256": "C73B444B88A365510F7D8E51B11102CBD0FAA917E7B7918AC0C6FE62BEBDEC02",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\events.jsonl",
+    "Bytes": 356,
+    "SHA256": "C60290548503121FEE61DF6142892C429679AAB86C3D03EFBC4125E9DF347B42",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\fills.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\orders.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\snapshots.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\summary.json",
+    "Bytes": 1604,
+    "SHA256": "D11D9B08D7BE0A8CBD8E1AAC190A5BCC3C6608AF9E8EA16FABDF77CF47C4FD08",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c2_20261001\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\network_audit.json",
+    "Bytes": 350,
+    "SHA256": "BCB0C66D16E1B33E7ECD83EFAC21F728EFE0119B1A6E8F8B4BBA5DCD5E08F3E4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\network_audit.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\paper_1h.sqlite3",
+    "Bytes": 409600,
+    "SHA256": "E716DD805F4B382F93EB98D421DCEB5A196C2D6640F59339F1F7CF09A4AF9717",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\paper_1h.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\reconciliation.json",
+    "Bytes": 517,
+    "SHA256": "0B6F1BB6DCB48CE6D0BABE3786FD2895AC9CF838248D4EC1084570C9412E49FE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\regression_after.txt",
+    "Bytes": 695,
+    "SHA256": "F43E68F3FE4BAA324A7E166021AEAA36F4746C536AD3D14831087405493ADC18",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\regression_after.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\regression_before.txt",
+    "Bytes": 695,
+    "SHA256": "6FFD057E0282761FE254FEBA2AC60F895FC100A17CB1668A92E2091FE2D23FD6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\regression_before.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\runner.log",
+    "Bytes": 147,
+    "SHA256": "EDE4EDAA7060E634E8183DA9C9685BA843F43C771E989811DD3B5C221BBB78C0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\runner.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\runtime_metrics.csv",
+    "Bytes": 37705,
+    "SHA256": "8627A9C36AE4D2DD68A39754F7FE4577D4A62FBCDAC867A0C5F7C57911EFEA42",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\runtime_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\runtime_self.jsonl",
+    "Bytes": 10604,
+    "SHA256": "C6075634F2F5F783C5A2FBF08E364A08B4490475EA7B9313BF0E7813C404E2AA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\soak_summary.json",
+    "Bytes": 6998,
+    "SHA256": "4D43CD5B5938AE891C21E8B7750BFA9CFA1E5DD065DCBAE8223F3A14DE7B3B98",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\soak_summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\soak.json",
+    "Bytes": 52894,
+    "SHA256": "B391832441B5C82B3443FF84510F8270DE139B89FBA0EBB1E703128A2C3D8CE6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\start_state.json",
+    "Bytes": 4379,
+    "SHA256": "EFD1BD7124D681F0234DD55B2082351F400E3B6D9762919B60749CC40AFA4714",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\start_state.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\config.json",
+    "Bytes": 3957,
+    "SHA256": "A2057ED172D3C44B03552E2A2B875F8515B4CA740ADACA7B0D9DAA386E09BF7B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\events.jsonl",
+    "Bytes": 305453,
+    "SHA256": "FDA1D78FFCD63E2712A42EC83953A2BBD437670ECA6DEDD78B71BB0968FBE9D2",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\fills.json",
+    "Bytes": 5196,
+    "SHA256": "3FDA9FAA4595FB35DC5F8E20A73B3AAA569DA086FFD701C6E6814BBE3A6B898E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\orders.json",
+    "Bytes": 771,
+    "SHA256": "ABD38F7753712E2EAB0628F11635748106B219179A523C112D71634C2C447775",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\snapshots.json",
+    "Bytes": 405782,
+    "SHA256": "40539A1C241C26BE74B1D7C411C204032D65092D54290C9C84879F20B725AA17",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\summary.json",
+    "Bytes": 4183,
+    "SHA256": "FC641F6DA8A905D2BB1E8C44FCA356E7FAB69033F14379E54DB04DBEBB8A7DDC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930_approved\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930\\environment_diagnostic.json",
+    "Bytes": 392,
+    "SHA256": "AC9955D53DA1B6F9D42422335DB024F6DA58200025A00140087AA956BAE8B4D5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_run_20260930\\environment_diagnostic.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\network_audit.json",
+    "Bytes": 345,
+    "SHA256": "4DC77FA8F2A50911CEDE4CFDF9AC558288F522A369DB6AF3E3781B7D1521D3BE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\network_audit.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\paper.sqlite3",
+    "Bytes": 151552,
+    "SHA256": "C91BE2322CA6B60EA3576850AC8AC68C72CDC77F80CC351493683EA5FF3A731C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\paper.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\reconciliation.json",
+    "Bytes": 383,
+    "SHA256": "EFBA1FB990768D14019DEDEBD2DBA4FB800665CAC46AD3FC10636A62D7FE81C9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\regression_after.txt",
+    "Bytes": 695,
+    "SHA256": "C02ABD3DF47AA447E9C555685B8623A8F08C1CD00466E4375EA413BC4CBB2A5C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\regression_after.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\regression_before.txt",
+    "Bytes": 695,
+    "SHA256": "0C79161F253CB273EEAF7CC2F151CF296FB7ABBEC08A09337AC422CFD505863A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\regression_before.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\runner.log",
+    "Bytes": 149,
+    "SHA256": "53E6A27ACF83F68B32FB97C7BD0E34D4AE40663543E2607A65E388E317505192",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\runner.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\runtime_metrics.csv",
+    "Bytes": 2825,
+    "SHA256": "8BB43FA5A4E8AFA0E531F23BB260B88CB5B540F68ECD1B5DA3C1FCB8BDCD9A2B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\runtime_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\runtime_self.jsonl",
+    "Bytes": 938,
+    "SHA256": "F0C54993D7A76979AB1072F9E57A976737934913DF2F5080E53260218501FC2C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\soak_summary.json",
+    "Bytes": 6842,
+    "SHA256": "DF9DE0D60A5F5B83C918EC5CFBC735B78755D3C34C0550AEB56E972D0E39759B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\soak_summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\soak.json",
+    "Bytes": 9228,
+    "SHA256": "31E8433A678EF227E63E19BD295D1D01D2461F8FE9A482ADF06E6928D1372F8A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\start_state.json",
+    "Bytes": 4356,
+    "SHA256": "16BDACB3DE9EB19E808DD0D522D9887B2FFDA2036AF51FF67C671C1A16C5AA9B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\start_state.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\config.json",
+    "Bytes": 3947,
+    "SHA256": "CD7D6DB54541F841A086697E7BD8AC4F6D2FEB1227C20EEA21F05C7B6A336DE2",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\events.jsonl",
+    "Bytes": 33843,
+    "SHA256": "A9ABF52B3DDB5F83AF6BAB070658850B6E1485E65C80B9D99A19D0D6AADF5A7C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\fills.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\orders.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\snapshots.json",
+    "Bytes": 6802,
+    "SHA256": "D91158387399478CDB2D7F1332E6BF9DFA7A3E1C83BA8268C27550463D8C347D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\summary.json",
+    "Bytes": 4057,
+    "SHA256": "E7BB38CE55B7216465B58F70AB106762F95727B483B68BFE94F61BCF98BE9E34",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_recovery_smoke\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\network_audit.json",
+    "Bytes": 343,
+    "SHA256": "F95B15BAD309667607429C925E3D72E81715EB323E85607606B28EA435123746",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\network_audit.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\paper.sqlite3",
+    "Bytes": 143360,
+    "SHA256": "DB3049BB71AF5FC53FB667A8C47A83A206ACF77A813CB5E33395237C3EC41C0A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\paper.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\reconciliation.json",
+    "Bytes": 438,
+    "SHA256": "41AD911DC21DC8DDE9C9ABB17E5715227E873D25A7125950FCF44F74E3D6D630",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\regression_after.txt",
+    "Bytes": 674,
+    "SHA256": "0BF6D777B04D0160DB74C0CDA3475DC1C007146B2D61E34EF49CAECE79C4EC5A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\regression_after.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\regression_before.txt",
+    "Bytes": 674,
+    "SHA256": "0F3B9B87487FDF4CF35276DBB9C042C2A79EF57EF0A2E1C2E357B9D8FE7E0FC3",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\regression_before.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\runner.log",
+    "Bytes": 149,
+    "SHA256": "B47F37757F5229BA0AFF3DB5C2437C29052189E2B5E794F6FFADED589494CFCC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\runner.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\runtime_metrics.csv",
+    "Bytes": 1053,
+    "SHA256": "C96EE02E67600D3F727537B4B1E2FDB89E332890CD9CED3E24C5E70882DE35B9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\runtime_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\runtime_self.jsonl",
+    "Bytes": 449,
+    "SHA256": "B88B645BD8580B14B1593B8E3C1A8C858E59865EFCD83330DCC696273DB1AF70",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\soak_summary.json",
+    "Bytes": 6701,
+    "SHA256": "39D9BBA3FF785B180B87C393EC36521E59CAA61BB9A8FB3235D6809CA95B8B35",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\soak_summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\soak.json",
+    "Bytes": 6479,
+    "SHA256": "A7F3AEE09ABFA09A52F22A3B3E0D38F32513BD4DF988DEA1C503A92A4DAA1D59",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\start_state.json",
+    "Bytes": 4309,
+    "SHA256": "F47A446B12622E00EBA5AD2892AC5D6D5D841F55259AB7257E10438AFFD2E4E6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\start_state.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\config.json",
+    "Bytes": 3944,
+    "SHA256": "8B2006D6D58182745007B8A793C5DECB9FA639DC462A90D0212C957C3BBDE13A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\events.jsonl",
+    "Bytes": 220,
+    "SHA256": "DA0794BEED69AC9ECDCA38BE8C905BD2825E63F37776346FADEEF532E829EEFE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\fills.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\orders.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\snapshots.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\summary.json",
+    "Bytes": 3745,
+    "SHA256": "FFDAD01D86F58C7C33A465C78E6C7A64CBCF59BC21C40135A87108EB3A7109E9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic2\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\network_audit.json",
+    "Bytes": 344,
+    "SHA256": "5E862574C0B36FF62CDA636E7ACE300F909D2233AB8052C228CFBFD8330BAE6D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\network_audit.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\paper.sqlite3",
+    "Bytes": 151552,
+    "SHA256": "EFFE739039548688FA4759F576B9F6023E9A62CD0F013B5FB3F2AC78102A7913",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\paper.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\reconciliation.json",
+    "Bytes": 497,
+    "SHA256": "040CE21ADCBEA2B0999FC64408ECFC820EEA2CF51261FBE08C1F459F2B0A15CC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\regression_after.txt",
+    "Bytes": 674,
+    "SHA256": "10F82E4DA184FC5ADB98469DC1A1D7CEC250CC095EAF9048E288DD969C0DB924",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\regression_after.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\regression_before.txt",
+    "Bytes": 674,
+    "SHA256": "DC5C458C56174494D8FB4342361F4FAF51AF7BC7673C6750FBF28C3D653F3994",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\regression_before.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\runner.log",
+    "Bytes": 149,
+    "SHA256": "75612D80CAE09639FB0AEAA75ACD4B3A3F0A232B08DE2216C60B691D9A95CBAE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\runner.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\runtime_metrics.csv",
+    "Bytes": 1740,
+    "SHA256": "E3E054DD1B90C122816F3D6A7E5D94B35E59F80DDAD5E893E1FF86A47DCE4367",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\runtime_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\soak_summary.json",
+    "Bytes": 6884,
+    "SHA256": "1AB2ECC5DE88E16A27510857EAC018C97B5598B44B76760F1F4AFFB97630420B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\soak_summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\soak.json",
+    "Bytes": 8047,
+    "SHA256": "9BA834FDE782DF99AB668888FFE8C886336804D70EEED43C09282FDAE1D01665",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\start_state.json",
+    "Bytes": 4301,
+    "SHA256": "6B4E4322B6A87FEBA6EE410B7E41025C077DA93CEF295C8CD33E468D9A9D1B2A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\start_state.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\config.json",
+    "Bytes": 3943,
+    "SHA256": "BF76543C345BCA8AA855115557A2A4088DD99995B878DA15343EFA42B577695A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\events.jsonl",
+    "Bytes": 25693,
+    "SHA256": "98A4278B4B5026315591233D25A1A64057181DB0D99C6B3C0B8E7C0529954D89",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\fills.json",
+    "Bytes": 497,
+    "SHA256": "1064DAA1DCC83888D5339784457C3356E9AB52E193CFB7A54B5A862E62804B3F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\orders.json",
+    "Bytes": 386,
+    "SHA256": "371936FA289A7EF42DB58CADAB5AF3223DD3BA61F1D3BA17D2E1AF36774B3CFD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\snapshots.json",
+    "Bytes": 940,
+    "SHA256": "122BCE0EBB1A56E0EC78657893D85C39C62751570F400894F89C6BE26CBFD590",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\summary.json",
+    "Bytes": 4404,
+    "SHA256": "35BD645AB7B013E47FFE6EB1215312E92FE484C9DCB0A1756230128278BE450C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_diagnostic\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\network_audit.json",
+    "Bytes": 309,
+    "SHA256": "86EFB652FFA1ED7D748CBB7806C6AA2D31CD8807B7BF85499B9AE271CE16D4A8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\network_audit.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\previous_report.md",
+    "Bytes": 6324,
+    "SHA256": "6982468CA86076048423670516013870986E5E6675B391D7D871C2C330BC451A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\previous_report.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\reconciliation.json",
+    "Bytes": 152,
+    "SHA256": "E2B6E4B772D366205CA203DBEFA651E010F204AFEF7710886BFDB1FDF59288BE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\runtime_metrics.csv",
+    "Bytes": 565,
+    "SHA256": "647CC5C229655A1CEDBFC758FAE4B83C4060F516A65DC8FD58C784EA29A9015E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\runtime_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\soak_summary.json",
+    "Bytes": 1934,
+    "SHA256": "467B4C1B1E7756F3B339CB3E09181733A1A722B7135C628776E918E53DCEAAA8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\soak_summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\start_state.json",
+    "Bytes": 407,
+    "SHA256": "7411CEAB6E7EE985B28FB7D62113971DDEDA7FD3FFF1D13DB77097B9609CDB32",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\retry_58m30s\\start_state.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\network_audit.json",
+    "Bytes": 359,
+    "SHA256": "42B0A83376EDC57059DA40DE6B81024DFF45F26137EFBEF63C8935974C70EF68",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\network_audit.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\reconciliation.json",
+    "Bytes": 490,
+    "SHA256": "51631535DF2DFFDE8DF13E2CC2F90EE438AEDE2740936E03D61346A452DFCD8E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\runtime_metrics.csv",
+    "Bytes": 555,
+    "SHA256": "ABCC78C7567BBAB65220C29F4F30400FBE1E5A719F8600755C7A1F8E1E044483",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\runtime_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\soak_summary.json",
+    "Bytes": 1569,
+    "SHA256": "31DAF40DAE1D7715A26DDB2C203291983C50F7018AECAB92D374ED8892CFD1E4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\soak_summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\start_state.json",
+    "Bytes": 676,
+    "SHA256": "ECC3A2929740DCA4FF446C9E2DDFB6887333D5EEABB2B801FA83FADFD95CF619",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1_attempts\\initial_47m\\start_state.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\acceptance_checks.json",
+    "Bytes": 558,
+    "SHA256": "7103BDEE84E656648B3AC429D1C25E08B6070001D1F857BDEE4F926D1DB9181D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\acceptance_checks.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\network_audit.json",
+    "Bytes": 350,
+    "SHA256": "BCB0C66D16E1B33E7ECD83EFAC21F728EFE0119B1A6E8F8B4BBA5DCD5E08F3E4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\network_audit.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\paper_1h.sqlite3",
+    "Bytes": 409600,
+    "SHA256": "E716DD805F4B382F93EB98D421DCEB5A196C2D6640F59339F1F7CF09A4AF9717",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\paper_1h.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\reconciliation.json",
+    "Bytes": 517,
+    "SHA256": "0B6F1BB6DCB48CE6D0BABE3786FD2895AC9CF838248D4EC1084570C9412E49FE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\reconciliation.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\regression_after.txt",
+    "Bytes": 695,
+    "SHA256": "F43E68F3FE4BAA324A7E166021AEAA36F4746C536AD3D14831087405493ADC18",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\regression_after.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\regression_before.txt",
+    "Bytes": 695,
+    "SHA256": "6FFD057E0282761FE254FEBA2AC60F895FC100A17CB1668A92E2091FE2D23FD6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\regression_before.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\runner.log",
+    "Bytes": 147,
+    "SHA256": "EDE4EDAA7060E634E8183DA9C9685BA843F43C771E989811DD3B5C221BBB78C0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\runner.log"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\runtime_metrics.csv",
+    "Bytes": 37705,
+    "SHA256": "8627A9C36AE4D2DD68A39754F7FE4577D4A62FBCDAC867A0C5F7C57911EFEA42",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\runtime_metrics.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\runtime_self.jsonl",
+    "Bytes": 10604,
+    "SHA256": "C6075634F2F5F783C5A2FBF08E364A08B4490475EA7B9313BF0E7813C404E2AA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\runtime_self.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\soak_summary.json",
+    "Bytes": 6998,
+    "SHA256": "4D43CD5B5938AE891C21E8B7750BFA9CFA1E5DD065DCBAE8223F3A14DE7B3B98",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\soak_summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\soak.json",
+    "Bytes": 52894,
+    "SHA256": "B391832441B5C82B3443FF84510F8270DE139B89FBA0EBB1E703128A2C3D8CE6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45c1\\start_state.json",
+    "Bytes": 4379,
+    "SHA256": "EFD1BD7124D681F0234DD55B2082351F400E3B6D9762919B60749CC40AFA4714",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45c1\\start_state.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\evidence.sqlite3",
+    "Bytes": 159744,
+    "SHA256": "F1093FA28790B301AD9D4342D96BCD136EAD3F6F697A0E2C127204EF03743D5B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\evidence.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\soak.json",
+    "Bytes": 7336,
+    "SHA256": "FA74DB08929D438423BFBE1A123E21D742C0105B48CDBF96A7D0A1F33F359C51",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\config.json",
+    "Bytes": 3885,
+    "SHA256": "3DD9A8B723A0EC7B083D5858B49E94A10FBE82164A22C46CF06EA8812E9189D7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\events.jsonl",
+    "Bytes": 35976,
+    "SHA256": "606F08131B95D9B02EF2D4DF77351297155759128A7DDAB269F50E042D2AC644",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\fills.json",
+    "Bytes": 497,
+    "SHA256": "22D21DE789E9729CDE4130EAD6BFDF2F9896A8E5CC09E231CCBC9324630CE10E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\orders.json",
+    "Bytes": 386,
+    "SHA256": "C8C8228BC2F282F8E57A89EACA9CDC7D481179DE9B966352152EAC20B4ED4214",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\snapshots.json",
+    "Bytes": 9902,
+    "SHA256": "6F72596E3DF48E06077543F260C0738BD23090185A959C8790C10207FC636DB4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\summary.json",
+    "Bytes": 3742,
+    "SHA256": "8F880D01D630FC7535530B4DB13E04CDAAB3E9EC2192C622726C4A9B4E8DBAE8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45b_ws_smoke\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\soak.json",
+    "Bytes": 6330,
+    "SHA256": "9A104AD18B0008E2566BFF3560A15D304894539CD166099ED37E839C77B570CF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\config.json",
+    "Bytes": 3852,
+    "SHA256": "C7AB60BE5F262C3B59678BF2437827D370676C068CC55C6BE124A724205300B3",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\events.jsonl",
+    "Bytes": 27465,
+    "SHA256": "DDE93ED510EA347D6590571AF78694BBBBA8F0C3E5E1CF6053A86118CBDC7336",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\fills.json",
+    "Bytes": 380,
+    "SHA256": "D86CDE938A1C722B8E941BBC91C5FC8EA1CF56596F4BA368D9094E66CA99C79B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\orders.json",
+    "Bytes": 361,
+    "SHA256": "1614E96BECA16DB63CEC894118C0E8FCCB0440F03030FF6E00C7EEE85EBB44A4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\snapshots.json",
+    "Bytes": 1737,
+    "SHA256": "B877BBB77257270D1DB4A013664C5303E63649091A22CF4F360F57059EB4BAA6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\summary.json",
+    "Bytes": 3531,
+    "SHA256": "51CB3B6F2248E1329889AAFD967E7EA111B71885FBAAEBD0DA3A22778F831E3E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_soak\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\soak.json",
+    "Bytes": 5945,
+    "SHA256": "4C2A3E565BF19B6F3734353C1869E47A7B782B2BC994C490C49C47839C605646",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\config.json",
+    "Bytes": 3852,
+    "SHA256": "0C5F12534D644A17F271A9B0D876481DCB4B14259C74D7880A38B4A985E68C3A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\events.jsonl",
+    "Bytes": 9359,
+    "SHA256": "7288CBD70A3D714B0F146D97F24674E69698ED53B782A0F2C106628CDF276C29",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\fills.json",
+    "Bytes": 283,
+    "SHA256": "FA44DA514D80BBEAB4BE684018AD36656A960A19861E63A07015FAD74EA3F938",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\orders.json",
+    "Bytes": 361,
+    "SHA256": "78325683CE4820256453A97F3BFB4BBD642DFAF5AC384418818A009220A41A8F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\snapshots.json",
+    "Bytes": 6677,
+    "SHA256": "1732AD55A3EE0C4F911D237C35E0CF5FF5135B71A769C33802FD6EA51C57DE35",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\summary.json",
+    "Bytes": 3527,
+    "SHA256": "FDB12E2B51A5A8738C54F26186B0879F2D4DFFC051ED22C1944F35294382D57F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_restart\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\soak.json",
+    "Bytes": 6748,
+    "SHA256": "10906905C853BD2DC4A04BDE22C8A4CBC0B15DC99F7D06D7A6CE632800BFD349",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\config.json",
+    "Bytes": 3852,
+    "SHA256": "0C5F12534D644A17F271A9B0D876481DCB4B14259C74D7880A38B4A985E68C3A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\events.jsonl",
+    "Bytes": 38125,
+    "SHA256": "3E3BCA270768720B20DC00147E8F3B7DA0EE448EE1CD173F80EEE4D98C586EA8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\fills.json",
+    "Bytes": 373,
+    "SHA256": "7ABB855390A1209F67D67B0B9E9EBEE5D4104E31416082A8BADE7E4A0CEB0217",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\orders.json",
+    "Bytes": 361,
+    "SHA256": "78325683CE4820256453A97F3BFB4BBD642DFAF5AC384418818A009220A41A8F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\snapshots.json",
+    "Bytes": 11066,
+    "SHA256": "FC6BF81016F65D85F2619370D0B038CDB609A77795971FE10E6A5EAB6F92E3AD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\summary.json",
+    "Bytes": 3552,
+    "SHA256": "E1C09D0B34C7E5126D0E4EC86C3C0B62A05EF45297A4ADEF6D7B1841218FEE8E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_fixed\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\soak.json",
+    "Bytes": 5991,
+    "SHA256": "408130718042A86891887EC3FA56F1DC0D08EBDE19E236423818D97B04AD1A39",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\config.json",
+    "Bytes": 3852,
+    "SHA256": "3D7021CDA17B975949495D5BB1231BE9002D9EB795F0699C596E8B6AAB01481E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\events.jsonl",
+    "Bytes": 5835,
+    "SHA256": "DCEB1699F0E3F393EA71BF377F9D42C94EF3C881388B26D6A4118C081EE6EA52",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\fills.json",
+    "Bytes": 290,
+    "SHA256": "AFA2B24B247A4C387AA524FBBCB8683A31A0144B1068C849D7997206499B89A8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\orders.json",
+    "Bytes": 359,
+    "SHA256": "C68BA658AACEEA0662BD73A8A1C90CDD9028D18886BAAF9BCC3BD6B0537183E1",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\snapshots.json",
+    "Bytes": 3680,
+    "SHA256": "A06197B1AF959BB9178AFB9104160C1E2A4947B3972BE60CDEA7460C1D38A34A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\summary.json",
+    "Bytes": 3576,
+    "SHA256": "4E339AEDA4DAA5043570085EA807F01E26B52740E8441467C17AE4C59B0EF92A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_ws_crash_restart\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\soak.json",
+    "Bytes": 6475,
+    "SHA256": "B910AA28368083ADB6CE909FE62486B1E3805CA7BE29D372D80AE134FE78A3BB",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\soak.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\config.json",
+    "Bytes": 3843,
+    "SHA256": "2F8D8428078B212E8A2FFF8862E6BC56BB21D9464C39304A15A362787D3C9E41",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\events.jsonl",
+    "Bytes": 34545,
+    "SHA256": "8BF96A4FC55441CA302B9E36E44B284BF7A5A4782D1C3ADB8B79081A7460C135",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\fills.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\orders.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\snapshots.json",
+    "Bytes": 6434,
+    "SHA256": "645918090528A2C85BA5C2BADEC49DE9F1978BDD616CEC8297F2FF8DA6BFF632",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\summary.json",
+    "Bytes": 3295,
+    "SHA256": "95CEA45FB05518CF13592B1F9E504F35290460055FEB06F12EEF2D871E54F023",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase45_soak\\session\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\all_tests.xml",
+    "Bytes": 11019,
+    "SHA256": "6E612EA3EADAC0FA2DF677B89530015935F6FD6E3ECD31CF775B44C011A9B0D5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\all_tests.xml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_db_status.json",
+    "Bytes": 341,
+    "SHA256": "79B237C07CF5E09C99B0FEE2D25AAB7BD0AD1DD7C4F6AD04E16D45F850A51C7A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_db_status.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_evidence.sqlite3",
+    "Bytes": 143360,
+    "SHA256": "8B72D67B1FCEC92DCD0FA2CE6ACE317F346FF4E8402EC9401C638BEDB38B4F1C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_evidence.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live.sqlite3",
+    "Bytes": 143360,
+    "SHA256": "8B72D67B1FCEC92DCD0FA2CE6ACE317F346FF4E8402EC9401C638BEDB38B4F1C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live.toml",
+    "Bytes": 1396,
+    "SHA256": "D8B8FA49795E94838782AE557B02A10A403E9509CCA49D3D3D1C8AD4F2DCE3CC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live.toml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\persistence.xml",
+    "Bytes": 2638,
+    "SHA256": "3F0E21713C11BF5833E1624D6B49D136F4D698BFAEBE939CBF57CF2C398015FD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\persistence.xml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\phase3_regression_after.xml",
+    "Bytes": 8275,
+    "SHA256": "514D5EECAD72E417C84C5D108E6A9ABB18B4C4849AC434F265A87C5EA566F8A5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\phase3_regression_after.xml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\phase3_regression_before.xml",
+    "Bytes": 8275,
+    "SHA256": "D9FAA19EF240C997F1FD9AF8C59C0F81FF0392E5AF308C940298E7CD0F32374C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\phase3_regression_before.xml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\config.json",
+    "Bytes": 3767,
+    "SHA256": "61CE9CCAE21E47F427F5472D4B1F35F1F5578B77BD41B1EE7B9ABAB390C350E9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\events.jsonl",
+    "Bytes": 13696,
+    "SHA256": "7D40C801961219D4251D340C47E117B033FF2E7960FCE2BC7E60DBDEEAFD18DD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\fills.json",
+    "Bytes": 895,
+    "SHA256": "1FCF1EE3A1903AD760EE3251D45E93B1EE35DCD25FE2235001BE0F2D75785BA9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\orders.json",
+    "Bytes": 787,
+    "SHA256": "3914C95850387E0F76A6250F222119B769E5A81268A3FA132A1B222D7B368472",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\snapshots.json",
+    "Bytes": 9876,
+    "SHA256": "1E0E86EA7587B34C52D21CAB520BDC367B0939F851F7A18C0C6493EFB2541E29",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\summary.json",
+    "Bytes": 3440,
+    "SHA256": "3460B9C36DD780288733C4C9725EE61F832C5A3419CF1FC593F65390CDE1369C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\restart_integration\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\config.json",
+    "Bytes": 3767,
+    "SHA256": "61CE9CCAE21E47F427F5472D4B1F35F1F5578B77BD41B1EE7B9ABAB390C350E9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\events.jsonl",
+    "Bytes": 50941,
+    "SHA256": "04EDD9620121A0AE5E4973BB683AC43398F4061ECC7D23112A56F0ADD7BFB05C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\fills.json",
+    "Bytes": 1215,
+    "SHA256": "242C41269EF57637FC9CEB63D99356AF587477122A37E901072826EC9A0631D7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\orders.json",
+    "Bytes": 787,
+    "SHA256": "3914C95850387E0F76A6250F222119B769E5A81268A3FA132A1B222D7B368472",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\snapshots.json",
+    "Bytes": 20438,
+    "SHA256": "43E04D9AFCD3E0BA576051D6AF0DF3F312892E626E2C9E7CFDA9DB18605A449B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\summary.json",
+    "Bytes": 3443,
+    "SHA256": "8556BC3AEBF2EB36EEA6BEBF0B5F104EB797DDD248D2537B20C5F96D345C9495",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\public_integration\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\config.json",
+    "Bytes": 3773,
+    "SHA256": "7A6980B73EBB4C2DD1886AF52E5F1EA770DAA2D5CA0D58A099112D604360CF36",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\events.jsonl",
+    "Bytes": 7297,
+    "SHA256": "66232CB2FCC3D695F4C59BC1B5B95C7D29105B41F0015CF55D0E45B4EDC3514F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\fills.json",
+    "Bytes": 594,
+    "SHA256": "E33FED377EAA1B4895F31C110D93796EEC684D89DF854F4D3E745ED81E667AE7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\orders.json",
+    "Bytes": 751,
+    "SHA256": "4D24DCE7764EDD9F298A054AE3D0D6A097C637FD4D892D974C04FDE15904D5B6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\snapshots.json",
+    "Bytes": 4266,
+    "SHA256": "F03CC41A37D50FF76B27BA0342BA05082DECAD9BA9865A07933E8419624D89BB",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\summary.json",
+    "Bytes": 3249,
+    "SHA256": "A59A616A6669D298D8D68579976984735B769F9305869C1C97DC5BD84AD84AE7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_restart\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\config.json",
+    "Bytes": 3773,
+    "SHA256": "7A6980B73EBB4C2DD1886AF52E5F1EA770DAA2D5CA0D58A099112D604360CF36",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\events.jsonl",
+    "Bytes": 47417,
+    "SHA256": "234DAA9D053FFB642DA3AC87934CF35DCBDA35F94070E3F35377B0729D3CC02A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\fills.json",
+    "Bytes": 806,
+    "SHA256": "A6B3ACDCE25FAF056DDAD1B5614D13A41E381559C3F2479DA657AFC496EE0553",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\orders.json",
+    "Bytes": 751,
+    "SHA256": "4D24DCE7764EDD9F298A054AE3D0D6A097C637FD4D892D974C04FDE15904D5B6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\snapshots.json",
+    "Bytes": 16052,
+    "SHA256": "C7A845BC757CA0FAE7D8557E52A638FC47581C3BF6CF28FC6DC97A31AC255150",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\summary.json",
+    "Bytes": 3250,
+    "SHA256": "F653C24F180361EBA08BD6F962BD17B129D092337955B690037CC3A9F2CFDF32",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase4\\final_live_first\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_cli.txt",
+    "Bytes": 1139,
+    "SHA256": "5AFE3DC00964F592F60E92E00401BAF6B3FF7F76B2D03108878F34F066035CCB",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_cli.txt"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\environment.json",
+    "Bytes": 207,
+    "SHA256": "D1B7EB7B255042FF5C08C13CB1361904E19051C9124D53D10841ED3ACB42EFA4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\environment.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\pytest_after_network_fix.xml",
+    "Bytes": 8275,
+    "SHA256": "DB9832D61334CC67C80C2EE59479C54DE91D0728265C3238B265B024657A382D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\pytest_after_network_fix.xml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\pytest.xml",
+    "Bytes": 8011,
+    "SHA256": "8A0A22C73FE6781FBD0EEDBECD575842E938C27DABEE9299A273852E8BC01CFD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\pytest.xml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\regression_comparison.json",
+    "Bytes": 222,
+    "SHA256": "97CF9043FF5C7C85F84755ECBF93F53065CE3A4F6EF869A19D651C5A7CCBE054",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\regression_comparison.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\source_changes.json",
+    "Bytes": 1968,
+    "SHA256": "CEBED91A743D8A8A2B0089D5B4DA7AD0C9D68A2F0BDE8DFF45AFB0D49317D462",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\source_changes.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\config.json",
+    "Bytes": 3638,
+    "SHA256": "CA0367876CF37860F80B27A56AD28C0A5F899902DB4C56E9FED5BCFB23D9F323",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\events.jsonl",
+    "Bytes": 49979,
+    "SHA256": "F96A6A599405462825D8A5D38841207B1343C6C8B6ED4424715406B369856251",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\fills.json",
+    "Bytes": 1188,
+    "SHA256": "CEAB3A20D3F00C7A1606BA5E31B34513C57BECC0929B043C53600F522D39F2B7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\orders.json",
+    "Bytes": 747,
+    "SHA256": "972334C97DFA82BB28EA87CE316F6E94C79DA602E0EA4F8177CEF3321813B6FC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\snapshots.json",
+    "Bytes": 16362,
+    "SHA256": "4819D53BEB8C98A64526036D9A4D4BBC48E4CC63001C25ACEEBAFA46558218F9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\summary.json",
+    "Bytes": 3254,
+    "SHA256": "A395CEF876800101266594BD853450E07C94A98736C1044B324E62B846D4F59C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration_fixed\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\config.json",
+    "Bytes": 3578,
+    "SHA256": "E3026FBA20A824D40F6E4CF021F34D9F32156B50EF2FF6EBA3934C2019F058FD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\config.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\events.jsonl",
+    "Bytes": 354,
+    "SHA256": "7703B5A31684B971075083E004977606C90D4C5F624BA6240964C1FB300B421F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\fills.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\fills.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\orders.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\orders.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\snapshots.json",
+    "Bytes": 2,
+    "SHA256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\snapshots.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\summary.json",
+    "Bytes": 925,
+    "SHA256": "097E14EE0B1848BB56635E65A66B6B698A43C146EA98E1B4659E7509A3F82E7A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\public_integration\\summary.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\comparison.csv",
+    "Bytes": 853,
+    "SHA256": "7FED095E65094D3D940A66DEDB2D95DA67D66324A7C0F225F2767787E621DE49",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\comparison.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\index.html",
+    "Bytes": 1807,
+    "SHA256": "AD06EF87DFD4BF8C1520897775499A29FF01CD679A2B46BD1B7BACD5BF36B70A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\synthetic_ohlcv.csv",
+    "Bytes": 228391,
+    "SHA256": "E993CFDC9365239E92442FA750DF3537F6136BBC4FE9602390F56198BE7F401A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\synthetic_ohlcv.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\charts.png",
+    "Bytes": 246658,
+    "SHA256": "04E9D649B9FB4E00E1774001C7DA2350C6A452EA8B06796EC1E18CEC82DC22D6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\charts.png"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\equity.csv",
+    "Bytes": 89233,
+    "SHA256": "FCEF683595EB7A27DFCB9FE4AF11A1BDBA4D800C5C03FC376DF3F713FC513587",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\equity.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\events.jsonl",
+    "Bytes": 1150444,
+    "SHA256": "CD788345FAE58846E8351296C68AB2A5BFC24C4D576ECC39C309B3A88E8296C8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\fills.csv",
+    "Bytes": 21576,
+    "SHA256": "1A0A6C5EACF4DE958B18462C2AACA5A4EA17086346850565871219304B48C767",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\fills.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\index.html",
+    "Bytes": 2749,
+    "SHA256": "45E3BE08AA071528863B04A182FB292BD111D3A70F2AB3964E671954FCE4AB23",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\metrics.json",
+    "Bytes": 5036,
+    "SHA256": "4356C522B8423729D09046F043D0F85CDFC52A6FCE7277391B63605B32600587",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\metrics.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\monthly_returns.csv",
+    "Bytes": 1068,
+    "SHA256": "272C9BE47E649E6B470A63F2B7BD11C502279EB5DBAFCB80DD9EDF3EA7C3881F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\monthly_returns.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\orders.csv",
+    "Bytes": 15326,
+    "SHA256": "235B2F7CB27C63F1B53788CB99809128EA7146B50D17EDF7C110318D7E58DF57",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\orders.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\trades.csv",
+    "Bytes": 279,
+    "SHA256": "C68F369899F9162A39DC368DDAED17C3429B98C86C59EE75BB143A528EBFFDFA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\rsi\\trades.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\charts.png",
+    "Bytes": 216950,
+    "SHA256": "7AFCF5CEF9B4410F26F40AEF463113F1A813664D67279C7FD42AA9E8A439F82E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\charts.png"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\equity.csv",
+    "Bytes": 82507,
+    "SHA256": "330F55933061EA595BEA8CB34EE3E1E726E2458B61D206BB7F4E75A408629DC5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\equity.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\events.jsonl",
+    "Bytes": 1076262,
+    "SHA256": "E6C014F79331A9214E84CECD8E689780AB6505F2AACE67A0023A730DF167B222",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\fills.csv",
+    "Bytes": 5918,
+    "SHA256": "0BFAAB35B90196093E5DA9D19995A7A8C1E42D773C2C6154078A34C31FCA2CA8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\fills.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\index.html",
+    "Bytes": 2763,
+    "SHA256": "6058C351E55F014EF485FF8CC4E541459CFAD5DE15768349F9EE51283FE8A5EE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\metrics.json",
+    "Bytes": 5047,
+    "SHA256": "95F08D54C5DD2103259329614766CA1052C27D1B02E3147ECE70E68314CD2732",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\metrics.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\monthly_returns.csv",
+    "Bytes": 1022,
+    "SHA256": "FF7F80914FD6BF070F9EA48259B944AA1F294326CABA26D57F1369CB4A7761CF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\monthly_returns.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\orders.csv",
+    "Bytes": 4325,
+    "SHA256": "2E5395FE4F200035F692D0F6CFC0AE5089000064825409AA8B57B6B681EC2B33",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\orders.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\trades.csv",
+    "Bytes": 519,
+    "SHA256": "8B28515DEF019130ABC3C04C5F89D9F4AA329F248CAFD31E868ED83D1802E2E9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\ema_cross\\trades.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\charts.png",
+    "Bytes": 194191,
+    "SHA256": "11CC6E1791EF327B655B4AA9477ABBA195D7430E4C0AE83C4B2AF9DCF7D9D952",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\charts.png"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\equity.csv",
+    "Bytes": 82968,
+    "SHA256": "E538C6E4FD3CCA8C6FBD49E326CDAE29A5CA8B49F51D06430EAB50F10CCDFAB7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\equity.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\events.jsonl",
+    "Bytes": 1069041,
+    "SHA256": "4DAAC35BD0FF1296E131CC93A11A61B8FD25FA7DE0B7BD20C901CD705A586ED5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\fills.csv",
+    "Bytes": 3178,
+    "SHA256": "FD6743BD078BAF3FB3E1BC64678B9820943A8B126B73FCDE3F92A4C26E05C92F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\fills.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\index.html",
+    "Bytes": 2777,
+    "SHA256": "DAA6A1BC8ED0E7996CEC3E8985A7203BAEEACDA94D5FB6631ACCF65BE2ECB7DD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\metrics.json",
+    "Bytes": 5100,
+    "SHA256": "53A14CBE762DFADFE75F9CC50DB7D26F12BB98F5E847891FB1EED8828B9E51CC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\metrics.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\monthly_returns.csv",
+    "Bytes": 952,
+    "SHA256": "5977950FF42A91426B9DAE9ECEEBB46F9250B52EBF72CD76F631B6818CC79786",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\monthly_returns.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\orders.csv",
+    "Bytes": 2430,
+    "SHA256": "AEE3F46B45AB39379030E4F9AB5555825887824F593AEEDED282D0523F284A70",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\orders.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\trades.csv",
+    "Bytes": 1017,
+    "SHA256": "4F7E1C207350939552085F793AE4C0072929D6BD75FD662F3A5EA752C59B9616",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\phase3\\backtest_regression\\breakout\\trades.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\comparison.csv",
+    "Bytes": 853,
+    "SHA256": "7FED095E65094D3D940A66DEDB2D95DA67D66324A7C0F225F2767787E621DE49",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\comparison.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\index.html",
+    "Bytes": 1807,
+    "SHA256": "AD06EF87DFD4BF8C1520897775499A29FF01CD679A2B46BD1B7BACD5BF36B70A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\synthetic_ohlcv.csv",
+    "Bytes": 228391,
+    "SHA256": "E993CFDC9365239E92442FA750DF3537F6136BBC4FE9602390F56198BE7F401A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\synthetic_ohlcv.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\charts.png",
+    "Bytes": 246658,
+    "SHA256": "04E9D649B9FB4E00E1774001C7DA2350C6A452EA8B06796EC1E18CEC82DC22D6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\charts.png"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\equity.csv",
+    "Bytes": 89233,
+    "SHA256": "FCEF683595EB7A27DFCB9FE4AF11A1BDBA4D800C5C03FC376DF3F713FC513587",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\equity.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\events.jsonl",
+    "Bytes": 1150444,
+    "SHA256": "6DF5DD063BC0DC537E2237EBB547D22D530B3C7DDE64E6D22844BA8E134F24A8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\fills.csv",
+    "Bytes": 21576,
+    "SHA256": "F4F0D5131AC8EC13D7B3088D8703ED93E8D8DF2222CA1D6C242A9E182F0C5122",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\fills.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\index.html",
+    "Bytes": 2749,
+    "SHA256": "45E3BE08AA071528863B04A182FB292BD111D3A70F2AB3964E671954FCE4AB23",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\metrics.json",
+    "Bytes": 3174,
+    "SHA256": "B4B4C3E43E4DAA6BA9E81A123DCCE075A09E77E0DCB900235416399B2E217A71",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\metrics.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\monthly_returns.csv",
+    "Bytes": 1068,
+    "SHA256": "272C9BE47E649E6B470A63F2B7BD11C502279EB5DBAFCB80DD9EDF3EA7C3881F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\monthly_returns.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\orders.csv",
+    "Bytes": 15326,
+    "SHA256": "486239C7EEC591C1C5DF3AAC27B4815616BE8152BCD7CD5F03495B417E2E7B8E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\orders.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\trades.csv",
+    "Bytes": 279,
+    "SHA256": "C68F369899F9162A39DC368DDAED17C3429B98C86C59EE75BB143A528EBFFDFA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\rsi\\trades.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\charts.png",
+    "Bytes": 216950,
+    "SHA256": "7AFCF5CEF9B4410F26F40AEF463113F1A813664D67279C7FD42AA9E8A439F82E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\charts.png"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\equity.csv",
+    "Bytes": 82507,
+    "SHA256": "330F55933061EA595BEA8CB34EE3E1E726E2458B61D206BB7F4E75A408629DC5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\equity.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\events.jsonl",
+    "Bytes": 1076262,
+    "SHA256": "530CFECE5EC0037FDB2C5BC2EA28FE56926824F11128CB786F1C5B23B847A346",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\fills.csv",
+    "Bytes": 5918,
+    "SHA256": "5750F39CC931FD7D2185AE21BC5B7FDDE14D353D681D9E0C95965885C0427BC5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\fills.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\index.html",
+    "Bytes": 2763,
+    "SHA256": "6058C351E55F014EF485FF8CC4E541459CFAD5DE15768349F9EE51283FE8A5EE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\metrics.json",
+    "Bytes": 3185,
+    "SHA256": "975AC543ADA937BD5ED6FF6116D6439A9E2E3B2AFFBF2D6194B9E63865FD53F5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\metrics.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\monthly_returns.csv",
+    "Bytes": 1022,
+    "SHA256": "FF7F80914FD6BF070F9EA48259B944AA1F294326CABA26D57F1369CB4A7761CF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\monthly_returns.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\orders.csv",
+    "Bytes": 4325,
+    "SHA256": "1B1E75AF41BB8EEC44B743D2444710DD5F44DD6DE135D835D2CDE566E92DB9F6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\orders.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\trades.csv",
+    "Bytes": 519,
+    "SHA256": "8B28515DEF019130ABC3C04C5F89D9F4AA329F248CAFD31E868ED83D1802E2E9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\ema_cross\\trades.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\charts.png",
+    "Bytes": 194191,
+    "SHA256": "11CC6E1791EF327B655B4AA9477ABBA195D7430E4C0AE83C4B2AF9DCF7D9D952",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\charts.png"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\equity.csv",
+    "Bytes": 82968,
+    "SHA256": "E538C6E4FD3CCA8C6FBD49E326CDAE29A5CA8B49F51D06430EAB50F10CCDFAB7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\equity.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\events.jsonl",
+    "Bytes": 1069041,
+    "SHA256": "A16099494DAA634F120F429611CBFDBE9600CFFEE8E2027D05D6552819822872",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\events.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\fills.csv",
+    "Bytes": 3178,
+    "SHA256": "25EA6BB6AE86BC11557392D0F06FC8CC555E98527B1EB50FCE8A72F17133A349",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\fills.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\index.html",
+    "Bytes": 2777,
+    "SHA256": "DAA6A1BC8ED0E7996CEC3E8985A7203BAEEACDA94D5FB6631ACCF65BE2ECB7DD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\index.html"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\metrics.json",
+    "Bytes": 3238,
+    "SHA256": "1C3D97381676D6774FB327390F8E171901EA0427181893C4C90A862B9CB8E0BB",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\metrics.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\monthly_returns.csv",
+    "Bytes": 952,
+    "SHA256": "5977950FF42A91426B9DAE9ECEEBB46F9250B52EBF72CD76F631B6818CC79786",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\monthly_returns.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\orders.csv",
+    "Bytes": 2430,
+    "SHA256": "E7BAD64863742E132B94113CBF9FC29E52DB797DF13AE16C21A522FB8C039201",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\orders.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\trades.csv",
+    "Bytes": 1017,
+    "SHA256": "4F7E1C207350939552085F793AE4C0072929D6BD75FD662F3A5EA752C59B9616",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\reports\\demo\\breakout\\trades.csv"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\logs\\paper.jsonl",
+    "Bytes": 70170,
+    "SHA256": "65B1AF0758902DF13670382D2E196DDC6339DCCC03626914F064917237CEB66E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\logs\\paper.jsonl"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\ARCHITECTURE.md",
+    "Bytes": 13555,
+    "SHA256": "E5D2DCA758418014C610AF4FC8755FDDFC60F055B49E850085E0D9277662FCA9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\ARCHITECTURE.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\DATABASE.md",
+    "Bytes": 7888,
+    "SHA256": "7A150F71A17929E7F63B04156EA58E40A8FF03ECF5BA12FF75B546698618C5E7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\DATABASE.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\IMPLEMENTATION_SUMMARY.md",
+    "Bytes": 6261,
+    "SHA256": "3C411F444AB31612B693CD2715D398E34A1AAA545D1E823CD87B9BF79FBDC921",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\IMPLEMENTATION_SUMMARY.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\NETWORK_FIX.md",
+    "Bytes": 2426,
+    "SHA256": "853F77171BF3B3356FF5F51CAC90CEBC4F3AA81312D6DB9C5EF142048DE26C1F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\NETWORK_FIX.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\NEXT_STEPS.md",
+    "Bytes": 2674,
+    "SHA256": "DCCA28AFBC2A1B625C91B39CA0B431622C0A15A7212C5B5CB8D583B66BC160A0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\NEXT_STEPS.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\OPERATIONS.md",
+    "Bytes": 5204,
+    "SHA256": "A8021F9E275946F8C7A7906928B0D7093A762EAE2E7A0E70485F0BC30FED5AE7",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\OPERATIONS.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\PHASE_4_5_C1_REPORT.md",
+    "Bytes": 7741,
+    "SHA256": "E3CCEEF752A8B90FAD3E304B36B6E27B3C53AE7C12CCE553DFA208826BCA4BE9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\PHASE_4_5_C1_REPORT.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\PHASE_4_5_C2_REPORT.md",
+    "Bytes": 2854,
+    "SHA256": "8A2ED3495223B4080A33F952359456CA9C9D6C4F2F6D5990D508A35BAA0D5132",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\PHASE_4_5_C2_REPORT.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\PHASE1_2_README.md",
+    "Bytes": 15585,
+    "SHA256": "2EB8325848A49C4A0D2B8E87E17DD0AEABFDA2F42D97D4D70A057FB5DB50E4D0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\PHASE1_2_README.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\PRE_LIVE_GATE.md",
+    "Bytes": 3764,
+    "SHA256": "9BBFDE02596E2503DFD81B34E0D99445860C3B7BF7FF29E6D6BAFA3CF662DFA8",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\PRE_LIVE_GATE.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\RECOVERY.md",
+    "Bytes": 7015,
+    "SHA256": "A9733041F91CB55D878546F4FE0B8D5A940F25A68905E8BBB8235DAABDBA4F6C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\RECOVERY.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\ROADMAP.md",
+    "Bytes": 12110,
+    "SHA256": "A6B4CE4D5BFA138229012059935F2DD9392943CC851D0868294A2077236E1186",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\ROADMAP.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\SOAK_TEST.md",
+    "Bytes": 6233,
+    "SHA256": "E6E08C961EDB9CE0918BC130BD2050F9D35C1829FD677DD126FBADB11DCF5A5A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\SOAK_TEST.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\TEST_REPORT.md",
+    "Bytes": 16075,
+    "SHA256": "CB1F95290D1E404AF981DCDF201BD2FC100A0E3119BBD15D20BB4CF4EFC57CA9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\TEST_REPORT.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\history\\IMPLEMENTATION_SUMMARY_before_network_fix.md",
+    "Bytes": 4177,
+    "SHA256": "0F871703F5908B54C5DD3E39CE064671B75A7F7AB696B9B7440387D2C72204E5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\history\\IMPLEMENTATION_SUMMARY_before_network_fix.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\history\\NEXT_STEPS_before_network_fix.md",
+    "Bytes": 3929,
+    "SHA256": "26FD40712DE639BE585CE22494CAA814B2B9F81FB67B5B7A6F6A9EA186292867",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\history\\NEXT_STEPS_before_network_fix.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\history\\ROADMAP_before_network_fix.md",
+    "Bytes": 5111,
+    "SHA256": "321B77DDBA9E75E23EB275BEAE01962CB7A21D7AA5EA25234E9B8042A0202722",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\history\\ROADMAP_before_network_fix.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\docs\\history\\TEST_REPORT_before_network_fix.md",
+    "Bytes": 5399,
+    "SHA256": "AF3F96EA551228D6E55BAB9132D7E2B2B84B62BCA66104255817DC13EFC9C722",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\docs\\history\\TEST_REPORT_before_network_fix.md"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\data\\database\\.gitkeep",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\data\\database\\.gitkeep"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\data\\database\\soak6.sqlite3",
+    "Bytes": 1019904,
+    "SHA256": "58C736BFEBECF688631ABD8FFFB453C8150910F267A112AC3D9B95796688AB02",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\data\\database\\soak6.sqlite3"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\config\\default.toml",
+    "Bytes": 650,
+    "SHA256": "C7E7EA94AEC230014540A74BF67B8F88B314CE1B76FA1384D8926F216511F409",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\config\\default.toml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\config\\grid.json",
+    "Bytes": 40,
+    "SHA256": "D73D8E5A03422C1FE7942E31ED74999AC879F2CE817DA70BF9CCB99564E24F08",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\config\\grid.json"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\config\\paper_upbit.toml",
+    "Bytes": 1552,
+    "SHA256": "9EAC40242265EC2641AF2A8F205098E4AF4C1B243A306D3DE1229767C5ECF485",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\config\\paper_upbit.toml"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\alembic\\env.py",
+    "Bytes": 755,
+    "SHA256": "93ABCB56B7644F319DBD9DAF2B135B1E2702FB3BDDDB6AE779C2EE15F9834F1C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\alembic\\env.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\alembic\\versions\\0001_paper_ledger.py",
+    "Bytes": 9348,
+    "SHA256": "888D1682BB588A614B7F9FEE10C0CEDCA9B8F68024145C2022CD199AEC9F5B10",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\alembic\\versions\\0001_paper_ledger.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\alembic\\versions\\0002_decimal_accounting.py",
+    "Bytes": 1867,
+    "SHA256": "E9504F2D4DE88AAC73FE32E9A476282FF705560EC48BE1D487ADD3DBD604B967",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\alembic\\versions\\0002_decimal_accounting.py"
+  },
+  {
+    "Path": "trading_platform_phase4_5c1_pass\\alembic\\versions\\0003_exact_accounting.py",
+    "Bytes": 2596,
+    "SHA256": "859F0687636F4E55D870BE821056E10F4638916EE4996602789275688634410C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_phase4_5c1_pass\\alembic\\versions\\0003_exact_accounting.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\.dockerignore",
+    "Bytes": 97,
+    "SHA256": "0749DC12E73B6C0DA5E10AE3D507D4F415BC65A9BEF44FC4BA83CFE209B83D9B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\.dockerignore"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\.env.example",
+    "Bytes": 65,
+    "SHA256": "8E718AC9C684B09342358E2FC54BA96F2BA073CFC404DEC7785502E1ED2F0B6A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\.env.example"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\.gitignore",
+    "Bytes": 122,
+    "SHA256": "FCB2C7E722B8C77CAB7DB26EC2257DE1FAD5547E78D35E0E6C51F9603F682C5A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\.gitignore"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\alembic.ini",
+    "Bytes": 91,
+    "SHA256": "9815704EEC7208BFDF136AE6A0AC7DCC764DAE768126A22BBD4CB686ED18CC14",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\alembic.ini"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docker-compose.paper.yml",
+    "Bytes": 279,
+    "SHA256": "0C4A7677286DB4500C7197A7084E6BD119BFD89DE6413B6D66282676D43DEA7D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docker-compose.paper.yml"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docker-compose.postgres.yml",
+    "Bytes": 326,
+    "SHA256": "55EBBEF698259645E9255A1F9BF578F6B347BC70932FAAB3C8DA93E5416A5970",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docker-compose.postgres.yml"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docker-compose.yml",
+    "Bytes": 235,
+    "SHA256": "77A1B40F8CAB4B0FF8239EF10BD815AAEC68D93B01F27BC16CA7CDD3E2EF6129",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docker-compose.yml"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\Dockerfile",
+    "Bytes": 381,
+    "SHA256": "AB2A55B347D143CF3B3433724F2B4511EEB8B9220262664507BB15EC2DF3CDF9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\Dockerfile"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\main.py",
+    "Bytes": 72,
+    "SHA256": "7E84583569B511CB2122E8EE9D763C93E58FCC3AEF34504BAF76DBEDEA3D0A44",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\main.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\MANIFEST.sha256.json",
+    "Bytes": 35471,
+    "SHA256": "C5F005C88D28FF8CD67C58FE47162EFC7CBF9532D01E3801C55AE01C04142BFC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\MANIFEST.sha256.json"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\pyproject.toml",
+    "Bytes": 720,
+    "SHA256": "921088C09F283851C208D3934A51809017AE94E2DFD77AA983BDC47D55C0CCE0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\pyproject.toml"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\README.md",
+    "Bytes": 11805,
+    "SHA256": "2A89E86B162EA078D44DFC388E7F692C13B198858AFA5C284FB1EA5FAB5114BD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\README.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\requirements.txt",
+    "Bytes": 212,
+    "SHA256": "AEE741D172216356693101FA5FCDBB9533B139B61DF23CAFD92B1B742D799796",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\requirements.txt"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\__main__.py",
+    "Bytes": 41,
+    "SHA256": "6A1195A688C9775F37DF8D0E72278F068216AD32452FD4F3463C7BA3736D5352",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\__main__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\main.py",
+    "Bytes": 4672,
+    "SHA256": "5EAD4BDABA87BE58363AE6D90EE0DAFA7629135B12654E2218DB74BA048C5885",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\main.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\__init__.py",
+    "Bytes": 178,
+    "SHA256": "A15EF7C288CCAEB3F73F08539CC46E1A4D70711AD3BA64F0FA51F96DB21E9D16",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\base_strategy.py",
+    "Bytes": 1503,
+    "SHA256": "9BBC01FB58AB8F230E947EF5E66E9C0419F69C03217D358134F1076CF9576F43",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\base_strategy.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\breakout_strategy.py",
+    "Bytes": 1302,
+    "SHA256": "1AF63E8334B4DAE33AE0442F350FDEC89C7D3325B6A0BCEA5F1DC8C15E5FF032",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\breakout_strategy.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\ema_cross.py",
+    "Bytes": 1143,
+    "SHA256": "0820EA1AE047B3C1A2679E1CB50DF2ADB508FE687711288343C8FB73D0091B59",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\ema_cross.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\ensemble.py",
+    "Bytes": 979,
+    "SHA256": "5F93E4A8E9763529F712F59D530743E7D0D5B36BD48A72A072CA8D125CEEF003",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\ensemble.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\rsi_strategy.py",
+    "Bytes": 1709,
+    "SHA256": "C89BA89676C24E48B7D76D0A1F91F5781569E8F6E1B8550E7852F03973A7F227",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\strategies\\rsi_strategy.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\__init__.py",
+    "Bytes": 74,
+    "SHA256": "8D10FB1CE558DE17E8748F2A287642AA148676453B74012EFA1BF31CA82B1DDD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\decimal_type.py",
+    "Bytes": 804,
+    "SHA256": "C57DA691281DDCC5FA7D2C370F9634E819D5FE23A69517473A2C8AA2CE24C40B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\decimal_type.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\lease.py",
+    "Bytes": 4799,
+    "SHA256": "99E0607092A21B8D7D3F4A8EACB6B4FDB4FA435CE33D5184D02B5243D89DEB6D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\lease.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\ledger.py",
+    "Bytes": 25274,
+    "SHA256": "B3C25810818DC7BB65A76E0D02BBBAD3B426E0C1BE53C7AFD2F575D23F6D2156",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\ledger.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\models.py",
+    "Bytes": 8683,
+    "SHA256": "9A3AE8483E963A161DF8947B0ABF1D8CDEA49B56CB2D16D902677065894B1822",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\models.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\retention.py",
+    "Bytes": 1182,
+    "SHA256": "D4784FA33F8D0C918390AB45D320E33CD0C8730F2D5F1D0A9A755A6C3FA8723E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\retention.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\runtime.py",
+    "Bytes": 8003,
+    "SHA256": "12BE0A2E1DE8C1B6906736BE33B3C164D5BD6E630890C32F9720F7F2E3D807AA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\persistence\\runtime.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\paper_trading\\__init__.py",
+    "Bytes": 39,
+    "SHA256": "66FD147D5C7AA4A79E5A8387329A4633F5D97D33C22E7E5C4C422B94D08F452F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\paper_trading\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\paper_trading\\engine.py",
+    "Bytes": 10099,
+    "SHA256": "26E8DE418100D569BE8ADE3EBA9A0C07AD603BC060B1672344CF4E78BB0C52F5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\paper_trading\\engine.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\paper_trading\\runner.py",
+    "Bytes": 7421,
+    "SHA256": "A83F9CCF97037400FCFECA2675B4CB4C10C1364DA9D7A26BA0D179EC60993586",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\paper_trading\\runner.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\monitoring\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\monitoring\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\monitoring\\events.py",
+    "Bytes": 561,
+    "SHA256": "68F43D6AF68E9BA979B12848C62781E0CEAB2DA076050AAF6B24326FD7B02A58",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\monitoring\\events.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\monitoring\\rotating.py",
+    "Bytes": 1215,
+    "SHA256": "8C8764F2217C7303CAC0A3C9EDA01905D4C1BB1169D4F6BCE2C77C09AE3B66E1",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\monitoring\\rotating.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\data\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\data\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\data\\feeds.py",
+    "Bytes": 6047,
+    "SHA256": "1499477381C11519D94D23C9D700B4DCA25F978A556D625FD33A79128331BBD9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\data\\feeds.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\data\\market_data.py",
+    "Bytes": 3390,
+    "SHA256": "2C1EE2485541AEBFAD0FC3C89B0941754357CC8612F5DDC5CE232C915CF2BD4F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\data\\market_data.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\data\\upbit_ws.py",
+    "Bytes": 3482,
+    "SHA256": "05F7E87E8527385E1376FF502195B01F53C3E78AED9809148728843086BDFCC9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\data\\upbit_ws.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\session.py",
+    "Bytes": 1694,
+    "SHA256": "5B616162AAB94809E8BD61B37E90CD41555F957A545BAC7714317AEB1755A662",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\session.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\risk\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\risk\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\risk\\engine.py",
+    "Bytes": 3942,
+    "SHA256": "B00FEEF5736BE783169DA50C9D9F5AE08510A69FD5927A0084BA8CB00FFE03AC",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\risk\\engine.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\portfolio\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\portfolio\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\portfolio\\engine.py",
+    "Bytes": 4046,
+    "SHA256": "3FAA6B1790C9124D17F4974A5ABBBEAFE60ECB1C1E152DA71A28C6649A0D0917",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\portfolio\\engine.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\portfolio\\precision.py",
+    "Bytes": 1574,
+    "SHA256": "4D57CC1D9D18D02BA41C096625DDE4D4264DDD5833F06C4E327B11E055C530B5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\portfolio\\precision.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\execution\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\execution\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\execution\\engine.py",
+    "Bytes": 6524,
+    "SHA256": "267B8CE589203A3E00A9831A2F7954BE2507E8CF8210DF6872D3768BFDBC082D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\execution\\engine.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\base.py",
+    "Bytes": 733,
+    "SHA256": "B5601193163316A8996507FC89746360556E5CEE99D1F1C16EDD25CB394CAA40",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\base.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\mock.py",
+    "Bytes": 1667,
+    "SHA256": "2B85ED3481F6523C6C0F59F05AF74419F5C95EDE219C91E4D750C9A44A8C240C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\mock.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\public.py",
+    "Bytes": 1463,
+    "SHA256": "D11A618F31E9F81251E0EAFC6FFD13D13B3C14AEDF8B95A3C8ED285F88C43F0F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\public.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\upbit_public.py",
+    "Bytes": 7879,
+    "SHA256": "8A60FA3138896BF38F459C0611C25940341D6AFE269A2BA540709ACC1D830E95",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\exchange\\upbit_public.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\events\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\events\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\events\\market.py",
+    "Bytes": 2186,
+    "SHA256": "44D6EC41D2B72B8111F3F976C54CF2D43A1653AA818DE93A2A54BB5C39E6A2F0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\events\\market.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\core\\events\\models.py",
+    "Bytes": 3416,
+    "SHA256": "0E194DB1A53C7095520E6117545010972E6041ED2522E822E39FA85C0E7EF177",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\core\\events\\models.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\config\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\config\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\config\\settings.py",
+    "Bytes": 5499,
+    "SHA256": "463EC2389F2FCAEE354186EB1CD45380CF60177074E1B791016A0FFC1CD140BD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\config\\settings.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\backtest\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\backtest\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\backtest\\engine.py",
+    "Bytes": 4634,
+    "SHA256": "A2C236A6F432C6406A02DB6D48128DAAC6CDC04C55F65F8C440B8E189F28774E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\backtest\\engine.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\backtest\\validation.py",
+    "Bytes": 4480,
+    "SHA256": "BC35E0735BFEC2BC7B6A47C77E4065688C47D0DB988A22C4C5BA00D87457D05B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\backtest\\validation.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\api\\__init__.py",
+    "Bytes": 32,
+    "SHA256": "BF937B038AB9951532E97D1472D02FC48ADA0CDA346D414752B15303A0091A1F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\api\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\api\\app.py",
+    "Bytes": 5785,
+    "SHA256": "197CA349D6E8867983F6F4ACA1C26ADC904FB2BA957B705C37C819DF6300BA11",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\api\\app.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\analytics\\__init__.py",
+    "Bytes": 0,
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\analytics\\__init__.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\analytics\\metrics.py",
+    "Bytes": 2252,
+    "SHA256": "20FAB3DD6CDEFF92F22C4BED87FCAB82102EC81FA9E42A472D37C857772D324A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\analytics\\metrics.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\trading_bot\\analytics\\report.py",
+    "Bytes": 6240,
+    "SHA256": "14373DBF10B108306D8468E2DE05CD20EBF03D1B91259DFC5ACA1F29432B94E9",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\trading_bot\\analytics\\report.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tools\\upbit_connection_diagnostics.zip",
+    "Bytes": 20252,
+    "SHA256": "7B1E8FDD173812B090FC1EC43A0D086B5661BC1D1FF912BB9FAB859FB4C592B1",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tools\\upbit_connection_diagnostics.zip"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\conftest.py",
+    "Bytes": 1147,
+    "SHA256": "DC1A89E0BB1C66E555A9764CD7308345595058BC27C2B52B2C028B2C9BBAB0DD",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\conftest.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\test_core.py",
+    "Bytes": 9380,
+    "SHA256": "6D614D3B1EE1004B47FCD018D9429716731523E2C905E9E1718E83EBB7D86966",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\test_core.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\test_phase3_adapter.py",
+    "Bytes": 10472,
+    "SHA256": "AC59D00394B05A401529A080C5B05F07D905F58DDF257B360F7D608F1E02EEC0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\test_phase3_adapter.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\test_phase3_feed.py",
+    "Bytes": 4503,
+    "SHA256": "278B1F4B049D5F47AC1F4DEF018B18E1A8B4BD0C3F6FAC2E3F87970F5EB5FEB4",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\test_phase3_feed.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\test_phase3_paper.py",
+    "Bytes": 13150,
+    "SHA256": "691CF654B052869BD1A19D4EADAEFAF5A39FDFC06A922E6487C982E5618DB643",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\test_phase3_paper.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\test_phase4_persistence.py",
+    "Bytes": 15604,
+    "SHA256": "BD56429453CB6ACAEFB2659E8DBEA8B0A5F1CE344FE82DD5FD433E9B82386DCF",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\test_phase4_persistence.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\test_phase45_hardening.py",
+    "Bytes": 13665,
+    "SHA256": "182044C06A0B27DA066EF9A469C00B5749D0778136052BECB70DD936E6A219B1",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\test_phase45_hardening.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\test_phase45b_precision.py",
+    "Bytes": 11018,
+    "SHA256": "2B145D27CD52FD96DC2A31613106AF21F6D1AC2BC920A3F85769AE7879D2EB81",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\test_phase45b_precision.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\tests\\test_research.py",
+    "Bytes": 4403,
+    "SHA256": "5A0D4CEDBF9DFB1EFD320ADA42C613F2BC8B37E4C81A555612CB645327A87A18",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\tests\\test_research.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\scripts\\benchmark_feed.py",
+    "Bytes": 894,
+    "SHA256": "A37F2155FCA5F1587C2C61A38344B8B01B33BFD5637BB91919F93FD1F8F4EEE5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\scripts\\benchmark_feed.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\scripts\\phase45c1_accept.py",
+    "Bytes": 17043,
+    "SHA256": "F85FB6316AF3264E68670038C0F25257E3ACB7680B262D6CB320F7E573133911",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\scripts\\phase45c1_accept.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\scripts\\public_integration.py",
+    "Bytes": 1377,
+    "SHA256": "837E2FB36E72D7DB80AB8370ACD3F71F0366AB883B8215A66D203E63FFFDEB87",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\scripts\\public_integration.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\scripts\\reconcile_paper.py",
+    "Bytes": 2277,
+    "SHA256": "5D1E1A0DD8D80E288E005AE9320D8FF28ED06A9F4641CD9254484E5911477116",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\scripts\\reconcile_paper.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\scripts\\soak_paper.py",
+    "Bytes": 6163,
+    "SHA256": "C10CFF26698E1793165FDBA929F97E97EE287451275398103CE12B8D3210828C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\scripts\\soak_paper.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\scripts\\verify_postgres.py",
+    "Bytes": 3446,
+    "SHA256": "C7A4C325F1974F98AF7D95CB2B4D5853E710ECD0607AAEF9D007CB73E6D378C6",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\scripts\\verify_postgres.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\ARCHITECTURE.md",
+    "Bytes": 13164,
+    "SHA256": "AFA83F8C657153B3DBDF06197E4DCC7EA18F1FDB81949E8A09146248987F73D5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\ARCHITECTURE.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\DATABASE.md",
+    "Bytes": 6964,
+    "SHA256": "25746E92969EC31EC2B96E41FD6191E22B00D2BE97F5E8CA601505779FE3703C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\DATABASE.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\IMPLEMENTATION_SUMMARY.md",
+    "Bytes": 5308,
+    "SHA256": "6A8B7F0683F067C463F99A64E8E4D6BD84D7E9A4D9A9FB2DA948750C97E9DD79",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\IMPLEMENTATION_SUMMARY.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\NETWORK_FIX.md",
+    "Bytes": 2426,
+    "SHA256": "853F77171BF3B3356FF5F51CAC90CEBC4F3AA81312D6DB9C5EF142048DE26C1F",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\NETWORK_FIX.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\NEXT_STEPS.md",
+    "Bytes": 2670,
+    "SHA256": "78F607395E85CEE042DFAD8532CAA3CCA635000747D0C66874CB931ED09C1B8A",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\NEXT_STEPS.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\OPERATIONS.md",
+    "Bytes": 3813,
+    "SHA256": "65DBEB0730CBD388D642231522958CA53C540EDFAFB598D085C4C228077BB5C0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\OPERATIONS.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\PHASE_4_5_C1_REPORT.md",
+    "Bytes": 3905,
+    "SHA256": "E1EBB6262E8F6C006E5A039DCB0441AF67EA25FA8C933F2502614935AC842AFA",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\PHASE_4_5_C1_REPORT.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\PHASE1_2_README.md",
+    "Bytes": 15585,
+    "SHA256": "2EB8325848A49C4A0D2B8E87E17DD0AEABFDA2F42D97D4D70A057FB5DB50E4D0",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\PHASE1_2_README.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\PRE_LIVE_GATE.md",
+    "Bytes": 3341,
+    "SHA256": "FE59635B227A2EA68EE22E6ECD295F9FD8D88728AB4ECD7645A24A8AA3F29A2D",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\PRE_LIVE_GATE.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\RECOVERY.md",
+    "Bytes": 6016,
+    "SHA256": "A286C81A7DE6F9CAA66F8E906BD952947A2B3FE660A4B909D9FCA8A10A6AF62B",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\RECOVERY.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\ROADMAP.md",
+    "Bytes": 11949,
+    "SHA256": "6880A41E4A714B722151D5BB57D5CBEB390DD1C059026B2A32337471A4F6790E",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\ROADMAP.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\SOAK_TEST.md",
+    "Bytes": 4522,
+    "SHA256": "BC2D9871BC34662B4420735494CD4F93374419CB638E5254AB42C907B6395DAE",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\SOAK_TEST.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\TEST_REPORT.md",
+    "Bytes": 13047,
+    "SHA256": "AA8D855543D54380011333895CA42ED37D1A86D98CA0BCCB87D3C844F40592E2",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\TEST_REPORT.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\history\\IMPLEMENTATION_SUMMARY_before_network_fix.md",
+    "Bytes": 4177,
+    "SHA256": "0F871703F5908B54C5DD3E39CE064671B75A7F7AB696B9B7440387D2C72204E5",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\history\\IMPLEMENTATION_SUMMARY_before_network_fix.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\history\\NEXT_STEPS_before_network_fix.md",
+    "Bytes": 3929,
+    "SHA256": "26FD40712DE639BE585CE22494CAA814B2B9F81FB67B5B7A6F6A9EA186292867",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\history\\NEXT_STEPS_before_network_fix.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\history\\ROADMAP_before_network_fix.md",
+    "Bytes": 5111,
+    "SHA256": "321B77DDBA9E75E23EB275BEAE01962CB7A21D7AA5EA25234E9B8042A0202722",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\history\\ROADMAP_before_network_fix.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\docs\\history\\TEST_REPORT_before_network_fix.md",
+    "Bytes": 5399,
+    "SHA256": "AF3F96EA551228D6E55BAB9132D7E2B2B84B62BCA66104255817DC13EFC9C722",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\docs\\history\\TEST_REPORT_before_network_fix.md"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\config\\default.toml",
+    "Bytes": 650,
+    "SHA256": "C7E7EA94AEC230014540A74BF67B8F88B314CE1B76FA1384D8926F216511F409",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\config\\default.toml"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\config\\grid.json",
+    "Bytes": 40,
+    "SHA256": "D73D8E5A03422C1FE7942E31ED74999AC879F2CE817DA70BF9CCB99564E24F08",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\config\\grid.json"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\config\\paper_upbit.toml",
+    "Bytes": 1552,
+    "SHA256": "9EAC40242265EC2641AF2A8F205098E4AF4C1B243A306D3DE1229767C5ECF485",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\config\\paper_upbit.toml"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\alembic\\env.py",
+    "Bytes": 755,
+    "SHA256": "93ABCB56B7644F319DBD9DAF2B135B1E2702FB3BDDDB6AE779C2EE15F9834F1C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\alembic\\env.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\alembic\\versions\\0001_paper_ledger.py",
+    "Bytes": 9348,
+    "SHA256": "888D1682BB588A614B7F9FEE10C0CEDCA9B8F68024145C2022CD199AEC9F5B10",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\alembic\\versions\\0001_paper_ledger.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\alembic\\versions\\0002_decimal_accounting.py",
+    "Bytes": 1867,
+    "SHA256": "E9504F2D4DE88AAC73FE32E9A476282FF705560EC48BE1D487ADD3DBD604B967",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\alembic\\versions\\0002_decimal_accounting.py"
+  },
+  {
+    "Path": "trading_platform_c1_code_checkpoint\\alembic\\versions\\0003_exact_accounting.py",
+    "Bytes": 2596,
+    "SHA256": "859F0687636F4E55D870BE821056E10F4638916EE4996602789275688634410C",
+    "Source": "C:\\Users\\은동\\Documents\\project_tradingBot\\trading_platform_c1_code_checkpoint\\alembic\\versions\\0003_exact_accounting.py"
+  },
+  {
+    "Path": "original_zips\\trading_platform_c1_code_checkpoint.zip",
+    "Bytes": 210568,
+    "SHA256": "2A700A3C4BA4C2D3C08AED663B9A36058F96163437769ACAA08C749C42ABE1A4",
+    "Source": "C:\\Users\\은동\\Downloads\\trading_platform_c1_code_checkpoint.zip"
+  },
+  {
+    "Path": "original_zips\\trading_platform_phase4_5c1_pass(2).zip",
+    "Bytes": 3373859,
+    "SHA256": "7A49FCA1C80F72F22D0A00BE9EC7D27E1418ED93D1FBAF23D2FC1F355BD7595E",
+    "Source": "C:\\Users\\은동\\Downloads\\trading_platform_phase4_5c1_pass(2).zip"
+  },
+  {
+    "Path": "original_zips\\trading_platform_v0.1_phase1-2.zip",
+    "Bytes": 1606714,
+    "SHA256": "397E6D5925FDAE5461FDD59F757E9178BF8CB505D7D0F050EF4BA9686A091BEC",
+    "Source": "C:\\Users\\은동\\Downloads\\trading_platform_v0.1_phase1-2.zip"
+  }
+]

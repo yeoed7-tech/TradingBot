@@ -1,0 +1,9 @@
+{
+  "status": "NOT RUN",
+  "reason": "Final runtime state and SQLite file lost with Work environment reset",
+  "intermediate_observation": "At approximately 8.5 minutes a read-only SQLite backup independently reconciled cash/position/cost/fees/realized; at approximately 30 minutes SQLite quick_check=ok and duplicate keys=0. These observations cannot substitute for final verification.",
+  "final_cash": null,
+  "final_position": null,
+  "final_fees": null,
+  "final_realized_pnl": null
+}

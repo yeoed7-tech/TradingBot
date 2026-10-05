@@ -1,0 +1,10 @@
+{
+  "status": "NOT RUN",
+  "reason": "Final adapter audit lost with interrupted Work run",
+  "public_rest_count": null,
+  "public_websocket_messages": null,
+  "private_api_count": null,
+  "order_http_count": null,
+  "cancel_http_count": null,
+  "note": "GuardedUpbit permits only allowlisted public GET methods, but 1-hour measured totals are unavailable."
+}

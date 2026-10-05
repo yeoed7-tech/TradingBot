@@ -1,0 +1,18 @@
+{
+  "orders": 2,
+  "fills": 2,
+  "candles": 123,
+  "cursor": "2026-09-28T07:56:00+00:00",
+  "cash": 999802.51063318,
+  "realized_pnl": -197.48936681999476,
+  "fees": 99.99526682,
+  "positions": [
+    [
+      "BTC/KRW",
+      0.0
+    ]
+  ],
+  "risk_killed": false,
+  "run_status": "PAUSED",
+  "strategy_version": "__main__:DiagnosticCycle"
+}

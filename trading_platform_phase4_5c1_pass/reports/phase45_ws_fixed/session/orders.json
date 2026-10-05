@@ -1,0 +1,16 @@
+[
+  {
+    "symbol": "BTC/KRW",
+    "side": "BUY",
+    "quantity": 0.00088201,
+    "strategy": "ema_cross",
+    "created_at": "2026-09-28 16:15:10.699818+00:00",
+    "eligible_bar": 120,
+    "order_type": "MARKET",
+    "limit_price": null,
+    "id": "a009f0a2-7628-4f0c-bd12-66123148097d",
+    "status": "FILLED",
+    "filled": 0.00088201,
+    "reason": ""
+  }
+]

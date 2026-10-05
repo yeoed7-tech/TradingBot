@@ -1,0 +1,8 @@
+{
+  "ema_cross/equity.csv": "identical",
+  "ema_cross/trades.csv": "identical",
+  "rsi/equity.csv": "identical",
+  "rsi/trades.csv": "identical",
+  "breakout/equity.csv": "identical",
+  "breakout/trades.csv": "identical"
+}

@@ -1,0 +1,6 @@
+           total_return      cagr    sharpe   sortino  max_drawdown    calmar  win_rate  profit_factor  average_win  average_loss  payoff_ratio  number_of_trades  average_holding_hours  exposure  volatility
+strategy                                                                                                                                                                                                      
+ema_cross     -0.171993 -0.073735 -1.354750 -1.572036     -0.191566 -0.384904  0.000000       0.000000          NaN  -4299.831466           NaN                 4                  522.0  0.096667    0.055392
+rsi            0.110802  0.043568  0.439095  0.644413     -0.130956  0.332693  1.000000            NaN  5540.087900           NaN           NaN                 2                 4560.0  0.295556    0.111173
+breakout      -0.017117 -0.006982 -0.524653 -0.607447     -0.036097 -0.193432  0.444444       0.508936   443.494929   -697.132319       0.63617                 9                   24.0  0.010000    0.013189
+Output: /workspace/scratch/32862f77f60b/trading_platform/reports/demo

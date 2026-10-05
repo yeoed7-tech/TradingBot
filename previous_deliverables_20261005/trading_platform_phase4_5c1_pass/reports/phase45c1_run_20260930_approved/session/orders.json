@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "BTC/KRW",
+    "side": "BUY",
+    "quantity": "0.00088148",
+    "strategy": "ema_cross",
+    "created_at": "2026-09-30 02:08:02.943274+00:00",
+    "eligible_bar": 163,
+    "order_type": "MARKET",
+    "limit_price": null,
+    "id": "286b0adf-2dc1-4e48-81c6-6bec4dd6f3d8",
+    "status": "FILLED",
+    "filled": "0.00088148",
+    "fills_seen": 1,
+    "reason": ""
+  },
+  {
+    "symbol": "BTC/KRW",
+    "side": "SELL",
+    "quantity": "0.00088148",
+    "strategy": "ema_cross",
+    "created_at": "2026-09-30 02:19:02.942533+00:00",
+    "eligible_bar": 174,
+    "order_type": "MARKET",
+    "limit_price": null,
+    "id": "37afe83a-671a-42da-8c14-31ef47c672ce",
+    "status": "FILLED",
+    "filled": "0.00088148",
+    "fills_seen": 9,
+    "reason": ""
+  }
+]

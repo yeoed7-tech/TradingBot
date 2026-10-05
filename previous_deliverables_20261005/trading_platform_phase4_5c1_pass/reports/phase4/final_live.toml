@@ -1,0 +1,52 @@
+live_trading = false
+[strategy]
+name = "ema_cross"
+[strategy.params]
+fast = 20
+slow = 100
+weight = 0.1
+
+[risk]
+max_gross_weight = 0.3
+max_symbol_weight = 0.2
+fixed_fraction = 0.1
+rebalance_tolerance = 0.005
+max_slippage_bps = 100
+
+[paper_trading]
+exchange = "upbit"
+symbol = "BTC/KRW"
+timeframe = "1m"
+starting_cash = 1000000
+fee_rate = 0.0005 # Simulation assumption; NOT authenticated account fee.
+slippage_bps = 5
+poll_interval = 3
+request_timeout = 15
+network_trust_env = true # Use this execution host's approved proxy settings.
+# ca_bundle_path = "/path/to/approved-ca-bundle.pem"  # Optional; default is system trust.
+stale_data_timeout = 90
+quote_max_age = 10
+warmup_bars = 120
+page_size = 200
+max_pages = 100
+max_gap_bars = 1440
+max_book_participation = 0.1
+rules_source = "https://docs.upbit.com/kr/docs/krw-market-info (checked 2026-09-28)"
+
+[paper_trading.market_rules]
+min_notional = 5000
+min_quantity = 0
+quantity_step = 0.00000001
+price_tick = 0.00000001
+price_tiers = [[1000000,1000],[500000,500],[100000,100],[50000,50],[10000,10],[5000,5],[100,1],[10,0.1],[1,0.01],[0.1,0.001],[0.01,0.0001],[0.001,0.00001],[0.0001,0.000001],[0.00001,0.0000001],[0,0.00000001]]
+
+[paper_trading.reconnect]
+max_attempts = 3
+base_backoff = 0.5
+max_backoff = 8
+max_consecutive_failures = 5
+
+[persistence]
+enabled = true
+database_url = "sqlite:///reports/phase4/final_live.sqlite3"
+account = "paper"

@@ -1,0 +1,142 @@
+{
+  "folds": [
+    {
+      "train_start": "2022-01-01 00:00:00+00:00",
+      "train_end_exclusive": "2022-10-28 00:00:00+00:00",
+      "test_start": "2022-10-28 00:00:00+00:00",
+      "test_end_inclusive": "2023-03-26 00:00:00+00:00",
+      "selected_params": {
+        "fast": 30,
+        "slow": 140,
+        "weight": 0.4
+      },
+      "metrics": {
+        "total_return": -0.07718282805294929,
+        "cagr": -0.17765008852585562,
+        "sharpe": -0.9333564203786258,
+        "sortino": -1.2751388012379599,
+        "max_drawdown": -0.13465683224417357,
+        "calmar": -1.3192801699339123,
+        "win_rate": 0.5,
+        "profit_factor": 0.23095808139009927,
+        "average_win": 2317.948794727982,
+        "average_loss": -10036.231600022931,
+        "payoff_ratio": 0.23095808139009927,
+        "number_of_trades": 2,
+        "average_holding_hours": 1992.0,
+        "exposure": 0.8333333333333334,
+        "volatility": 0.19022406641093872
+      },
+      "warnings": [
+        "Multiple parameter tests introduce selection bias; untouched validation remains required.",
+        "Neighborhood stability is a heuristic, not a proof against overfitting.",
+        "Selected candidate has fewer than 30 completed trades.",
+        "Selected candidate touches search boundary."
+      ]
+    },
+    {
+      "train_start": "2022-05-31 00:00:00+00:00",
+      "train_end_exclusive": "2023-03-27 00:00:00+00:00",
+      "test_start": "2023-03-27 00:00:00+00:00",
+      "test_end_inclusive": "2023-08-23 00:00:00+00:00",
+      "selected_params": {
+        "fast": 30,
+        "slow": 140,
+        "weight": 0.4
+      },
+      "metrics": {
+        "total_return": -0.01225133594819594,
+        "cagr": -0.029570236428808027,
+        "sharpe": -0.1034815916304696,
+        "sortino": -0.1455264315459261,
+        "max_drawdown": -0.09762549647362073,
+        "calmar": -0.30289460742254115,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "average_win": null,
+        "average_loss": -5761.859897331867,
+        "payoff_ratio": null,
+        "number_of_trades": 1,
+        "average_holding_hours": 2568.0,
+        "exposure": 0.8,
+        "volatility": 0.16277815641949425
+      },
+      "warnings": [
+        "Multiple parameter tests introduce selection bias; untouched validation remains required.",
+        "Neighborhood stability is a heuristic, not a proof against overfitting.",
+        "Selected candidate has fewer than 30 completed trades.",
+        "Selected candidate touches search boundary."
+      ]
+    },
+    {
+      "train_start": "2022-10-28 00:00:00+00:00",
+      "train_end_exclusive": "2023-08-24 00:00:00+00:00",
+      "test_start": "2023-08-24 00:00:00+00:00",
+      "test_end_inclusive": "2024-01-20 00:00:00+00:00",
+      "selected_params": {
+        "fast": 30,
+        "slow": 140,
+        "weight": 0.4
+      },
+      "metrics": {
+        "total_return": 0.06527127516190578,
+        "cagr": 0.16644865641174944,
+        "sharpe": 1.1471968067883451,
+        "sortino": 1.7206037471088496,
+        "max_drawdown": -0.07119777950425787,
+        "calmar": 2.337834937700483,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "average_win": null,
+        "average_loss": -5120.778035625278,
+        "payoff_ratio": null,
+        "number_of_trades": 1,
+        "average_holding_hours": 576.0,
+        "exposure": 0.6666666666666666,
+        "volatility": 0.14310000778076237
+      },
+      "warnings": [
+        "Multiple parameter tests introduce selection bias; untouched validation remains required.",
+        "Neighborhood stability is a heuristic, not a proof against overfitting.",
+        "Selected candidate has fewer than 30 completed trades.",
+        "Selected candidate touches search boundary."
+      ]
+    },
+    {
+      "train_start": "2023-03-27 00:00:00+00:00",
+      "train_end_exclusive": "2024-01-21 00:00:00+00:00",
+      "test_start": "2024-01-21 00:00:00+00:00",
+      "test_end_inclusive": "2024-06-18 00:00:00+00:00",
+      "selected_params": {
+        "fast": 30,
+        "slow": 140,
+        "weight": 0.4
+      },
+      "metrics": {
+        "total_return": -0.18837921389631895,
+        "cagr": -0.39844554539862165,
+        "sharpe": -3.56830462271756,
+        "sortino": -4.391285157246867,
+        "max_drawdown": -0.19975667127354046,
+        "calmar": -1.9946545107021878,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "average_win": null,
+        "average_loss": -7336.613957390735,
+        "payoff_ratio": null,
+        "number_of_trades": 2,
+        "average_holding_hours": 1020.0,
+        "exposure": 0.72,
+        "volatility": 0.13961362870060068
+      },
+      "warnings": [
+        "Multiple parameter tests introduce selection bias; untouched validation remains required.",
+        "Neighborhood stability is a heuristic, not a proof against overfitting.",
+        "Selected candidate has fewer than 30 completed trades.",
+        "Selected candidate touches search boundary."
+      ]
+    }
+  ],
+  "policy": "Independent folds with indicator warm-up and fresh cash; no stitched portfolio return."
+}
+Output: /workspace/scratch/32862f77f60b/trading_platform/reports/walk_forward

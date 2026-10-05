@@ -1,0 +1,6077 @@
+{
+  "start": "2026-10-01T14:23:33.716564+00:00",
+  "end": "2026-10-01T22:00:32.609167+00:00",
+  "requested_seconds": 21600.0,
+  "duration": 27418.890999999945,
+  "rss_min": null,
+  "rss_max": null,
+  "rss_delta": null,
+  "db_size": 876544,
+  "log_size": 63670,
+  "orders": 1,
+  "fills": 2,
+  "signals": 137,
+  "reconnects": 0,
+  "stale": 0,
+  "gaps": 0,
+  "duplicates": 0,
+  "rest_requests": 2680,
+  "exceptions": 1,
+  "risk_halt": false,
+  "lease_token": 1,
+  "final_cash": "899862.158201050000000000000000",
+  "final_equity": "1000381.933241050000000000000000",
+  "final_pnl": "381.933241050000000000000000",
+  "final_realized_pnl": "0E-24",
+  "live_private_http_call_count": 0,
+  "quote_source": "websocket",
+  "table_counts": {
+    "ohlcv": 256,
+    "signals": 137,
+    "orders": 1,
+    "fills": 2,
+    "positions": 1,
+    "portfolio_snapshots": 2680,
+    "system_events": 1
+  },
+  "samples": [
+    {
+      "at": "2026-10-01T14:24:03.733793+00:00",
+      "elapsed_seconds": 30.015999999945052,
+      "rss_bytes": null,
+      "db_bytes": 151552,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 121,
+        "signals": 2,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 10,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:24:33.739411+00:00",
+      "elapsed_seconds": 60.01599999994505,
+      "rss_bytes": null,
+      "db_bytes": 159744,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 121,
+        "signals": 2,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 20,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:25:03.741560+00:00",
+      "elapsed_seconds": 90.01599999994505,
+      "rss_bytes": null,
+      "db_bytes": 159744,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 122,
+        "signals": 3,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 30,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:25:33.743057+00:00",
+      "elapsed_seconds": 120.01599999994505,
+      "rss_bytes": null,
+      "db_bytes": 163840,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 122,
+        "signals": 3,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 40,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:26:03.742177+00:00",
+      "elapsed_seconds": 150.01599999994505,
+      "rss_bytes": null,
+      "db_bytes": 167936,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 123,
+        "signals": 4,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 50,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:26:33.741784+00:00",
+      "elapsed_seconds": 180.01599999994505,
+      "rss_bytes": null,
+      "db_bytes": 167936,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 123,
+        "signals": 4,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 59,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:27:03.765217+00:00",
+      "elapsed_seconds": 210.0470000000205,
+      "rss_bytes": null,
+      "db_bytes": 172032,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 124,
+        "signals": 5,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 69,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:27:33.779653+00:00",
+      "elapsed_seconds": 240.06299999996554,
+      "rss_bytes": null,
+      "db_bytes": 172032,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 124,
+        "signals": 5,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 79,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:28:03.800029+00:00",
+      "elapsed_seconds": 270.0779999999795,
+      "rss_bytes": null,
+      "db_bytes": 176128,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 125,
+        "signals": 6,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 89,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:28:33.806658+00:00",
+      "elapsed_seconds": 300.0779999999795,
+      "rss_bytes": null,
+      "db_bytes": 180224,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 125,
+        "signals": 6,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 99,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:29:03.831098+00:00",
+      "elapsed_seconds": 330.10999999998603,
+      "rss_bytes": null,
+      "db_bytes": 180224,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 126,
+        "signals": 7,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 109,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:29:33.837531+00:00",
+      "elapsed_seconds": 360.10999999998603,
+      "rss_bytes": null,
+      "db_bytes": 184320,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 126,
+        "signals": 7,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 119,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:30:03.837859+00:00",
+      "elapsed_seconds": 390.10999999998603,
+      "rss_bytes": null,
+      "db_bytes": 188416,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 127,
+        "signals": 8,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 129,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:30:33.837041+00:00",
+      "elapsed_seconds": 420.10999999998603,
+      "rss_bytes": null,
+      "db_bytes": 188416,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 127,
+        "signals": 8,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 138,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:31:03.836090+00:00",
+      "elapsed_seconds": 450.10999999998603,
+      "rss_bytes": null,
+      "db_bytes": 192512,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 128,
+        "signals": 9,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 148,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:31:33.836563+00:00",
+      "elapsed_seconds": 480.10999999998603,
+      "rss_bytes": null,
+      "db_bytes": 192512,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 128,
+        "signals": 9,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 158,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:32:03.834410+00:00",
+      "elapsed_seconds": 510.10999999998603,
+      "rss_bytes": null,
+      "db_bytes": 196608,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 129,
+        "signals": 10,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 168,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:32:33.829879+00:00",
+      "elapsed_seconds": 540.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 200704,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 129,
+        "signals": 10,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 178,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:33:03.836444+00:00",
+      "elapsed_seconds": 570.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 200704,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 130,
+        "signals": 11,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 188,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:33:33.836270+00:00",
+      "elapsed_seconds": 600.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 204800,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 130,
+        "signals": 11,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 198,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:34:03.832444+00:00",
+      "elapsed_seconds": 630.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 204800,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 131,
+        "signals": 12,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 208,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:34:33.831906+00:00",
+      "elapsed_seconds": 660.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 208896,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 131,
+        "signals": 12,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 218,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:35:03.831449+00:00",
+      "elapsed_seconds": 690.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 212992,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 132,
+        "signals": 13,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 227,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:35:33.831659+00:00",
+      "elapsed_seconds": 720.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 212992,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 132,
+        "signals": 13,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 237,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:36:03.830826+00:00",
+      "elapsed_seconds": 750.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 217088,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 133,
+        "signals": 14,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 247,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:36:33.830751+00:00",
+      "elapsed_seconds": 780.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 221184,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 133,
+        "signals": 14,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 257,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:37:03.830303+00:00",
+      "elapsed_seconds": 810.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 221184,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 134,
+        "signals": 15,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 267,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:37:33.828672+00:00",
+      "elapsed_seconds": 840.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 225280,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 134,
+        "signals": 15,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 277,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:38:03.828425+00:00",
+      "elapsed_seconds": 870.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 225280,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 135,
+        "signals": 16,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 287,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:38:33.827631+00:00",
+      "elapsed_seconds": 900.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 229376,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 135,
+        "signals": 16,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 297,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:39:03.827583+00:00",
+      "elapsed_seconds": 930.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 233472,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 136,
+        "signals": 17,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 307,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:39:33.847352+00:00",
+      "elapsed_seconds": 960.125,
+      "rss_bytes": null,
+      "db_bytes": 233472,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 136,
+        "signals": 17,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 317,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:40:03.825601+00:00",
+      "elapsed_seconds": 990.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 237568,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 137,
+        "signals": 18,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 326,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:40:33.825126+00:00",
+      "elapsed_seconds": 1020.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 237568,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 137,
+        "signals": 18,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 336,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:41:03.826034+00:00",
+      "elapsed_seconds": 1050.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 241664,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 138,
+        "signals": 19,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 346,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:41:33.824759+00:00",
+      "elapsed_seconds": 1080.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 245760,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 138,
+        "signals": 19,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 356,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:42:03.824773+00:00",
+      "elapsed_seconds": 1110.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 245760,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 139,
+        "signals": 20,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 366,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:42:33.847443+00:00",
+      "elapsed_seconds": 1140.125,
+      "rss_bytes": null,
+      "db_bytes": 249856,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 139,
+        "signals": 20,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 376,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:43:03.880534+00:00",
+      "elapsed_seconds": 1170.155999999959,
+      "rss_bytes": null,
+      "db_bytes": 253952,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 140,
+        "signals": 21,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 386,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:43:33.897549+00:00",
+      "elapsed_seconds": 1200.1720000000205,
+      "rss_bytes": null,
+      "db_bytes": 253952,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 140,
+        "signals": 21,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 396,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:44:03.911176+00:00",
+      "elapsed_seconds": 1230.1879999999655,
+      "rss_bytes": null,
+      "db_bytes": 258048,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 141,
+        "signals": 22,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 405,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:44:33.922109+00:00",
+      "elapsed_seconds": 1260.2029999999795,
+      "rss_bytes": null,
+      "db_bytes": 258048,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 141,
+        "signals": 22,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 415,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:45:03.921849+00:00",
+      "elapsed_seconds": 1290.2029999999795,
+      "rss_bytes": null,
+      "db_bytes": 262144,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 142,
+        "signals": 23,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 425,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:45:33.920060+00:00",
+      "elapsed_seconds": 1320.2029999999795,
+      "rss_bytes": null,
+      "db_bytes": 266240,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 142,
+        "signals": 23,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 435,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:46:03.921375+00:00",
+      "elapsed_seconds": 1350.2029999999795,
+      "rss_bytes": null,
+      "db_bytes": 266240,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 143,
+        "signals": 24,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 445,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:46:33.929308+00:00",
+      "elapsed_seconds": 1380.2029999999795,
+      "rss_bytes": null,
+      "db_bytes": 270336,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 143,
+        "signals": 24,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 455,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:47:03.944613+00:00",
+      "elapsed_seconds": 1410.219000000041,
+      "rss_bytes": null,
+      "db_bytes": 274432,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 144,
+        "signals": 25,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 465,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:47:33.965719+00:00",
+      "elapsed_seconds": 1440.25,
+      "rss_bytes": null,
+      "db_bytes": 274432,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 144,
+        "signals": 25,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 474,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:48:03.988743+00:00",
+      "elapsed_seconds": 1470.265999999945,
+      "rss_bytes": null,
+      "db_bytes": 278528,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 145,
+        "signals": 26,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 484,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:48:34.016896+00:00",
+      "elapsed_seconds": 1500.2970000000205,
+      "rss_bytes": null,
+      "db_bytes": 278528,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 145,
+        "signals": 26,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 494,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:49:04.028747+00:00",
+      "elapsed_seconds": 1530.3129999999655,
+      "rss_bytes": null,
+      "db_bytes": 282624,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 146,
+        "signals": 27,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 504,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:49:34.032624+00:00",
+      "elapsed_seconds": 1560.3129999999655,
+      "rss_bytes": null,
+      "db_bytes": 286720,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 146,
+        "signals": 27,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 514,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:50:04.035234+00:00",
+      "elapsed_seconds": 1590.3129999999655,
+      "rss_bytes": null,
+      "db_bytes": 286720,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 147,
+        "signals": 28,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 524,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:50:34.041435+00:00",
+      "elapsed_seconds": 1620.3129999999655,
+      "rss_bytes": null,
+      "db_bytes": 290816,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 147,
+        "signals": 28,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 534,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:51:04.051844+00:00",
+      "elapsed_seconds": 1650.3279999999795,
+      "rss_bytes": null,
+      "db_bytes": 299008,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 148,
+        "signals": 29,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 544,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:51:34.068891+00:00",
+      "elapsed_seconds": 1680.344000000041,
+      "rss_bytes": null,
+      "db_bytes": 303104,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 148,
+        "signals": 29,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 553,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:52:04.076889+00:00",
+      "elapsed_seconds": 1710.359999999986,
+      "rss_bytes": null,
+      "db_bytes": 307200,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 149,
+        "signals": 30,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 563,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:52:34.082503+00:00",
+      "elapsed_seconds": 1740.359999999986,
+      "rss_bytes": null,
+      "db_bytes": 307200,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 149,
+        "signals": 30,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 573,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:53:04.094940+00:00",
+      "elapsed_seconds": 1770.375,
+      "rss_bytes": null,
+      "db_bytes": 311296,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 150,
+        "signals": 31,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 583,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:53:34.122412+00:00",
+      "elapsed_seconds": 1800.405999999959,
+      "rss_bytes": null,
+      "db_bytes": 315392,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 150,
+        "signals": 31,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 593,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:54:04.110548+00:00",
+      "elapsed_seconds": 1830.390999999945,
+      "rss_bytes": null,
+      "db_bytes": 315392,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 151,
+        "signals": 32,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 603,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:54:34.111171+00:00",
+      "elapsed_seconds": 1860.390999999945,
+      "rss_bytes": null,
+      "db_bytes": 319488,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 151,
+        "signals": 32,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 613,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:55:04.109705+00:00",
+      "elapsed_seconds": 1890.390999999945,
+      "rss_bytes": null,
+      "db_bytes": 319488,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 152,
+        "signals": 33,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 623,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:55:34.109639+00:00",
+      "elapsed_seconds": 1920.390999999945,
+      "rss_bytes": null,
+      "db_bytes": 323584,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 152,
+        "signals": 33,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 633,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:56:04.108917+00:00",
+      "elapsed_seconds": 1950.390999999945,
+      "rss_bytes": null,
+      "db_bytes": 327680,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 153,
+        "signals": 34,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 643,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:56:34.132047+00:00",
+      "elapsed_seconds": 1980.405999999959,
+      "rss_bytes": null,
+      "db_bytes": 327680,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 153,
+        "signals": 34,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 653,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:57:04.146988+00:00",
+      "elapsed_seconds": 2010.4220000000205,
+      "rss_bytes": null,
+      "db_bytes": 331776,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 154,
+        "signals": 35,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 662,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:57:34.175381+00:00",
+      "elapsed_seconds": 2040.4529999999795,
+      "rss_bytes": null,
+      "db_bytes": 331776,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 154,
+        "signals": 35,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 672,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:58:04.192038+00:00",
+      "elapsed_seconds": 2070.469000000041,
+      "rss_bytes": null,
+      "db_bytes": 335872,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 155,
+        "signals": 36,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 682,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:58:34.201800+00:00",
+      "elapsed_seconds": 2100.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 339968,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 155,
+        "signals": 36,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 692,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:59:04.204294+00:00",
+      "elapsed_seconds": 2130.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 339968,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 156,
+        "signals": 37,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 702,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T14:59:34.203462+00:00",
+      "elapsed_seconds": 2160.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 344064,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 156,
+        "signals": 37,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 712,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:00:04.204338+00:00",
+      "elapsed_seconds": 2190.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 352256,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 157,
+        "signals": 38,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 722,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:00:34.202575+00:00",
+      "elapsed_seconds": 2220.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 352256,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 157,
+        "signals": 38,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 732,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:01:04.203184+00:00",
+      "elapsed_seconds": 2250.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 356352,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 158,
+        "signals": 39,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 742,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:01:34.202232+00:00",
+      "elapsed_seconds": 2280.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 356352,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 158,
+        "signals": 39,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 752,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:02:04.200846+00:00",
+      "elapsed_seconds": 2310.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 360448,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 159,
+        "signals": 40,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 761,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:02:34.201458+00:00",
+      "elapsed_seconds": 2340.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 364544,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 159,
+        "signals": 40,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 771,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:03:04.216056+00:00",
+      "elapsed_seconds": 2370.5,
+      "rss_bytes": null,
+      "db_bytes": 364544,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 160,
+        "signals": 41,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 781,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:03:34.200246+00:00",
+      "elapsed_seconds": 2400.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 368640,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 160,
+        "signals": 41,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 791,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:04:04.215594+00:00",
+      "elapsed_seconds": 2430.5,
+      "rss_bytes": null,
+      "db_bytes": 372736,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 161,
+        "signals": 42,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 801,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:04:34.236221+00:00",
+      "elapsed_seconds": 2460.515999999945,
+      "rss_bytes": null,
+      "db_bytes": 372736,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 161,
+        "signals": 42,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 811,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:05:04.269928+00:00",
+      "elapsed_seconds": 2490.5470000000205,
+      "rss_bytes": null,
+      "db_bytes": 376832,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 162,
+        "signals": 43,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 821,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:05:34.287600+00:00",
+      "elapsed_seconds": 2520.5629999999655,
+      "rss_bytes": null,
+      "db_bytes": 376832,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 162,
+        "signals": 43,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 831,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:06:04.298035+00:00",
+      "elapsed_seconds": 2550.5779999999795,
+      "rss_bytes": null,
+      "db_bytes": 380928,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 163,
+        "signals": 44,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 840,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:06:34.316658+00:00",
+      "elapsed_seconds": 2580.594000000041,
+      "rss_bytes": null,
+      "db_bytes": 385024,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 163,
+        "signals": 44,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 850,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:07:04.334068+00:00",
+      "elapsed_seconds": 2610.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 385024,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 164,
+        "signals": 45,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 860,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:07:34.365609+00:00",
+      "elapsed_seconds": 2640.640999999945,
+      "rss_bytes": null,
+      "db_bytes": 389120,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 164,
+        "signals": 45,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 870,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:08:04.377645+00:00",
+      "elapsed_seconds": 2670.655999999959,
+      "rss_bytes": null,
+      "db_bytes": 389120,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 165,
+        "signals": 46,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 880,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:08:34.393863+00:00",
+      "elapsed_seconds": 2700.6720000000205,
+      "rss_bytes": null,
+      "db_bytes": 393216,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 165,
+        "signals": 46,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 890,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:09:04.388966+00:00",
+      "elapsed_seconds": 2730.6720000000205,
+      "rss_bytes": null,
+      "db_bytes": 397312,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 166,
+        "signals": 47,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 900,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:09:34.392881+00:00",
+      "elapsed_seconds": 2760.6720000000205,
+      "rss_bytes": null,
+      "db_bytes": 397312,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 166,
+        "signals": 47,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 909,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:10:04.421136+00:00",
+      "elapsed_seconds": 2790.7029999999795,
+      "rss_bytes": null,
+      "db_bytes": 405504,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 167,
+        "signals": 48,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 919,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:10:34.438810+00:00",
+      "elapsed_seconds": 2820.719000000041,
+      "rss_bytes": null,
+      "db_bytes": 409600,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 167,
+        "signals": 48,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 929,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:11:04.449960+00:00",
+      "elapsed_seconds": 2850.734999999986,
+      "rss_bytes": null,
+      "db_bytes": 409600,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 168,
+        "signals": 49,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 939,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:11:34.461173+00:00",
+      "elapsed_seconds": 2880.734999999986,
+      "rss_bytes": null,
+      "db_bytes": 413696,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 168,
+        "signals": 49,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 949,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:12:04.473882+00:00",
+      "elapsed_seconds": 2910.75,
+      "rss_bytes": null,
+      "db_bytes": 413696,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 169,
+        "signals": 50,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 959,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:12:34.486141+00:00",
+      "elapsed_seconds": 2940.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 417792,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 169,
+        "signals": 50,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 969,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:13:04.488653+00:00",
+      "elapsed_seconds": 2970.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 421888,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 170,
+        "signals": 51,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 979,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:13:34.489125+00:00",
+      "elapsed_seconds": 3000.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 421888,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 170,
+        "signals": 51,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 988,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:14:04.488355+00:00",
+      "elapsed_seconds": 3030.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 425984,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 171,
+        "signals": 52,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 998,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:14:34.488647+00:00",
+      "elapsed_seconds": 3060.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 425984,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 171,
+        "signals": 52,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1008,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:15:04.487723+00:00",
+      "elapsed_seconds": 3090.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 430080,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 172,
+        "signals": 53,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1018,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:15:34.488765+00:00",
+      "elapsed_seconds": 3120.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 434176,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 172,
+        "signals": 53,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1028,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:16:04.496550+00:00",
+      "elapsed_seconds": 3150.780999999959,
+      "rss_bytes": null,
+      "db_bytes": 434176,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 173,
+        "signals": 54,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1038,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:16:34.487318+00:00",
+      "elapsed_seconds": 3180.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 438272,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 173,
+        "signals": 54,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1048,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:17:04.485748+00:00",
+      "elapsed_seconds": 3210.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 442368,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 174,
+        "signals": 55,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1058,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:17:34.497936+00:00",
+      "elapsed_seconds": 3240.780999999959,
+      "rss_bytes": null,
+      "db_bytes": 442368,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 174,
+        "signals": 55,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1068,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:18:04.484516+00:00",
+      "elapsed_seconds": 3270.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 446464,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 175,
+        "signals": 56,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1077,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:18:34.482776+00:00",
+      "elapsed_seconds": 3300.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 446464,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 175,
+        "signals": 56,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1087,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:19:04.482377+00:00",
+      "elapsed_seconds": 3330.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 454656,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 176,
+        "signals": 57,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1097,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:19:34.483190+00:00",
+      "elapsed_seconds": 3360.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 458752,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 176,
+        "signals": 57,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1107,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:20:04.481867+00:00",
+      "elapsed_seconds": 3390.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 458752,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 177,
+        "signals": 58,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1117,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:20:34.496623+00:00",
+      "elapsed_seconds": 3420.780999999959,
+      "rss_bytes": null,
+      "db_bytes": 462848,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 177,
+        "signals": 58,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1127,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:21:04.513601+00:00",
+      "elapsed_seconds": 3450.7970000000205,
+      "rss_bytes": null,
+      "db_bytes": 466944,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 178,
+        "signals": 59,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1137,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:21:34.533504+00:00",
+      "elapsed_seconds": 3480.8129999999655,
+      "rss_bytes": null,
+      "db_bytes": 466944,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 178,
+        "signals": 59,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1147,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:22:04.560642+00:00",
+      "elapsed_seconds": 3510.844000000041,
+      "rss_bytes": null,
+      "db_bytes": 471040,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 179,
+        "signals": 60,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1156,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:22:34.578335+00:00",
+      "elapsed_seconds": 3540.859999999986,
+      "rss_bytes": null,
+      "db_bytes": 471040,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 179,
+        "signals": 60,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1166,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:23:04.579689+00:00",
+      "elapsed_seconds": 3570.859999999986,
+      "rss_bytes": null,
+      "db_bytes": 475136,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 180,
+        "signals": 61,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1176,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:23:34.576965+00:00",
+      "elapsed_seconds": 3600.859999999986,
+      "rss_bytes": null,
+      "db_bytes": 479232,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 180,
+        "signals": 61,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1186,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:24:04.599978+00:00",
+      "elapsed_seconds": 3630.875,
+      "rss_bytes": null,
+      "db_bytes": 479232,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 181,
+        "signals": 62,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1196,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:24:34.624067+00:00",
+      "elapsed_seconds": 3660.905999999959,
+      "rss_bytes": null,
+      "db_bytes": 483328,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 181,
+        "signals": 62,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1206,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:25:04.626281+00:00",
+      "elapsed_seconds": 3690.905999999959,
+      "rss_bytes": null,
+      "db_bytes": 483328,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 182,
+        "signals": 63,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1216,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:25:34.641463+00:00",
+      "elapsed_seconds": 3720.9220000000205,
+      "rss_bytes": null,
+      "db_bytes": 487424,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 182,
+        "signals": 63,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1226,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:26:04.655280+00:00",
+      "elapsed_seconds": 3750.9379999999655,
+      "rss_bytes": null,
+      "db_bytes": 491520,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 183,
+        "signals": 64,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1235,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:26:34.673145+00:00",
+      "elapsed_seconds": 3780.9529999999795,
+      "rss_bytes": null,
+      "db_bytes": 491520,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 183,
+        "signals": 64,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1245,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:27:04.695386+00:00",
+      "elapsed_seconds": 3810.969000000041,
+      "rss_bytes": null,
+      "db_bytes": 495616,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 184,
+        "signals": 65,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1255,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:27:34.709042+00:00",
+      "elapsed_seconds": 3840.984999999986,
+      "rss_bytes": null,
+      "db_bytes": 499712,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 184,
+        "signals": 65,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1265,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:28:04.717806+00:00",
+      "elapsed_seconds": 3871.0,
+      "rss_bytes": null,
+      "db_bytes": 499712,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 185,
+        "signals": 66,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1275,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:28:34.732580+00:00",
+      "elapsed_seconds": 3901.015999999945,
+      "rss_bytes": null,
+      "db_bytes": 503808,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 185,
+        "signals": 66,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1285,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:29:04.736466+00:00",
+      "elapsed_seconds": 3931.015999999945,
+      "rss_bytes": null,
+      "db_bytes": 503808,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 186,
+        "signals": 67,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1295,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:29:34.765818+00:00",
+      "elapsed_seconds": 3961.0470000000205,
+      "rss_bytes": null,
+      "db_bytes": 507904,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 186,
+        "signals": 67,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1305,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:30:04.769224+00:00",
+      "elapsed_seconds": 3991.0470000000205,
+      "rss_bytes": null,
+      "db_bytes": 512000,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 187,
+        "signals": 68,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1314,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:30:34.792219+00:00",
+      "elapsed_seconds": 4021.0629999999655,
+      "rss_bytes": null,
+      "db_bytes": 512000,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 187,
+        "signals": 68,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1324,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:31:04.809514+00:00",
+      "elapsed_seconds": 4051.094000000041,
+      "rss_bytes": null,
+      "db_bytes": 516096,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 188,
+        "signals": 69,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1334,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:31:34.817186+00:00",
+      "elapsed_seconds": 4081.094000000041,
+      "rss_bytes": null,
+      "db_bytes": 516096,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 188,
+        "signals": 69,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1344,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:32:04.836035+00:00",
+      "elapsed_seconds": 4111.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 520192,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 189,
+        "signals": 70,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1354,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:32:34.857943+00:00",
+      "elapsed_seconds": 4141.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 524288,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 189,
+        "signals": 70,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1364,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:33:04.861596+00:00",
+      "elapsed_seconds": 4171.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 524288,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 190,
+        "signals": 71,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1374,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:33:34.866150+00:00",
+      "elapsed_seconds": 4201.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 528384,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 190,
+        "signals": 71,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1384,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:34:04.865518+00:00",
+      "elapsed_seconds": 4231.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 532480,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 191,
+        "signals": 72,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1393,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:34:34.865250+00:00",
+      "elapsed_seconds": 4261.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 532480,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 191,
+        "signals": 72,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1403,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:35:04.864405+00:00",
+      "elapsed_seconds": 4291.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 536576,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 192,
+        "signals": 73,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1413,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:35:34.866536+00:00",
+      "elapsed_seconds": 4321.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 536576,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 192,
+        "signals": 73,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1423,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:36:04.873156+00:00",
+      "elapsed_seconds": 4351.155999999959,
+      "rss_bytes": null,
+      "db_bytes": 540672,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 193,
+        "signals": 74,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1433,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:36:34.864176+00:00",
+      "elapsed_seconds": 4381.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 544768,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 193,
+        "signals": 74,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1443,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:37:04.861869+00:00",
+      "elapsed_seconds": 4411.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 544768,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 194,
+        "signals": 75,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1453,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:37:34.861167+00:00",
+      "elapsed_seconds": 4441.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 548864,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 194,
+        "signals": 75,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1462,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:38:04.858679+00:00",
+      "elapsed_seconds": 4471.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 548864,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 195,
+        "signals": 76,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1472,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:38:34.861757+00:00",
+      "elapsed_seconds": 4501.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 552960,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 195,
+        "signals": 76,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1482,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:39:04.892078+00:00",
+      "elapsed_seconds": 4531.1720000000205,
+      "rss_bytes": null,
+      "db_bytes": 557056,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 196,
+        "signals": 77,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1492,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:39:34.898014+00:00",
+      "elapsed_seconds": 4561.1720000000205,
+      "rss_bytes": null,
+      "db_bytes": 557056,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 196,
+        "signals": 77,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1502,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:40:04.914703+00:00",
+      "elapsed_seconds": 4591.1879999999655,
+      "rss_bytes": null,
+      "db_bytes": 561152,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 197,
+        "signals": 78,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1512,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:40:34.924028+00:00",
+      "elapsed_seconds": 4621.2029999999795,
+      "rss_bytes": null,
+      "db_bytes": 565248,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 197,
+        "signals": 78,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1522,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:41:04.925233+00:00",
+      "elapsed_seconds": 4651.2029999999795,
+      "rss_bytes": null,
+      "db_bytes": 565248,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 198,
+        "signals": 79,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1532,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:41:34.954415+00:00",
+      "elapsed_seconds": 4681.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 569344,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 198,
+        "signals": 79,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1542,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:42:04.958167+00:00",
+      "elapsed_seconds": 4711.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 569344,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 199,
+        "signals": 80,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1551,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:42:34.958425+00:00",
+      "elapsed_seconds": 4741.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 573440,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 199,
+        "signals": 80,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1561,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:43:04.956710+00:00",
+      "elapsed_seconds": 4771.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 577536,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 200,
+        "signals": 81,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1571,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:43:34.955336+00:00",
+      "elapsed_seconds": 4801.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 577536,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 200,
+        "signals": 81,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1581,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:44:04.954877+00:00",
+      "elapsed_seconds": 4831.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 581632,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 201,
+        "signals": 82,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1591,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:44:34.954428+00:00",
+      "elapsed_seconds": 4861.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 585728,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 201,
+        "signals": 82,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1601,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:45:04.953559+00:00",
+      "elapsed_seconds": 4891.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 585728,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 202,
+        "signals": 83,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1611,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:45:34.952849+00:00",
+      "elapsed_seconds": 4921.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 589824,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 202,
+        "signals": 83,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1621,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:46:04.953155+00:00",
+      "elapsed_seconds": 4951.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 589824,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 203,
+        "signals": 84,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1631,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:46:34.952433+00:00",
+      "elapsed_seconds": 4981.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 593920,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 203,
+        "signals": 84,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1640,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:47:04.952594+00:00",
+      "elapsed_seconds": 5011.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 602112,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 204,
+        "signals": 85,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1650,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:47:34.960928+00:00",
+      "elapsed_seconds": 5041.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 602112,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 204,
+        "signals": 85,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1660,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:48:04.951028+00:00",
+      "elapsed_seconds": 5071.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 606208,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 205,
+        "signals": 86,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1670,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:48:34.962899+00:00",
+      "elapsed_seconds": 5101.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 606208,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 205,
+        "signals": 86,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:49:04.976125+00:00",
+      "elapsed_seconds": 5131.25,
+      "rss_bytes": null,
+      "db_bytes": 610304,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 206,
+        "signals": 87,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1690,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:49:34.986197+00:00",
+      "elapsed_seconds": 5161.265999999945,
+      "rss_bytes": null,
+      "db_bytes": 614400,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 206,
+        "signals": 87,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1700,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:50:05.005596+00:00",
+      "elapsed_seconds": 5191.280999999959,
+      "rss_bytes": null,
+      "db_bytes": 614400,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 207,
+        "signals": 88,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1710,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:50:35.016517+00:00",
+      "elapsed_seconds": 5221.2970000000205,
+      "rss_bytes": null,
+      "db_bytes": 618496,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 207,
+        "signals": 88,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1719,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:51:05.038958+00:00",
+      "elapsed_seconds": 5251.3129999999655,
+      "rss_bytes": null,
+      "db_bytes": 626688,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 208,
+        "signals": 89,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1729,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:51:35.042277+00:00",
+      "elapsed_seconds": 5281.3129999999655,
+      "rss_bytes": null,
+      "db_bytes": 626688,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 208,
+        "signals": 89,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1739,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:52:05.045686+00:00",
+      "elapsed_seconds": 5311.3279999999795,
+      "rss_bytes": null,
+      "db_bytes": 630784,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 209,
+        "signals": 90,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1749,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:52:35.046686+00:00",
+      "elapsed_seconds": 5341.3279999999795,
+      "rss_bytes": null,
+      "db_bytes": 630784,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 209,
+        "signals": 90,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1759,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:53:05.044684+00:00",
+      "elapsed_seconds": 5371.3279999999795,
+      "rss_bytes": null,
+      "db_bytes": 634880,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 210,
+        "signals": 91,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1769,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:53:35.065034+00:00",
+      "elapsed_seconds": 5401.344000000041,
+      "rss_bytes": null,
+      "db_bytes": 638976,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 210,
+        "signals": 91,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1779,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:54:05.078719+00:00",
+      "elapsed_seconds": 5431.359999999986,
+      "rss_bytes": null,
+      "db_bytes": 638976,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 211,
+        "signals": 92,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1788,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:54:35.105998+00:00",
+      "elapsed_seconds": 5461.390999999945,
+      "rss_bytes": null,
+      "db_bytes": 643072,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 211,
+        "signals": 92,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1798,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:55:05.121168+00:00",
+      "elapsed_seconds": 5491.390999999945,
+      "rss_bytes": null,
+      "db_bytes": 643072,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 212,
+        "signals": 93,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1808,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:55:35.141813+00:00",
+      "elapsed_seconds": 5521.4220000000205,
+      "rss_bytes": null,
+      "db_bytes": 647168,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 212,
+        "signals": 93,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1818,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:56:05.172844+00:00",
+      "elapsed_seconds": 5551.4529999999795,
+      "rss_bytes": null,
+      "db_bytes": 651264,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 213,
+        "signals": 94,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1828,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:56:35.179350+00:00",
+      "elapsed_seconds": 5581.4529999999795,
+      "rss_bytes": null,
+      "db_bytes": 651264,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 213,
+        "signals": 94,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1838,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:57:05.178492+00:00",
+      "elapsed_seconds": 5611.4529999999795,
+      "rss_bytes": null,
+      "db_bytes": 655360,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 214,
+        "signals": 95,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1848,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:57:35.199105+00:00",
+      "elapsed_seconds": 5641.469000000041,
+      "rss_bytes": null,
+      "db_bytes": 659456,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 214,
+        "signals": 95,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1858,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:58:05.202848+00:00",
+      "elapsed_seconds": 5671.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 659456,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 215,
+        "signals": 96,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1868,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:58:35.224042+00:00",
+      "elapsed_seconds": 5701.5,
+      "rss_bytes": null,
+      "db_bytes": 663552,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 215,
+        "signals": 96,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1877,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:59:05.221957+00:00",
+      "elapsed_seconds": 5731.5,
+      "rss_bytes": null,
+      "db_bytes": 663552,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 216,
+        "signals": 97,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1887,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T15:59:35.225016+00:00",
+      "elapsed_seconds": 5761.5,
+      "rss_bytes": null,
+      "db_bytes": 667648,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 216,
+        "signals": 97,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1897,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:00:05.219334+00:00",
+      "elapsed_seconds": 5791.5,
+      "rss_bytes": null,
+      "db_bytes": 671744,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 217,
+        "signals": 98,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1907,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:00:35.226626+00:00",
+      "elapsed_seconds": 5821.5,
+      "rss_bytes": null,
+      "db_bytes": 671744,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 217,
+        "signals": 98,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1917,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:01:05.251663+00:00",
+      "elapsed_seconds": 5851.530999999959,
+      "rss_bytes": null,
+      "db_bytes": 675840,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 218,
+        "signals": 99,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1927,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:01:35.276481+00:00",
+      "elapsed_seconds": 5881.5470000000205,
+      "rss_bytes": null,
+      "db_bytes": 679936,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 218,
+        "signals": 99,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1937,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:02:05.296470+00:00",
+      "elapsed_seconds": 5911.5779999999795,
+      "rss_bytes": null,
+      "db_bytes": 679936,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 219,
+        "signals": 100,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1946,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:02:35.328153+00:00",
+      "elapsed_seconds": 5941.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 684032,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 219,
+        "signals": 100,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1956,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:03:05.333898+00:00",
+      "elapsed_seconds": 5971.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 684032,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 220,
+        "signals": 101,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1966,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:03:35.332925+00:00",
+      "elapsed_seconds": 6001.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 688128,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 220,
+        "signals": 101,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1976,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:04:05.332406+00:00",
+      "elapsed_seconds": 6031.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 692224,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 221,
+        "signals": 102,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1986,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:04:35.332896+00:00",
+      "elapsed_seconds": 6061.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 692224,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 221,
+        "signals": 102,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 1996,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:05:05.331398+00:00",
+      "elapsed_seconds": 6091.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 696320,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 222,
+        "signals": 103,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2006,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:05:35.333723+00:00",
+      "elapsed_seconds": 6121.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 696320,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 222,
+        "signals": 103,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2016,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:06:05.330287+00:00",
+      "elapsed_seconds": 6151.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 700416,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 223,
+        "signals": 104,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2025,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:06:35.330761+00:00",
+      "elapsed_seconds": 6181.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 704512,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 223,
+        "signals": 104,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2035,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:07:05.339713+00:00",
+      "elapsed_seconds": 6211.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 704512,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 224,
+        "signals": 105,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2045,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:07:35.362034+00:00",
+      "elapsed_seconds": 6241.640999999945,
+      "rss_bytes": null,
+      "db_bytes": 708608,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 224,
+        "signals": 105,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2055,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:08:05.399803+00:00",
+      "elapsed_seconds": 6271.6720000000205,
+      "rss_bytes": null,
+      "db_bytes": 712704,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 225,
+        "signals": 106,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2065,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:08:35.418221+00:00",
+      "elapsed_seconds": 6301.6879999999655,
+      "rss_bytes": null,
+      "db_bytes": 712704,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 225,
+        "signals": 106,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2075,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:09:05.428351+00:00",
+      "elapsed_seconds": 6331.7029999999795,
+      "rss_bytes": null,
+      "db_bytes": 716800,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 226,
+        "signals": 107,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2085,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:09:35.443129+00:00",
+      "elapsed_seconds": 6361.719000000041,
+      "rss_bytes": null,
+      "db_bytes": 716800,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 226,
+        "signals": 107,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2095,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:10:05.459608+00:00",
+      "elapsed_seconds": 6391.734999999986,
+      "rss_bytes": null,
+      "db_bytes": 720896,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 227,
+        "signals": 108,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2104,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:10:35.479200+00:00",
+      "elapsed_seconds": 6421.75,
+      "rss_bytes": null,
+      "db_bytes": 724992,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 227,
+        "signals": 108,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2114,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:11:05.499889+00:00",
+      "elapsed_seconds": 6451.780999999959,
+      "rss_bytes": null,
+      "db_bytes": 724992,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 228,
+        "signals": 109,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2124,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:11:35.504845+00:00",
+      "elapsed_seconds": 6481.780999999959,
+      "rss_bytes": null,
+      "db_bytes": 729088,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 228,
+        "signals": 109,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2134,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:12:05.525031+00:00",
+      "elapsed_seconds": 6511.7970000000205,
+      "rss_bytes": null,
+      "db_bytes": 729088,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 229,
+        "signals": 110,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2144,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:12:35.541726+00:00",
+      "elapsed_seconds": 6541.8129999999655,
+      "rss_bytes": null,
+      "db_bytes": 733184,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 229,
+        "signals": 110,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2154,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:13:05.564411+00:00",
+      "elapsed_seconds": 6571.844000000041,
+      "rss_bytes": null,
+      "db_bytes": 737280,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 230,
+        "signals": 111,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2164,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:13:35.575862+00:00",
+      "elapsed_seconds": 6601.859999999986,
+      "rss_bytes": null,
+      "db_bytes": 737280,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 230,
+        "signals": 111,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2174,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:14:05.585912+00:00",
+      "elapsed_seconds": 6631.859999999986,
+      "rss_bytes": null,
+      "db_bytes": 741376,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 231,
+        "signals": 112,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2183,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:14:35.607117+00:00",
+      "elapsed_seconds": 6661.890999999945,
+      "rss_bytes": null,
+      "db_bytes": 745472,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 231,
+        "signals": 112,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2193,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:15:05.620589+00:00",
+      "elapsed_seconds": 6691.890999999945,
+      "rss_bytes": null,
+      "db_bytes": 749568,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 232,
+        "signals": 113,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2203,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:15:35.621774+00:00",
+      "elapsed_seconds": 6721.905999999959,
+      "rss_bytes": null,
+      "db_bytes": 753664,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 232,
+        "signals": 113,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2213,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:16:05.629540+00:00",
+      "elapsed_seconds": 6751.905999999959,
+      "rss_bytes": null,
+      "db_bytes": 753664,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 233,
+        "signals": 114,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2223,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:16:35.640642+00:00",
+      "elapsed_seconds": 6781.9220000000205,
+      "rss_bytes": null,
+      "db_bytes": 757760,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 233,
+        "signals": 114,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2233,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:17:05.669799+00:00",
+      "elapsed_seconds": 6811.9529999999795,
+      "rss_bytes": null,
+      "db_bytes": 761856,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 234,
+        "signals": 115,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2243,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:17:35.688199+00:00",
+      "elapsed_seconds": 6841.969000000041,
+      "rss_bytes": null,
+      "db_bytes": 761856,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 234,
+        "signals": 115,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2253,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:18:05.706201+00:00",
+      "elapsed_seconds": 6871.984999999986,
+      "rss_bytes": null,
+      "db_bytes": 765952,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 235,
+        "signals": 116,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2262,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:18:35.719238+00:00",
+      "elapsed_seconds": 6902.0,
+      "rss_bytes": null,
+      "db_bytes": 765952,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 235,
+        "signals": 116,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2272,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:19:05.715530+00:00",
+      "elapsed_seconds": 6932.0,
+      "rss_bytes": null,
+      "db_bytes": 770048,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 236,
+        "signals": 117,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2282,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:19:35.740642+00:00",
+      "elapsed_seconds": 6962.015999999945,
+      "rss_bytes": null,
+      "db_bytes": 774144,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 236,
+        "signals": 117,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2292,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:20:05.764072+00:00",
+      "elapsed_seconds": 6992.0470000000205,
+      "rss_bytes": null,
+      "db_bytes": 774144,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 237,
+        "signals": 118,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2302,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:20:35.780147+00:00",
+      "elapsed_seconds": 7022.0629999999655,
+      "rss_bytes": null,
+      "db_bytes": 778240,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 237,
+        "signals": 118,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2312,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:21:05.801532+00:00",
+      "elapsed_seconds": 7052.0779999999795,
+      "rss_bytes": null,
+      "db_bytes": 782336,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 238,
+        "signals": 119,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2322,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:21:35.815032+00:00",
+      "elapsed_seconds": 7082.094000000041,
+      "rss_bytes": null,
+      "db_bytes": 782336,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 238,
+        "signals": 119,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2332,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:22:05.838394+00:00",
+      "elapsed_seconds": 7112.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 786432,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 239,
+        "signals": 120,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2341,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:22:35.852108+00:00",
+      "elapsed_seconds": 7142.125,
+      "rss_bytes": null,
+      "db_bytes": 786432,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 239,
+        "signals": 120,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2351,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:23:05.863983+00:00",
+      "elapsed_seconds": 7172.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 790528,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 240,
+        "signals": 121,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2361,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:23:35.874186+00:00",
+      "elapsed_seconds": 7202.155999999959,
+      "rss_bytes": null,
+      "db_bytes": 794624,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 240,
+        "signals": 121,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2371,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:24:05.875787+00:00",
+      "elapsed_seconds": 7232.155999999959,
+      "rss_bytes": null,
+      "db_bytes": 794624,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 241,
+        "signals": 122,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2381,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:24:35.903612+00:00",
+      "elapsed_seconds": 7262.1879999999655,
+      "rss_bytes": null,
+      "db_bytes": 798720,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 241,
+        "signals": 122,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2391,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:25:05.910584+00:00",
+      "elapsed_seconds": 7292.1879999999655,
+      "rss_bytes": null,
+      "db_bytes": 802816,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 242,
+        "signals": 123,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2401,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:25:35.937137+00:00",
+      "elapsed_seconds": 7322.219000000041,
+      "rss_bytes": null,
+      "db_bytes": 802816,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 242,
+        "signals": 123,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2411,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:26:05.941575+00:00",
+      "elapsed_seconds": 7352.219000000041,
+      "rss_bytes": null,
+      "db_bytes": 806912,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 243,
+        "signals": 124,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2420,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:26:35.968331+00:00",
+      "elapsed_seconds": 7382.25,
+      "rss_bytes": null,
+      "db_bytes": 806912,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 243,
+        "signals": 124,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2430,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:27:05.993154+00:00",
+      "elapsed_seconds": 7412.265999999945,
+      "rss_bytes": null,
+      "db_bytes": 811008,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 244,
+        "signals": 125,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2440,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:27:36.007216+00:00",
+      "elapsed_seconds": 7442.280999999959,
+      "rss_bytes": null,
+      "db_bytes": 815104,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 244,
+        "signals": 125,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2450,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:28:06.032891+00:00",
+      "elapsed_seconds": 7472.3129999999655,
+      "rss_bytes": null,
+      "db_bytes": 815104,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 245,
+        "signals": 126,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2460,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:28:36.061737+00:00",
+      "elapsed_seconds": 7502.344000000041,
+      "rss_bytes": null,
+      "db_bytes": 819200,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 245,
+        "signals": 126,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2470,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:29:06.091323+00:00",
+      "elapsed_seconds": 7532.375,
+      "rss_bytes": null,
+      "db_bytes": 819200,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 246,
+        "signals": 127,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2480,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:29:36.104889+00:00",
+      "elapsed_seconds": 7562.375,
+      "rss_bytes": null,
+      "db_bytes": 823296,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 246,
+        "signals": 127,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2490,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:30:06.129933+00:00",
+      "elapsed_seconds": 7592.405999999959,
+      "rss_bytes": null,
+      "db_bytes": 827392,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 247,
+        "signals": 128,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2499,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:30:36.147393+00:00",
+      "elapsed_seconds": 7622.4220000000205,
+      "rss_bytes": null,
+      "db_bytes": 827392,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 247,
+        "signals": 128,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2509,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:31:06.170900+00:00",
+      "elapsed_seconds": 7652.4529999999795,
+      "rss_bytes": null,
+      "db_bytes": 831488,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 248,
+        "signals": 129,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2519,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:31:36.178742+00:00",
+      "elapsed_seconds": 7682.4529999999795,
+      "rss_bytes": null,
+      "db_bytes": 835584,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 248,
+        "signals": 129,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2529,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:32:06.211421+00:00",
+      "elapsed_seconds": 7712.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 839680,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 249,
+        "signals": 130,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2539,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:32:36.202067+00:00",
+      "elapsed_seconds": 7742.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 843776,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 249,
+        "signals": 130,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2549,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:33:06.210631+00:00",
+      "elapsed_seconds": 7772.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 843776,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 250,
+        "signals": 131,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2559,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:33:36.200645+00:00",
+      "elapsed_seconds": 7802.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 847872,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 250,
+        "signals": 131,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2569,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:34:06.223444+00:00",
+      "elapsed_seconds": 7832.5,
+      "rss_bytes": null,
+      "db_bytes": 851968,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 251,
+        "signals": 132,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2578,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:34:36.232043+00:00",
+      "elapsed_seconds": 7862.515999999945,
+      "rss_bytes": null,
+      "db_bytes": 851968,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 251,
+        "signals": 132,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2588,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:35:06.232217+00:00",
+      "elapsed_seconds": 7892.515999999945,
+      "rss_bytes": null,
+      "db_bytes": 856064,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 252,
+        "signals": 133,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2598,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:35:36.251940+00:00",
+      "elapsed_seconds": 7922.530999999959,
+      "rss_bytes": null,
+      "db_bytes": 856064,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 252,
+        "signals": 133,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2608,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:36:06.285459+00:00",
+      "elapsed_seconds": 7952.5629999999655,
+      "rss_bytes": null,
+      "db_bytes": 860160,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 253,
+        "signals": 134,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2618,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:36:36.295706+00:00",
+      "elapsed_seconds": 7982.5779999999795,
+      "rss_bytes": null,
+      "db_bytes": 864256,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 253,
+        "signals": 134,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2628,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:37:06.296134+00:00",
+      "elapsed_seconds": 8012.5779999999795,
+      "rss_bytes": null,
+      "db_bytes": 864256,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 254,
+        "signals": 135,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2638,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:37:36.317218+00:00",
+      "elapsed_seconds": 8042.594000000041,
+      "rss_bytes": null,
+      "db_bytes": 868352,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 254,
+        "signals": 135,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2648,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:38:06.318388+00:00",
+      "elapsed_seconds": 8072.594000000041,
+      "rss_bytes": null,
+      "db_bytes": 872448,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 255,
+        "signals": 136,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2657,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:38:36.337987+00:00",
+      "elapsed_seconds": 8102.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 872448,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 255,
+        "signals": 136,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2667,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T16:39:06.356501+00:00",
+      "elapsed_seconds": 8132.640999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2677,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:22.166067+00:00",
+      "elapsed_seconds": 27408.437999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63078,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:22.334058+00:00",
+      "elapsed_seconds": 27408.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63273,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:22.466695+00:00",
+      "elapsed_seconds": 27408.75,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63273,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:22.591271+00:00",
+      "elapsed_seconds": 27408.875,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63273,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:22.699304+00:00",
+      "elapsed_seconds": 27408.96900000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63273,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:22.809386+00:00",
+      "elapsed_seconds": 27409.09400000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:22.929421+00:00",
+      "elapsed_seconds": 27409.20299999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.052488+00:00",
+      "elapsed_seconds": 27409.32799999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.177520+00:00",
+      "elapsed_seconds": 27409.45299999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.294813+00:00",
+      "elapsed_seconds": 27409.57799999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.404831+00:00",
+      "elapsed_seconds": 27409.687999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.512563+00:00",
+      "elapsed_seconds": 27409.79700000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.622616+00:00",
+      "elapsed_seconds": 27409.90599999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.731749+00:00",
+      "elapsed_seconds": 27410.015999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.841497+00:00",
+      "elapsed_seconds": 27410.125,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:23.949464+00:00",
+      "elapsed_seconds": 27410.21900000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.056990+00:00",
+      "elapsed_seconds": 27410.32799999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.165619+00:00",
+      "elapsed_seconds": 27410.437999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.275523+00:00",
+      "elapsed_seconds": 27410.54700000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.384045+00:00",
+      "elapsed_seconds": 27410.65599999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.492908+00:00",
+      "elapsed_seconds": 27410.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.616794+00:00",
+      "elapsed_seconds": 27410.890999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.725173+00:00",
+      "elapsed_seconds": 27411.0,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.833913+00:00",
+      "elapsed_seconds": 27411.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:24.944386+00:00",
+      "elapsed_seconds": 27411.21900000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.075542+00:00",
+      "elapsed_seconds": 27411.359999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.196985+00:00",
+      "elapsed_seconds": 27411.46900000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.305460+00:00",
+      "elapsed_seconds": 27411.57799999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.414579+00:00",
+      "elapsed_seconds": 27411.687999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.522955+00:00",
+      "elapsed_seconds": 27411.79700000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.648482+00:00",
+      "elapsed_seconds": 27411.92200000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.756570+00:00",
+      "elapsed_seconds": 27412.03099999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.875144+00:00",
+      "elapsed_seconds": 27412.15599999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:25.991694+00:00",
+      "elapsed_seconds": 27412.265999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:26.104540+00:00",
+      "elapsed_seconds": 27412.375,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:26.222864+00:00",
+      "elapsed_seconds": 27412.5,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:26.345532+00:00",
+      "elapsed_seconds": 27412.625,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:26.453698+00:00",
+      "elapsed_seconds": 27412.734999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:26.566880+00:00",
+      "elapsed_seconds": 27412.84400000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:26.679421+00:00",
+      "elapsed_seconds": 27412.95299999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:26.800496+00:00",
+      "elapsed_seconds": 27413.07799999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:26.910257+00:00",
+      "elapsed_seconds": 27413.187999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.015839+00:00",
+      "elapsed_seconds": 27413.29700000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.124105+00:00",
+      "elapsed_seconds": 27413.40599999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.232400+00:00",
+      "elapsed_seconds": 27413.515999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.341563+00:00",
+      "elapsed_seconds": 27413.625,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.465668+00:00",
+      "elapsed_seconds": 27413.75,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.573650+00:00",
+      "elapsed_seconds": 27413.84400000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.682618+00:00",
+      "elapsed_seconds": 27413.95299999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.792092+00:00",
+      "elapsed_seconds": 27414.062999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:27.900837+00:00",
+      "elapsed_seconds": 27414.17200000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.010450+00:00",
+      "elapsed_seconds": 27414.28099999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.119912+00:00",
+      "elapsed_seconds": 27414.390999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.229626+00:00",
+      "elapsed_seconds": 27414.5,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.339609+00:00",
+      "elapsed_seconds": 27414.609999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.448063+00:00",
+      "elapsed_seconds": 27414.71900000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.556465+00:00",
+      "elapsed_seconds": 27414.82799999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.664368+00:00",
+      "elapsed_seconds": 27414.937999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.774155+00:00",
+      "elapsed_seconds": 27415.04700000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.883980+00:00",
+      "elapsed_seconds": 27415.15599999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:28.993925+00:00",
+      "elapsed_seconds": 27415.265999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.103099+00:00",
+      "elapsed_seconds": 27415.375,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.211504+00:00",
+      "elapsed_seconds": 27415.484999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.320485+00:00",
+      "elapsed_seconds": 27415.59400000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.430426+00:00",
+      "elapsed_seconds": 27415.70299999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.539695+00:00",
+      "elapsed_seconds": 27415.812999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.648345+00:00",
+      "elapsed_seconds": 27415.92200000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.758320+00:00",
+      "elapsed_seconds": 27416.03099999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.866992+00:00",
+      "elapsed_seconds": 27416.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:29.977735+00:00",
+      "elapsed_seconds": 27416.25,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.085761+00:00",
+      "elapsed_seconds": 27416.359999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.196830+00:00",
+      "elapsed_seconds": 27416.46900000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.307314+00:00",
+      "elapsed_seconds": 27416.57799999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.417746+00:00",
+      "elapsed_seconds": 27416.687999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.527624+00:00",
+      "elapsed_seconds": 27416.79700000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.636341+00:00",
+      "elapsed_seconds": 27416.90599999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.745561+00:00",
+      "elapsed_seconds": 27417.015999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.855901+00:00",
+      "elapsed_seconds": 27417.140999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:30.964085+00:00",
+      "elapsed_seconds": 27417.234999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.072083+00:00",
+      "elapsed_seconds": 27417.34400000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.181968+00:00",
+      "elapsed_seconds": 27417.45299999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.291788+00:00",
+      "elapsed_seconds": 27417.562999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.400507+00:00",
+      "elapsed_seconds": 27417.67200000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.510021+00:00",
+      "elapsed_seconds": 27417.78099999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.618258+00:00",
+      "elapsed_seconds": 27417.890999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.728495+00:00",
+      "elapsed_seconds": 27418.0,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.837363+00:00",
+      "elapsed_seconds": 27418.109999999986,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:31.944844+00:00",
+      "elapsed_seconds": 27418.21900000004,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:32.054750+00:00",
+      "elapsed_seconds": 27418.32799999998,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:32.165696+00:00",
+      "elapsed_seconds": 27418.437999999966,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:32.275230+00:00",
+      "elapsed_seconds": 27418.54700000002,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:32.383727+00:00",
+      "elapsed_seconds": 27418.65599999996,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:32.493962+00:00",
+      "elapsed_seconds": 27418.765999999945,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63468,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    },
+    {
+      "at": "2026-10-01T22:00:32.602687+00:00",
+      "elapsed_seconds": 27418.875,
+      "rss_bytes": null,
+      "db_bytes": 876544,
+      "log_bytes": 63670,
+      "table_counts": {
+        "ohlcv": 256,
+        "signals": 137,
+        "orders": 1,
+        "fills": 2,
+        "positions": 1,
+        "portfolio_snapshots": 2680,
+        "system_events": 1
+      }
+    }
+  ],
+  "result": {
+    "mode": "paper",
+    "status": "NORMAL",
+    "processed_bars": 256,
+    "normal_events": 2680,
+    "simulated_orders": 1,
+    "simulated_fills": 2,
+    "risk_killed": false,
+    "kill_reason": "",
+    "last_snapshot": {
+      "timestamp": "2026-10-01T16:39:13.709730+00:00",
+      "feed_state": "NORMAL",
+      "cash": "899862.158201050000000000000000",
+      "equity": "1000381.933241050000000000000000",
+      "positions": {
+        "BTC/KRW": {
+          "quantity": "0.00087488",
+          "average_entry_price": "114458944.996971013167520117044623",
+          "unrealized_pnl": "381.933241050000000000000000"
+        }
+      },
+      "unrealized_pnl": "381.933241050000000000000000",
+      "realized_pnl": "0E-24",
+      "fees": "50.043898950000000000000000",
+      "drawdown": "-0.00030031632776437207064127651087241195298296871296818416295318359",
+      "risk_killed": false
+    },
+    "cache_sizes": {
+      "orders": 1,
+      "fills": 2,
+      "events": 1000,
+      "snapshots": 1000,
+      "trades": 0,
+      "execution_events": 1,
+      "risk_events": 0
+    },
+    "cache_limit": 1000,
+    "position_cost_basis": {
+      "BTC/KRW": "100137.841798950000000000000000"
+    },
+    "open_orders": [],
+    "risk_state": {
+      "peak": "1000682.454521050000000000000000",
+      "day_start": "1000000.0",
+      "week_start": "1000000.0",
+      "killed": false
+    },
+    "market_cursor": "2026-10-01T16:38:00+00:00",
+    "execution_backend": "SimulationBroker",
+    "return": "0.00038193324105",
+    "max_drawdown": "-0.00049714699970957324887776736154367729993418642486111388687393063",
+    "started_at": "2026-10-01T14:23:34.205931+00:00",
+    "duration_seconds": 21600.0,
+    "source": "Upbit public API via ccxt.async_support",
+    "integration_success": false,
+    "writer_owner_id": "546765ab-12f6-448e-945a-9cf6a28bc985",
+    "fencing_token": 1,
+    "metadata": {
+      "symbol": "BTC/KRW",
+      "base": "BTC",
+      "quote": "KRW",
+      "spot": true,
+      "precision": {
+        "price": 1e-08,
+        "amount": 1e-08
+      },
+      "limits": {
+        "leverage": {
+          "min": null,
+          "max": null
+        },
+        "amount": {
+          "min": null,
+          "max": null
+        },
+        "price": {
+          "min": null,
+          "max": null
+        },
+        "cost": {
+          "min": null,
+          "max": null
+        }
+      },
+      "account_access": false,
+      "fee_source": "configured paper assumption",
+      "rules_source": "https://docs.upbit.com/kr/docs/krw-market-info (checked 2026-09-28)",
+      "simulation_rules": {
+        "min_quantity": 0.0,
+        "price_tiers": [
+          [
+            1000000.0,
+            1000.0
+          ],
+          [
+            500000.0,
+            500.0
+          ],
+          [
+            100000.0,
+            100.0
+          ],
+          [
+            50000.0,
+            50.0
+          ],
+          [
+            10000.0,
+            10.0
+          ],
+          [
+            5000.0,
+            5.0
+          ],
+          [
+            100.0,
+            1.0
+          ],
+          [
+            10.0,
+            0.1
+          ],
+          [
+            1.0,
+            0.01
+          ],
+          [
+            0.1,
+            0.001
+          ],
+          [
+            0.01,
+            0.0001
+          ],
+          [
+            0.001,
+            1e-05
+          ],
+          [
+            0.0001,
+            1e-06
+          ],
+          [
+            1e-05,
+            1e-07
+          ],
+          [
+            0.0,
+            1e-08
+          ]
+        ],
+        "min_notional": 5000.0,
+        "price_tick": 1e-08,
+        "quantity_step": 1e-08
+      },
+      "effective_min_quantity": 1e-08,
+      "precision_source": "ccxt descriptor; not authenticated order-chance endpoint"
+    },
+    "ticker": {
+      "symbol": "BTC/KRW",
+      "timestamp": "2026-10-01 14:23:33.365000+00:00",
+      "last": 114302000.0
+    },
+    "fees": {
+      "symbol": "BTC/KRW",
+      "maker": 0.0005,
+      "taker": 0.0005,
+      "source": "configured paper assumption; no private fee endpoint called"
+    },
+    "stop_reason": "configured observation duration reached",
+    "shutdown_error": "LeaseLost",
+    "lease_token": 1,
+    "feed_metrics": {
+      "rest_requests": 2680,
+      "gap_events": 0,
+      "stale_events": 0,
+      "duplicate_events": 0,
+      "normal_events": 2680
+    },
+    "websocket_reconnects": 0,
+    "websocket_received": 70141,
+    "websocket_duplicate_events": 0,
+    "finished_at": "2026-10-01T22:00:32.540223+00:00",
+    "adapter_audit": {
+      "api_attempts": 139,
+      "api_successes": 139,
+      "transport": {
+        "public_http_attempts": 139,
+        "GET /v1/market/all": 1,
+        "GET /v1/ticker": 1,
+        "GET /v1/candles/minutes/1": 137
+      }
+    },
+    "real_order_http_requests": 0,
+    "real_cancel_http_requests": 0,
+    "private_http_requests": 0,
+    "blocked_requests": 0
+  }
+}

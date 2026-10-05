@@ -1,0 +1,10 @@
+services:
+  paper:
+    build: .
+    volumes:
+      - ./reports:/app/reports
+      - paper_db:/app/data/database
+    command: ["python", "-m", "trading_bot", "paper", "--config", "config/paper_upbit.toml", "--duration", "180", "--out", "/app/reports/paper"]
+
+volumes:
+  paper_db:

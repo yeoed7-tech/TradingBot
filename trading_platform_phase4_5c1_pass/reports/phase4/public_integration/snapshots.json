@@ -1,0 +1,734 @@
+[
+  {
+    "timestamp": "2026-09-28T07:48:07.807969+00:00",
+    "feed_state": "NORMAL",
+    "cash": 1000000.0,
+    "equity": 1000000.0,
+    "positions": {},
+    "unrealized_pnl": 0,
+    "realized_pnl": 0,
+    "fees": 0,
+    "drawdown": 0.0,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:11.202958+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999898.9619830401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -101.03801695999573
+      }
+    },
+    "unrealized_pnl": -101.03801695999573,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -0.0001010380169599312,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:14.559670+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999898.9619830401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -101.03801695999573
+      }
+    },
+    "unrealized_pnl": -101.03801695999573,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -0.0001010380169599312,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:17.913242+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999898.9619830401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -101.03801695999573
+      }
+    },
+    "unrealized_pnl": -101.03801695999573,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -0.0001010380169599312,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:21.264423+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999898.9619830401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -101.03801695999573
+      }
+    },
+    "unrealized_pnl": -101.03801695999573,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -0.0001010380169599312,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:24.614305+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999899.8491530401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -100.15084695999394
+      }
+    },
+    "unrealized_pnl": -100.15084695999394,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -0.00010015084695991217,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:27.967457+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999900.2927380401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -99.70726195999305
+      }
+    },
+    "unrealized_pnl": -99.70726195999305,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -9.970726195995816e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:31.322439+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999900.7363230401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -99.26367695999215
+      }
+    },
+    "unrealized_pnl": -99.26367695999215,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -9.926367695989313e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:34.675032+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999900.7363230401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -99.26367695999215
+      }
+    },
+    "unrealized_pnl": -99.26367695999215,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -9.926367695989313e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:38.030384+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999900.7363230401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -99.26367695999215
+      }
+    },
+    "unrealized_pnl": -99.26367695999215,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -9.926367695989313e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:41.386647+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999900.7363230401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -99.26367695999215
+      }
+    },
+    "unrealized_pnl": -99.26367695999215,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -9.926367695989313e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:44.747587+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999900.7363230401,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -99.26367695999215
+      }
+    },
+    "unrealized_pnl": -99.26367695999215,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -9.926367695989313e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:48.099886+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999924.68991304,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -75.31008696000208
+      }
+    },
+    "unrealized_pnl": -75.31008696000208,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -7.531008695993435e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:51.448809+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999926.46425304,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -73.5357469599985
+      }
+    },
+    "unrealized_pnl": -73.5357469599985,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -7.353574696000731e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:54.797713+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999937.99746304,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -62.00253696000436
+      }
+    },
+    "unrealized_pnl": -62.00253696000436,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -6.200253695998192e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:48:58.148903+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999937.55387804,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -62.44612196000526
+      }
+    },
+    "unrealized_pnl": -62.44612196000526,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -6.244612195993593e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:01.846874+00:00",
+    "feed_state": "NORMAL",
+    "cash": 899898.49033804,
+    "equity": 999934.89236804,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00088717,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -65.10763195999607
+      }
+    },
+    "unrealized_pnl": -65.10763195999607,
+    "realized_pnl": 0.0,
+    "fees": 50.02574196,
+    "drawdown": -6.510763195999303e-05,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:05.198215+00:00",
+    "feed_state": "NORMAL",
+    "cash": 960910.4299876001,
+    "equity": 999869.2643476,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 0.00034549,
+        "average_entry_price": 112832388.0,
+        "unrealized_pnl": -23.627370119997067
+      }
+    },
+    "unrealized_pnl": -23.627370119997067,
+    "realized_pnl": -107.10828227999446,
+    "fees": 80.5469724,
+    "drawdown": -0.00013073565239996032,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:08.577925+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780642601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006838799951505159
+      }
+    },
+    "unrealized_pnl": -0.0006838799951505159,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542193573993892,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:11.930103+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780642601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006838799951505159
+      }
+    },
+    "unrealized_pnl": -0.0006838799951505159,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542193573993892,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:15.281746+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780642601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006838799951505159
+      }
+    },
+    "unrealized_pnl": -0.0006838799951505159,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542193573993892,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:18.637271+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780692601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006788799951504831
+      }
+    },
+    "unrealized_pnl": -0.0006788799951504831,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.0001754219307399385,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:21.990632+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.57790926,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0008388799951504211
+      }
+    },
+    "unrealized_pnl": -0.0008388799951504211,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542209073995174,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:25.346240+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780592602,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006888799951505487
+      }
+    },
+    "unrealized_pnl": -0.0006888799951505487,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.0001754219407398283,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:28.699471+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780592602,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006888799951505487
+      }
+    },
+    "unrealized_pnl": -0.0006888799951505487,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.0001754219407398283,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:32.049836+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780692601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006788799951504831
+      }
+    },
+    "unrealized_pnl": -0.0006788799951504831,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.0001754219307399385,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:35.405147+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5782292602,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0005188799951505452
+      }
+    },
+    "unrealized_pnl": -0.0005188799951505452,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542177073981424,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:38.755902+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5782292602,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0005188799951505452
+      }
+    },
+    "unrealized_pnl": -0.0005188799951505452,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542177073981424,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:42.107444+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780742601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006738799951504504
+      }
+    },
+    "unrealized_pnl": -0.0006738799951504504,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542192573982707,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:45.457617+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780742601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006738799951504504
+      }
+    },
+    "unrealized_pnl": -0.0006738799951504504,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542192573982707,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:48.812401+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780742601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006738799951504504
+      }
+    },
+    "unrealized_pnl": -0.0006738799951504504,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542192573982707,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:52.167011+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780842601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006638799951503849
+      }
+    },
+    "unrealized_pnl": -0.0006638799951503849,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542191573993726,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:55.520398+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5780992601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006488799951505086
+      }
+    },
+    "unrealized_pnl": -0.0006488799951505086,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542190073993602,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:49:58.876313+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5781242601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0006238799951505669
+      }
+    },
+    "unrealized_pnl": -0.0006238799951505669,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542187573993395,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:50:02.585777+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5783342601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.00041387999515052343
+      }
+    },
+    "unrealized_pnl": -0.00041387999515052343,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542166573980555,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:50:05.936796+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5783692601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0003788799951505162
+      }
+    },
+    "unrealized_pnl": -0.0003788799951505162,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542163073991368,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:50:09.294459+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5783742601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.0003738799951504834
+      }
+    },
+    "unrealized_pnl": -0.0003738799951504834,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542162573991327,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:50:12.647120+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5783792601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.00036887999515045067
+      }
+    },
+    "unrealized_pnl": -0.00036887999515045067,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542162073980183,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:50:16.000218+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5783892601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.00035887999515038516
+      }
+    },
+    "unrealized_pnl": -0.00035887999515038516,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542161073991203,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:50:19.356426+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5783892601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.00035887999515038516
+      }
+    },
+    "unrealized_pnl": -0.00035887999515038516,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542161073991203,
+    "risk_killed": false
+  },
+  {
+    "timestamp": "2026-09-28T07:50:22.709780+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999823.4504242601,
+    "equity": 999824.5783892601,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": 1e-08,
+        "average_entry_price": 112832387.99951504,
+        "unrealized_pnl": -0.00035887999515038516
+      }
+    },
+    "unrealized_pnl": -0.00035887999515038516,
+    "realized_pnl": -175.42125185999612,
+    "fees": 100.01321573999999,
+    "drawdown": -0.00017542161073991203,
+    "risk_killed": false
+  }
+]

@@ -1,0 +1,5 @@
+elapsed_seconds,rss_bytes,db_bytes,ohlcv,signals,orders,fills,snapshots,evidence_scope
+30.000449344999993,151179264,151552,120,1,0,0,1,selected tool checkpoint; reconstructed; not continuous raw telemetry
+1800.064932838,186441728,249856,149,30,0,0,492,selected tool checkpoint; reconstructed; not continuous raw telemetry
+2880.146424374,186937344,311296,167,48,0,0,795,selected tool checkpoint; reconstructed; not continuous raw telemetry
+3510.2075272540005,187215872,348160,178,59,0,0,973,selected tool checkpoint; reconstructed; not continuous raw telemetry

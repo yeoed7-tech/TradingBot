@@ -1,0 +1,6 @@
+Phase 3 checkpoint: PARTIAL
+Offline: 77 passed in 3.29s
+Original backtest: 37 passed; 3 strategies equity/trades CSV identical
+Public Upbit integration: FAIL, ExchangeNotAvailable on market/all, 3 public GET attempts
+Actual market events=0; simulated fills=0; real order HTTP requests=0
+See docs/TEST_REPORT.md and reports/phase3/pytest.xml

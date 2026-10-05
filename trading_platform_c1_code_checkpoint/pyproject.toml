@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "modular-trading-research"
+version = "0.3.0"
+description = "Modular backtest and public-only paper trading — Phase 4 operational paper ledger"
+requires-python = ">=3.12"
+dependencies = ["numpy>=2.0,<3", "pandas>=2.2,<3", "pydantic>=2.10,<3", "matplotlib>=3.9,<4", "ccxt==4.5.84", "SQLAlchemy>=2.0,<2.1", "alembic>=1.20,<2", "fastapi>=0.141,<1", "uvicorn>=0.54,<1", "psycopg[binary]>=3.3,<4"]
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+[project.scripts]
+trading-research = "trading_bot.main:main"
+[tool.setuptools.packages.find]
+include = ["trading_bot*"]
+[tool.pytest.ini_options]
+testpaths = ["tests"]

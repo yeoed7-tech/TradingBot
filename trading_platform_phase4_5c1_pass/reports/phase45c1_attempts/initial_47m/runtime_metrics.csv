@@ -1,0 +1,5 @@
+source,elapsed_seconds,rss_bytes,db_bytes,ws_messages,ws_connections,normal_events,stale_events,gap_events,orders,fills,cache_events,cache_snapshots,error_events
+observed_tool_output_only_raw_series_lost,30.00044474,185417728,151552,71,1,3,0,0,1,2,127,3,0
+observed_tool_output_only_raw_series_lost,60.005118479,185577472,151552,312,1,10,0,0,1,3,143,10,0
+observed_tool_output_only_raw_series_lost,1830.285933469,188420096,290816,13960,1,500,0,0,1,3,1000,500,0
+observed_tool_output_only_raw_series_lost,2820.480691807,189313024,,,,777,0,0,,,1000,777,0

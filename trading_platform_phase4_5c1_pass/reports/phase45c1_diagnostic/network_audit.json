@@ -1,0 +1,15 @@
+{
+  "public_rest_count": 4,
+  "public_websocket_messages": 37,
+  "public_websocket_connections": 1,
+  "private_api_count": 0,
+  "order_http_count": 0,
+  "cancel_http_count": 0,
+  "blocked_attempts": 0,
+  "transport": {
+    "public_http_attempts": 4,
+    "GET /v1/market/all": 1,
+    "GET /v1/ticker": 1,
+    "GET /v1/candles/minutes/1": 2
+  }
+}

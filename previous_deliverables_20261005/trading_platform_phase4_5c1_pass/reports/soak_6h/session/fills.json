@@ -1,0 +1,17 @@
+[
+  {
+    "order_id": "ad962fd9-c4bc-4713-9f77-d0b9635e70f8",
+    "timestamp": "2026-10-01 13:56:13.138008+00:00",
+    "symbol": "BTC/KRW",
+    "strategy": "ema_cross",
+    "side": "BUY",
+    "quantity": "0.00087463",
+    "price": "114405000.0",
+    "fee": "50.031022575000000000000000",
+    "slippage": "62.536045000000000000000000",
+    "fill_id": "paper:ad962fd9-c4bc-4713-9f77-d0b9635e70f8:1",
+    "signal": "BUY",
+    "portfolio_value": "999887.432932425000000000000000",
+    "pnl": "0"
+  }
+]

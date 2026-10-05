@@ -1,0 +1,18 @@
+{
+  "total_return": -0.17199325862017945,
+  "cagr": -0.07373466025444658,
+  "sharpe": -1.3547498925188564,
+  "sortino": -1.5720358612566383,
+  "max_drawdown": -0.1915663543265762,
+  "calmar": -0.38490402197009027,
+  "win_rate": 0.0,
+  "profit_factor": 0.0,
+  "average_win": null,
+  "average_loss": -4299.8314655044815,
+  "payoff_ratio": null,
+  "number_of_trades": 4,
+  "average_holding_hours": 522.0,
+  "exposure": 0.09666666666666666,
+  "volatility": 0.05539163948839981
+}
+Output: /workspace/scratch/32862f77f60b/trading_platform/reports/single

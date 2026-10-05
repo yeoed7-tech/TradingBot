@@ -1,0 +1,30 @@
+[
+  {
+    "symbol": "BTC/KRW",
+    "side": "BUY",
+    "quantity": 0.00088631,
+    "strategy": "public_integration_probe",
+    "created_at": "2026-09-28 07:54:11.899126+00:00",
+    "eligible_bar": 120,
+    "order_type": "MARKET",
+    "limit_price": null,
+    "id": "008b1390-ab0b-4b28-a342-8319e6c7dcdf",
+    "status": "FILLED",
+    "filled": 0.00088631,
+    "reason": ""
+  },
+  {
+    "symbol": "BTC/KRW",
+    "side": "SELL",
+    "quantity": 0.00088631,
+    "strategy": "public_integration_probe",
+    "created_at": "2026-09-28 07:55:02.587775+00:00",
+    "eligible_bar": 121,
+    "order_type": "MARKET",
+    "limit_price": null,
+    "id": "abc2d6c5-b5a1-4af0-a132-c7073bc4d66e",
+    "status": "FILLED",
+    "filled": 0.00088631,
+    "reason": ""
+  }
+]

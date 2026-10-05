@@ -1,0 +1,369 @@
+{"timestamp": "2026-09-28T07:51:14.897274+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:52:25.192733+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-28T07:54:02.410988+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:54:13.400913+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:54:13.401519+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T07:54:13.402005+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T07:54:13.403289+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:54:13.405399+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T07:56:29.202448+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:56:29.203105+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T07:56:29.203562+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T07:56:29.204948+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:56:29.207055+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T07:56:32.707638+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-28T07:56:37.963015+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:57:28.255217+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-28T07:59:24.399745+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:59:24.400436+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T07:59:24.400939+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T07:59:24.402342+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T07:59:24.404563+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T08:00:03.330639+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T08:00:03.331251+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T08:00:03.331774+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T08:00:03.333258+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T08:00:03.335735+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T08:00:55.361548+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T08:00:55.362142+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T08:00:55.362701+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T08:00:55.364057+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T08:00:55.366226+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:33:59.813927+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:33:59.814866+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:33:59.815539+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:33:59.817167+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:33:59.819509+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:36:01.317557+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:36:01.318153+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:36:01.319079+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:36:01.320932+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:36:01.322776+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:36:53.207232+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:36:53.207914+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:36:53.208467+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:36:53.209842+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:36:53.212123+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:13.104030+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:13.104735+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:37:13.105206+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:13.106574+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:13.108666+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:22.104577+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:22.105183+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:37:22.105830+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:22.107299+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:22.109269+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:31.736628+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:31.737213+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:37:31.737765+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:31.739267+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:31.741318+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:41.976408+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:41.977044+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:37:41.977667+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:41.979209+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:41.981218+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:51.886250+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:51.886943+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:37:51.887587+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:37:51.889123+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:37:51.891140+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:38:31.368590+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:38:31.369440+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:38:31.370231+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:38:31.372367+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:38:31.375063+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:38:47.189817+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:38:47.190372+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:38:47.191052+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:38:47.192599+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:38:47.195037+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:39:04.896446+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:39:04.897183+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:39:04.897959+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:39:04.899438+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:39:04.901613+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:39:54.158773+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:39:54.159346+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:39:54.159950+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:39:54.161592+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:39:54.163665+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:40:24.796340+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:40:24.796989+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:40:24.797573+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:40:24.799447+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:40:24.801705+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:41:05.054590+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:41:05.055182+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:41:05.055810+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:41:05.057138+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:41:05.059165+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:42:53.271848+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:42:53.272579+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:42:53.273156+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:42:53.274764+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:42:53.276783+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:43:12.125219+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:43:12.125891+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:43:12.126587+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:43:12.127960+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:43:12.130017+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:43:46.302702+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:44:07.961133+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:44:07.961758+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:44:07.962312+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:44:07.965031+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:44:07.967252+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:44:29.938981+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:44:29.939634+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T09:44:29.940240+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:44:29.941758+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T09:44:29.943977+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:45:16.631273+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T09:45:28.561330+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:12:40.328595+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:12:44.023124+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:12:44.023689+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:12:44.024132+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:12:44.025409+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:12:44.027223+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:13:36.588310+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:14:52.774778+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:15:12.998616+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:15:12.999175+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:15:12.999681+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:15:13.001461+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:15:13.003478+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:16:28.105613+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-28T16:17:15.963726+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:17:18.324428+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:17:18.325076+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:17:18.325563+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:17:18.326847+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:17:18.328733+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:18:26.258790+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-28T16:18:52.399348+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:19:09.273187+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:19:09.273813+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:19:09.274493+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:19:09.275881+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:19:09.277771+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:20:21.636574+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:21:03.292385+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:21:03.292974+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:21:03.293527+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:21:03.294944+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:21:03.296919+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:21:31.930954+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-28T16:23:01.465597+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:23:01.466167+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:23:01.466693+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:23:01.467933+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:23:01.469801+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:23:32.084167+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:23:32.084763+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:23:32.085189+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:23:32.086459+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:23:32.088274+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:39:53.222289+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:39:53.222875+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:39:53.223342+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:39:53.226787+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:39:53.229138+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:43:26.044852+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:43:26.045507+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:43:26.045979+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:43:26.047335+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:43:26.049144+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:46:54.079300+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:46:54.079824+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:46:54.080343+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:46:54.081895+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:46:54.083831+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:48:50.381972+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:48:50.382614+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:48:50.383096+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:48:50.384311+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:48:50.386180+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:52:49.978799+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:53:56.706611+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:53:56.707383+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:53:56.707969+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:53:56.709360+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:53:56.711372+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:54:10.356277+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-28T16:57:34.697637+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:57:34.698345+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:57:34.698918+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:57:34.700286+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:57:34.702335+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:58:23.229018+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:58:23.229723+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T16:58:23.230376+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T16:58:23.231730+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T16:58:23.233751+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T17:00:38.035592+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T17:00:38.036224+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-28T17:00:38.036797+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-28T17:00:38.038138+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-28T17:00:38.040287+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:50:01.877670+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:50:01.878272+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-29T07:50:01.878880+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:50:01.880244+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:50:01.882475+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:50:29.056272+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:50:29.057112+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-29T07:50:29.057805+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:50:29.060071+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:50:29.063002+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:50:45.642244+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:51:11.012144+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-29T07:51:18.018856+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:51:18.019693+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-29T07:51:18.020646+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:51:18.024599+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:51:18.026938+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:52:51.511220+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:52:51.512184+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-29T07:52:51.512777+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:52:51.514342+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:52:51.516354+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:53:08.464185+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:53:23.569389+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-29T07:53:23.823795+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:53:30.920786+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:53:30.921624+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-29T07:53:30.922239+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:53:30.923767+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:53:30.925830+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:54:38.124733+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:54:38.125365+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-29T07:54:38.125934+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:54:38.127366+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:54:38.129389+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:57:32.145726+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:57:32.146328+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-29T07:57:32.147022+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-29T07:57:32.148477+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-29T07:57:32.150638+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:10:00.208189+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:10:00.209116+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-30T01:10:00.209898+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:10:00.212503+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:10:00.215067+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:10:00.690587+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:10:02.616766+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "RuntimeError: injected public REST delay", "context": {}}
+{"timestamp": "2026-09-30T01:10:02.620329+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T01:10:02.625071+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:10:02.632244+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:10:02.822881+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T01:10:02.825796+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:10:25.798805+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:11:56.218469+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:12:09.918778+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:12:09.919568+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-30T01:12:09.920396+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:12:09.922249+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:12:09.925118+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:12:10.252356+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:12:12.198329+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "RuntimeError: injected public REST delay", "context": {}}
+{"timestamp": "2026-09-30T01:12:12.201142+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T01:12:12.204263+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:12:12.209504+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:12:12.437784+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T01:12:12.440604+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:20:45.041902+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:20:45.043450+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-30T01:20:45.045812+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:20:45.048438+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:20:45.051303+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:20:45.378739+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:20:47.335039+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "RuntimeError: injected public REST delay", "context": {}}
+{"timestamp": "2026-09-30T01:20:47.337539+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T01:20:47.340900+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:20:47.523120+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:20:47.721862+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T01:20:47.724819+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:25:20.001610+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:25:20.002568+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-30T01:25:20.003355+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:25:20.005397+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:25:20.007797+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:25:20.508681+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:25:22.442018+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "RuntimeError: injected public REST delay", "context": {}}
+{"timestamp": "2026-09-30T01:25:22.444511+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T01:25:22.447809+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:25:22.453852+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T01:25:22.776534+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T01:25:22.781791+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T01:25:46.118471+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T02:25:46.595355+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-09-30T02:26:19.602603+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T02:26:19.603598+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-09-30T02:26:19.604759+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T02:26:19.606756+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T02:26:19.609266+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T02:26:20.089996+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T02:26:22.059993+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "RuntimeError: injected public REST delay", "context": {}}
+{"timestamp": "2026-09-30T02:26:22.062457+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T02:26:22.065693+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-09-30T02:26:22.073262+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-09-30T02:26:22.257499+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-09-30T02:26:22.260177+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-01T13:56:09.194215+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-01T14:16:47.472737+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-01T14:16:47.473921+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-10-01T14:16:47.479958+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-01T14:16:47.492112+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-01T14:16:47.507497+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-01T14:16:48.551692+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-01T14:16:50.647315+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "RuntimeError: injected public REST delay", "context": {}}
+{"timestamp": "2026-10-01T14:16:50.649406+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-01T14:16:50.665782+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-01T14:16:50.675349+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-01T14:16:51.008293+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-01T14:16:51.022293+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-01T14:18:42.836187+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-01T14:18:45.070280+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: load_markets: ExchangeNotAvailable: upbit GET https://api.upbit.com/v1/market/all", "context": {}}
+{"timestamp": "2026-10-01T14:18:45.072295+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-01T14:18:45.352815+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-01T14:23:33.977817+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-01T22:00:22.218202+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-01T22:00:22.741354+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-01T22:00:32.577928+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-01T22:00:33.037449+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-01T22:07:58.634127+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T13:55:19.773709+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-02T13:55:30.139068+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T14:00:00.269578+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T17:09:22.797249+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "LeaseLost: cannot renew lost lease", "context": {}}
+{"timestamp": "2026-10-02T17:09:22.801118+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-02T17:09:23.106231+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T17:12:43.913989+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:12:44.478627+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": true}}
+{"timestamp": "2026-10-02T23:37:47.372117+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:37:47.373119+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-10-02T23:37:47.377288+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T23:37:47.387378+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:37:47.395106+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T23:37:47.995407+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:37:49.926336+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "RuntimeError: injected public REST delay", "context": {}}
+{"timestamp": "2026-10-02T23:37:49.931998+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-02T23:37:49.944247+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T23:37:49.951370+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:37:50.149493+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-02T23:37:50.157750+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T23:38:30.845877+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:38:30.846922+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "PublicDataUnavailable: injected network failure", "context": {}}
+{"timestamp": "2026-10-02T23:38:30.851050+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T23:38:30.860654+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:38:30.873863+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T23:38:31.027149+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:38:33.017582+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "ORDER_ERROR", "message": "RuntimeError: injected public REST delay", "context": {}}
+{"timestamp": "2026-10-02T23:38:33.023079+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-02T23:38:33.032051+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}
+{"timestamp": "2026-10-02T23:38:33.041075+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "STARTUP", "message": "paper session starting", "context": {}}
+{"timestamp": "2026-10-02T23:38:33.241680+00:00", "level": "ERROR", "component": "trading_bot.paper", "event": "DATABASE_ERROR", "message": "paper shutdown could not checkpoint", "context": {}}
+{"timestamp": "2026-10-02T23:38:33.253224+00:00", "level": "INFO", "component": "trading_bot.paper", "event": "SHUTDOWN", "message": "paper session stopped", "context": {"integration_success": false}}

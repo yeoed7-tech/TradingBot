@@ -1,0 +1,155 @@
+{
+  "mode": "paper",
+  "status": "NORMAL",
+  "processed_bars": 123,
+  "normal_events": 48,
+  "simulated_orders": 2,
+  "simulated_fills": 3,
+  "risk_killed": false,
+  "kill_reason": "",
+  "last_snapshot": {
+    "timestamp": "2026-09-28T05:49:38.420538+00:00",
+    "feed_state": "NORMAL",
+    "cash": 999795.8426612051,
+    "equity": 999795.8426612051,
+    "positions": {},
+    "unrealized_pnl": 0,
+    "realized_pnl": -204.1573387949902,
+    "fees": 99.998748795,
+    "drawdown": -0.00020415733879486364,
+    "risk_killed": false
+  },
+  "execution_backend": "SimulationBroker",
+  "return": -0.00020415733879486364,
+  "max_drawdown": -0.00020415733879486364,
+  "started_at": "2026-09-28T05:46:38.916545+00:00",
+  "duration_seconds": 180.0,
+  "source": "Upbit public API via ccxt.async_support",
+  "integration_success": true,
+  "metadata": {
+    "symbol": "BTC/KRW",
+    "base": "BTC",
+    "quote": "KRW",
+    "spot": true,
+    "precision": {
+      "price": 1e-08,
+      "amount": 1e-08
+    },
+    "limits": {
+      "leverage": {
+        "min": null,
+        "max": null
+      },
+      "amount": {
+        "min": null,
+        "max": null
+      },
+      "price": {
+        "min": null,
+        "max": null
+      },
+      "cost": {
+        "min": null,
+        "max": null
+      }
+    },
+    "account_access": false,
+    "fee_source": "configured paper assumption",
+    "rules_source": "https://docs.upbit.com/kr/docs/krw-market-info (checked 2026-09-28)",
+    "simulation_rules": {
+      "min_quantity": 0.0,
+      "price_tiers": [
+        [
+          1000000.0,
+          1000.0
+        ],
+        [
+          500000.0,
+          500.0
+        ],
+        [
+          100000.0,
+          100.0
+        ],
+        [
+          50000.0,
+          50.0
+        ],
+        [
+          10000.0,
+          10.0
+        ],
+        [
+          5000.0,
+          5.0
+        ],
+        [
+          100.0,
+          1.0
+        ],
+        [
+          10.0,
+          0.1
+        ],
+        [
+          1.0,
+          0.01
+        ],
+        [
+          0.1,
+          0.001
+        ],
+        [
+          0.01,
+          0.0001
+        ],
+        [
+          0.001,
+          1e-05
+        ],
+        [
+          0.0001,
+          1e-06
+        ],
+        [
+          1e-05,
+          1e-07
+        ],
+        [
+          0.0,
+          1e-08
+        ]
+      ],
+      "min_notional": 5000.0,
+      "price_tick": 1e-08,
+      "quantity_step": 1e-08
+    },
+    "effective_min_quantity": 1e-08,
+    "precision_source": "ccxt descriptor; not authenticated order-chance endpoint"
+  },
+  "ticker": {
+    "symbol": "BTC/KRW",
+    "timestamp": "2026-09-28 05:46:50.471000+00:00",
+    "last": 112803000.0
+  },
+  "fees": {
+    "symbol": "BTC/KRW",
+    "maker": 0.0005,
+    "taker": 0.0005,
+    "source": "configured paper assumption; no private fee endpoint called"
+  },
+  "stop_reason": "configured observation duration reached",
+  "finished_at": "2026-09-28T05:49:39.168389+00:00",
+  "adapter_audit": {
+    "api_attempts": 54,
+    "api_successes": 54,
+    "transport": {
+      "public_http_attempts": 54,
+      "GET /v1/market/all": 1,
+      "GET /v1/ticker": 1,
+      "GET /v1/candles/minutes/1": 4,
+      "GET /v1/orderbook": 48
+    }
+  },
+  "real_order_http_requests": 0
+}

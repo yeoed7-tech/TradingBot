@@ -1,0 +1,272 @@
+{
+  "verdict": "FAILED",
+  "start": "2026-09-29T07:50:44.664752+00:00",
+  "end": "2026-09-29T07:51:33.776256+00:00",
+  "elapsed_seconds": 30.007806711,
+  "child_exit_code": 0,
+  "regression_before": {
+    "exit_code": 0,
+    "summary": "124 passed, 1 warning in 17.35s"
+  },
+  "regression_after": {
+    "exit_code": 0,
+    "summary": "124 passed, 1 warning in 17.53s"
+  },
+  "start_state": {
+    "start": "2026-09-29T07:50:44.664752+00:00",
+    "pid": 51,
+    "source_sha256": "4eeef1cbddc11168ba6e787103ffaa3645f1038b94d20286231807532e11696c",
+    "config": {
+      "initial_cash": 100000.0,
+      "bar_seconds": 86400,
+      "live_trading": false,
+      "persistence": {
+        "enabled": true,
+        "database_url": "sqlite:///data/database/paper.sqlite3",
+        "account": "paper",
+        "lease_ttl": 30.0,
+        "single_writer": true,
+        "recent_cache_limit": 1000
+      },
+      "paper_trading": {
+        "exchange": "upbit",
+        "symbol": "BTC/KRW",
+        "timeframe": "1m",
+        "starting_cash": 1000000.0,
+        "fee_rate": 0.0005,
+        "slippage_bps": 5.0,
+        "poll_interval": 3.0,
+        "quote_source": "websocket",
+        "network_trust_env": true,
+        "ca_bundle_path": null,
+        "request_timeout": 15.0,
+        "stale_data_timeout": 90.0,
+        "quote_max_age": 10.0,
+        "clock_skew_tolerance": 2.0,
+        "warmup_bars": 120,
+        "page_size": 200,
+        "max_pages": 100,
+        "max_gap_bars": 1440,
+        "max_book_participation": 0.1,
+        "rules_source": "https://docs.upbit.com/kr/docs/krw-market-info (checked 2026-09-28)",
+        "market_rules": {
+          "min_quantity": 0.0,
+          "price_tiers": [
+            [
+              1000000.0,
+              1000.0
+            ],
+            [
+              500000.0,
+              500.0
+            ],
+            [
+              100000.0,
+              100.0
+            ],
+            [
+              50000.0,
+              50.0
+            ],
+            [
+              10000.0,
+              10.0
+            ],
+            [
+              5000.0,
+              5.0
+            ],
+            [
+              100.0,
+              1.0
+            ],
+            [
+              10.0,
+              0.1
+            ],
+            [
+              1.0,
+              0.01
+            ],
+            [
+              0.1,
+              0.001
+            ],
+            [
+              0.01,
+              0.0001
+            ],
+            [
+              0.001,
+              1e-05
+            ],
+            [
+              0.0001,
+              1e-06
+            ],
+            [
+              1e-05,
+              1e-07
+            ],
+            [
+              0.0,
+              1e-08
+            ]
+          ],
+          "min_notional": 5000.0,
+          "price_tick": 1e-08,
+          "quantity_step": 1e-08
+        },
+        "reconnect": {
+          "max_attempts": 3,
+          "base_backoff": 0.5,
+          "max_backoff": 8.0,
+          "max_consecutive_failures": 5
+        }
+      },
+      "strategy": {
+        "name": "ema_cross",
+        "params": {
+          "fast": 20,
+          "slow": 100,
+          "weight": 0.1
+        }
+      },
+      "execution": {
+        "fee_rate": 0.001,
+        "slippage_bps": 5.0,
+        "delay_bars": 1,
+        "max_volume_participation": 0.01,
+        "expiry_bars": 4
+      },
+      "risk": {
+        "max_gross_weight": 0.3,
+        "max_symbol_weight": 0.2,
+        "daily_loss": 0.03,
+        "weekly_loss": 0.08,
+        "max_drawdown": 0.2,
+        "max_consecutive_losses": 5,
+        "max_price_jump": 0.5,
+        "max_slippage_bps": 100.0,
+        "sizing": "fixed_fractional",
+        "fixed_fraction": 0.1,
+        "risk_per_trade": 0.01,
+        "atr_multiple": 2.0,
+        "atr_period": 14,
+        "rebalance_tolerance": 0.005
+      },
+      "rules": {
+        "min_quantity": 0.0,
+        "price_tiers": [],
+        "min_notional": 10.0,
+        "price_tick": 0.01,
+        "quantity_step": 1e-06
+      },
+      "symbol_rules": {}
+    },
+    "config_path": "/workspace/scratch/32862f77f60b/phase45b_work/config/paper_upbit.toml",
+    "config_sha256": "9eac40242265ec2641af2a8f205098e4af4c1b243a306d3de1229767c5ecf485",
+    "database": "/workspace/scratch/32862f77f60b/phase45b_work/reports/phase45c1_diagnostic/paper.sqlite3",
+    "command": [
+      "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+      "-m",
+      "scripts.soak_paper",
+      "--database",
+      "/workspace/scratch/32862f77f60b/phase45b_work/reports/phase45c1_diagnostic/paper.sqlite3",
+      "--out",
+      "reports/phase45c1_diagnostic",
+      "--quote-source",
+      "websocket",
+      "--sample-seconds",
+      "5.0",
+      "--seconds",
+      "25.0"
+    ],
+    "initial_rss": null,
+    "initial_db_size": 0,
+    "initial_log_size": 41745,
+    "regression_before": {
+      "exit_code": 0,
+      "summary": "124 passed, 1 warning in 17.35s"
+    },
+    "writer_owner_id": "e760dc17-7bf5-4fbe-b311-383801505d0b",
+    "fencing_token": 1
+  },
+  "rss_start": null,
+  "rss_end": null,
+  "rss_max": null,
+  "rss_delta": null,
+  "rss_slope_bytes_per_hour": null,
+  "rss_tail_slope_bytes_per_hour": null,
+  "db_start": 0,
+  "db_end": 151552,
+  "db_delta": 151552,
+  "log_start": 41745,
+  "log_end": 43069,
+  "row_start": {},
+  "row_end": {
+    "ohlcv": 121,
+    "signals": 2,
+    "orders": 1,
+    "fills": 1,
+    "portfolio_snapshots": 3,
+    "system_events": 2,
+    "cash": "899899.701243190000000000000000",
+    "fees": "50.025136810000000000000000",
+    "realized_pnl": "0E-24",
+    "fill_count": 1,
+    "positions": {
+      "BTC/KRW": {
+        "quantity": "0.00087718",
+        "cost": "100100.298756810000000000000000"
+      }
+    },
+    "equity": "999898.659833190000000000000000",
+    "unrealized_pnl": "-101.340166810000000000000000",
+    "owner_id": "",
+    "fencing_token": 1,
+    "process_heartbeat": "2026-09-29T07:51:09.172368+00:00",
+    "risk_halt": false,
+    "rejected_orders": 0,
+    "error_events": 0
+  },
+  "feed_metrics": {
+    "rest_requests": 2,
+    "gap_events": 0,
+    "stale_events": 0,
+    "duplicate_events": 0,
+    "normal_events": 2
+  },
+  "ws_reconnects": 0,
+  "ws_messages": 37,
+  "cache_sizes": {
+    "orders": 1,
+    "fills": 1,
+    "events": 129,
+    "snapshots": 2,
+    "trades": 0,
+    "execution_events": 1,
+    "risk_events": 0
+  },
+  "cache_limit": 1000,
+  "bounded": true,
+  "orders": 1,
+  "fills": 1,
+  "network_audit": {
+    "public_rest_count": 4,
+    "public_websocket_messages": 37,
+    "public_websocket_connections": 1,
+    "private_api_count": 0,
+    "order_http_count": 0,
+    "cancel_http_count": 0,
+    "blocked_attempts": 0,
+    "transport": {
+      "public_http_attempts": 4,
+      "GET /v1/market/all": 1,
+      "GET /v1/ticker": 1,
+      "GET /v1/candles/minutes/1": 2
+    }
+  },
+  "reconciliation": "PASS",
+  "errors": {}
+}

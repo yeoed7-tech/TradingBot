@@ -1,0 +1,193 @@
+{
+  "label": "breakout",
+  "source": "SYNTHETIC deterministic fixture (seed=42), NOT actual crypto history",
+  "metrics": {
+    "total_return": -0.017116818811558132,
+    "cagr": -0.0069822247249794606,
+    "sharpe": -0.5246532318249593,
+    "sortino": -0.6074468015822997,
+    "max_drawdown": -0.03609658795522874,
+    "calmar": -0.19343170976823743,
+    "win_rate": 0.4444444444444444,
+    "profit_factor": 0.5089362996984276,
+    "average_win": 443.49492862194165,
+    "average_loss": -697.1323191287186,
+    "payoff_ratio": 0.6361703746230344,
+    "number_of_trades": 9,
+    "average_holding_hours": 24.0,
+    "exposure": 0.01,
+    "volatility": 0.013188600523562568
+  },
+  "benchmark": {
+    "total_return": -0.18311237136080205,
+    "cagr": -0.07880294454620874,
+    "sharpe": -0.05715967762242059,
+    "sortino": -0.08057301414090103,
+    "max_drawdown": -0.3933269077854248,
+    "calmar": -0.20034974212646248,
+    "win_rate": null,
+    "profit_factor": null,
+    "average_win": null,
+    "average_loss": null,
+    "payoff_ratio": null,
+    "number_of_trades": 0,
+    "average_holding_hours": null,
+    "exposure": null,
+    "volatility": 0.3521063632864039
+  },
+  "warnings": [
+    "No expected return or future profitability is implied.",
+    "Universe/delisting history is unverified; survivorship bias may be present.",
+    "Bar-open fills, prior-bar volume cap; no order-book queue or intrabar limit fills.",
+    "Open positions marked to final close; not force-liquidated. Trade stats include completed flat-to-flat episodes only.",
+    "Benchmark: frictionless equal-weight buy & hold of input assets; excludes fees and slippage.",
+    "ATR sizing is a risk budget, NOT a guaranteed per-trade loss limit; stop orders are not implemented.",
+    "New BUY orders halted by risk engine: consecutive_losses",
+    "Fewer than 30 closed trades: weak statistical evidence."
+  ],
+  "config": {
+    "initial_cash": 100000.0,
+    "bar_seconds": 86400,
+    "live_trading": false,
+    "paper_trading": {
+      "exchange": "upbit",
+      "symbol": "BTC/KRW",
+      "timeframe": "1m",
+      "starting_cash": 1000000,
+      "fee_rate": 0.0005,
+      "slippage_bps": 5,
+      "poll_interval": 3,
+      "request_timeout": 8,
+      "stale_data_timeout": 90,
+      "quote_max_age": 10,
+      "clock_skew_tolerance": 2,
+      "warmup_bars": 120,
+      "page_size": 200,
+      "max_pages": 100,
+      "max_gap_bars": 1440,
+      "max_book_participation": 0.1,
+      "rules_source": "Upbit KRW public policy checked 2026-09-28",
+      "market_rules": {
+        "min_quantity": 0,
+        "price_tiers": [
+          [
+            1000000.0,
+            1000.0
+          ],
+          [
+            500000.0,
+            500.0
+          ],
+          [
+            100000.0,
+            100.0
+          ],
+          [
+            50000.0,
+            50.0
+          ],
+          [
+            10000.0,
+            10.0
+          ],
+          [
+            5000.0,
+            5.0
+          ],
+          [
+            100.0,
+            1.0
+          ],
+          [
+            10.0,
+            0.1
+          ],
+          [
+            1.0,
+            0.01
+          ],
+          [
+            0.1,
+            0.001
+          ],
+          [
+            0.01,
+            0.0001
+          ],
+          [
+            0.001,
+            1e-05
+          ],
+          [
+            0.0001,
+            1e-06
+          ],
+          [
+            1e-05,
+            1e-07
+          ],
+          [
+            0.0,
+            1e-08
+          ]
+        ],
+        "min_notional": 5000.0,
+        "price_tick": 1e-08,
+        "quantity_step": 1e-08
+      },
+      "reconnect": {
+        "max_attempts": 3,
+        "base_backoff": 0.5,
+        "max_backoff": 8,
+        "max_consecutive_failures": 5
+      }
+    },
+    "strategy": {
+      "name": "ema_cross",
+      "params": {
+        "fast": 20,
+        "slow": 100,
+        "weight": 0.4
+      }
+    },
+    "execution": {
+      "fee_rate": 0.001,
+      "slippage_bps": 5.0,
+      "delay_bars": 1,
+      "max_volume_participation": 0.01,
+      "expiry_bars": 4
+    },
+    "risk": {
+      "max_gross_weight": 0.8,
+      "max_symbol_weight": 0.5,
+      "daily_loss": 0.03,
+      "weekly_loss": 0.08,
+      "max_drawdown": 0.2,
+      "max_consecutive_losses": 5,
+      "max_price_jump": 0.5,
+      "max_slippage_bps": 50.0,
+      "sizing": "fixed_fractional",
+      "fixed_fraction": 0.35,
+      "risk_per_trade": 0.01,
+      "atr_multiple": 2.0,
+      "atr_period": 14,
+      "rebalance_tolerance": 0.005
+    },
+    "rules": {
+      "min_quantity": 0,
+      "price_tiers": [],
+      "min_notional": 10.0,
+      "price_tick": 0.01,
+      "quantity_step": 1e-06
+    },
+    "symbol_rules": {}
+  },
+  "metric_conventions": {
+    "risk_free_rate": 0,
+    "annualization_days": 365.25,
+    "sortino": "RMS of negative returns with zero for nonnegative returns",
+    "trade_unit": "flat-to-flat position episode including entry/exit fees",
+    "exposure": "fraction of end-of-bar observations with any position",
+    "undefined_ratios": "null, including no losing trades"
+  }
+}

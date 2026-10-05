@@ -1,0 +1,26 @@
+{
+  "status": "FAIL",
+  "mismatches": [
+    {
+      "field": "runtime_reconciliation",
+      "actual": "None",
+      "expected": "True"
+    }
+  ],
+  "integrity": "ok",
+  "duplicates": {
+    "orders": 0,
+    "fills": 0,
+    "ohlcv": 0
+  },
+  "computed": {
+    "cash": "1000000.000000000000000000000000",
+    "fees": "0",
+    "realized_pnl": "0",
+    "positions": {}
+  },
+  "fills": 0,
+  "orders": 0,
+  "open_orders": [],
+  "cursor": null
+}

@@ -1,0 +1,98 @@
+{
+  "label": "ema_cross",
+  "source": "User CSV SHA256=e993cfdc9365239e92442fa750df3537f6136bbc4fe9602390f56198be7f401a",
+  "metrics": {
+    "total_return": -0.17199325862017945,
+    "cagr": -0.07373466025444658,
+    "sharpe": -1.3547498925188564,
+    "sortino": -1.5720358612566383,
+    "max_drawdown": -0.1915663543265762,
+    "calmar": -0.38490402197009027,
+    "win_rate": 0.0,
+    "profit_factor": 0.0,
+    "average_win": null,
+    "average_loss": -4299.8314655044815,
+    "payoff_ratio": null,
+    "number_of_trades": 4,
+    "average_holding_hours": 522.0,
+    "exposure": 0.09666666666666666,
+    "volatility": 0.05539163948839981
+  },
+  "benchmark": {
+    "total_return": -0.18311237136080216,
+    "cagr": -0.0788029445462088,
+    "sharpe": -0.057159677622421995,
+    "sortino": -0.08057301414090302,
+    "max_drawdown": -0.3933269077854247,
+    "calmar": -0.20034974212646267,
+    "win_rate": null,
+    "profit_factor": null,
+    "average_win": null,
+    "average_loss": null,
+    "payoff_ratio": null,
+    "number_of_trades": 0,
+    "average_holding_hours": null,
+    "exposure": null,
+    "volatility": 0.3521063632864039
+  },
+  "warnings": [
+    "No expected return or future profitability is implied.",
+    "Universe/delisting history is unverified; survivorship bias may be present.",
+    "Bar-open fills, prior-bar volume cap; no order-book queue or intrabar limit fills.",
+    "Open positions marked to final close; not force-liquidated. Trade stats include completed flat-to-flat episodes only.",
+    "Benchmark: frictionless equal-weight buy & hold of input assets; excludes fees and slippage.",
+    "ATR sizing is a risk budget, NOT a guaranteed per-trade loss limit; stop orders are not implemented.",
+    "New BUY orders halted by risk engine: daily_loss",
+    "Fewer than 30 closed trades: weak statistical evidence."
+  ],
+  "config": {
+    "initial_cash": 100000.0,
+    "bar_seconds": 86400,
+    "live_trading": false,
+    "strategy": {
+      "name": "ema_cross",
+      "params": {
+        "fast": 20,
+        "slow": 100,
+        "weight": 0.4
+      }
+    },
+    "execution": {
+      "fee_rate": 0.001,
+      "slippage_bps": 5.0,
+      "delay_bars": 1,
+      "max_volume_participation": 0.01,
+      "expiry_bars": 4
+    },
+    "risk": {
+      "max_gross_weight": 0.8,
+      "max_symbol_weight": 0.5,
+      "daily_loss": 0.03,
+      "weekly_loss": 0.08,
+      "max_drawdown": 0.2,
+      "max_consecutive_losses": 5,
+      "max_price_jump": 0.5,
+      "max_slippage_bps": 50.0,
+      "sizing": "fixed_fractional",
+      "fixed_fraction": 0.35,
+      "risk_per_trade": 0.01,
+      "atr_multiple": 2.0,
+      "atr_period": 14,
+      "rebalance_tolerance": 0.005
+    },
+    "rules": {
+      "min_notional": 10.0,
+      "price_tick": 0.01,
+      "quantity_step": 1e-06
+    },
+    "symbol_rules": {}
+  },
+  "metric_conventions": {
+    "risk_free_rate": 0,
+    "annualization_days": 365.25,
+    "sortino": "RMS of negative returns with zero for nonnegative returns",
+    "trade_unit": "flat-to-flat position episode including entry/exit fees",
+    "exposure": "fraction of end-of-bar observations with any position",
+    "undefined_ratios": "null, including no losing trades"
+  }
+}
