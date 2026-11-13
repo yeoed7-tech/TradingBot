@@ -39,7 +39,9 @@ class EquitySimulationBroker:
         if quantity <= 0:
             return None
         return Fill(intent.id, timestamp, SYMBOL, VERSION, intent.side, quantity, price,
-                    quantity*price*config.fee, D(0), intent.id+":sim:1")
+                    quantity*price*config.fee,
+                    quantity*(price-(bar.open if intent.kind=="OPEN_ENTRY" else bar.close))
+                    if intent.side==Side.BUY else D(0), intent.id+":sim:1")
 
 
 class ResearchAccount:
@@ -75,6 +77,7 @@ class ResearchAccount:
         valid = (fill.fill_id and self.intents.get(fill.order_id) == intent and
                  fill.order_id == intent.id and fill.symbol == SYMBOL and fill.side == intent.side
                  and cycle and cycle.id == intent.cycle_id and day == intent.session
+                 and (self.last_day is None or day > str(self.last_day))
                  and fill.timestamp.tzinfo is not None and fill.price > 0 and fill.quantity > 0
                  and fill.quantity == int(fill.quantity) and fill.fee >= 0)
         if not valid:

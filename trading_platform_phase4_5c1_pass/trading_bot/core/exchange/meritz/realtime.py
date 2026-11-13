@@ -37,7 +37,7 @@ class RealtimeClient:
                         raise MeritzError("unexpected realtime message")
                     if body.get("iscd") not in (instrument.symbol, f"{instrument.symbol}.{instrument.market}"):
                         raise MeritzError("unexpected realtime symbol")
-                    if body.get("dely_yn")!="N":
+                    if body.get("dely_yn")!="0":
                         raise MeritzError("delayed or unconfirmed realtime quote")
                     stamp=datetime.strptime(body["korea_date"]+body["korea_hour"],"%Y%m%d%H%M%S").replace(tzinfo=KST)
                     age=(self.now()-stamp).total_seconds()

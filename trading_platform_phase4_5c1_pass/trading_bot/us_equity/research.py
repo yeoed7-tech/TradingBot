@@ -72,7 +72,8 @@ def run(bars, config, fx):
     stats = summarize(a.rows,trades)
     cycles = a.cycles+([a.cycle_record(bars[-1],completed=False)] if a.cycle else [])
     stats.update(fees=end["fees"],realized_pnl=end["realized"],unrealized_pnl=end["unrealized"],
-        distributions=a.dividends,capital_utilization=sum(r["utilization"] for r in a.rows)/len(a.rows),
+        distributions=a.dividends, modeled_buy_slippage=sum(f.slippage for f in a.fills.values()),
+        capital_utilization=sum(r["utilization"] for r in a.rows)/len(a.rows),
         maximum_capital_utilization=max(r["utilization"] for r in a.rows),
         turnover=sum(f.price*f.quantity for f in a.fills.values())/(sum(r["equity"] for r in a.rows)/len(a.rows)),
         cash_exhaustion_count=sum(bool(c["exhausted_at"]) for c in cycles),
