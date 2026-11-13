@@ -20,9 +20,10 @@ class EquitySimulationBroker:
         if intent.kind == "OPEN_ENTRY":
             price, timestamp = intent.limit, bar.opens
         elif intent.kind == "DAY_EXIT":
-            if bar.open >= intent.limit:
+            trigger = tick_price(intent.limit/(1-config.slip),config.tick,True)
+            if bar.open >= trigger:
                 price, timestamp = intent.limit, bar.opens
-            elif bar.high > intent.limit:
+            elif bar.high > trigger:
                 # Daily data cannot locate intraday execution; timestamp is a proxy.
                 price, timestamp = intent.limit, bar.closes
             else:
@@ -65,6 +66,12 @@ class ResearchAccount:
 
     def apply_fill(self, fill, marks, day, intent):
         p, c, cycle = self.portfolio, self.config, self.cycle
+        prior = self.fills.get(fill.fill_id)
+        if prior is not None:
+            if prior == fill and self.intents.get(fill.order_id)==intent and intent.session==day:
+                return False
+            self.risk.kill("duplicate_fill_conflict")
+            raise ValueError("conflicting fill")
         valid = (fill.fill_id and self.intents.get(fill.order_id) == intent and
                  fill.order_id == intent.id and fill.symbol == SYMBOL and fill.side == intent.side
                  and cycle and cycle.id == intent.cycle_id and day == intent.session
@@ -73,12 +80,6 @@ class ResearchAccount:
         if not valid:
             self.risk.kill("unknown_or_invalid_fill")
             raise ValueError("unknown or invalid fill")
-        prior = self.fills.get(fill.fill_id)
-        if prior is not None:
-            if prior == fill:
-                return False
-            self.risk.kill("duplicate_fill_conflict")
-            raise ValueError("conflicting fill")
         prev = self.filled_by_order.get(intent.id,D(0))
         if prev+fill.quantity > intent.quantity or (
             fill.price > intent.limit if fill.side == Side.BUY else fill.price < intent.limit):
@@ -200,4 +201,9 @@ class ResearchAccount:
                                              self.config.tick,True) if p.quantity(SYMBOL) else None,
                 "pending_orders":[],"realized_pnl":p.realized_total,"fees":p.fees_total,
                 "distributions":self.dividends,"fill_ids":sorted(self.fills),
-                "risk_killed":self.risk.killed,"risk_reason":self.risk.kill_reason}
+                "risk_killed":self.risk.killed,"risk_reason":self.risk.kill_reason,
+                "risk_peak":self.risk.peak,"risk_last_equity":self.risk.last_equity,
+                "risk_day_start":self.risk.day_start,"risk_week_start":self.risk.week_start,
+                "risk_consecutive_losses":self.risk.consecutive_losses,
+                "filled_by_order":self.filled_by_order,"last_intents":[asdict(i) for i in
+                    self.intents.values() if i.session==str(self.last_day)]}
