@@ -19,3 +19,7 @@
 | 외부 plugin의 전략 state snapshot | PARTIAL | 기본 EMA/RSI/Breakout 결정성은 검증됨. 임의 외부 상태 plugin은 별도 검증 |
 
 Phase 4.5 전체는 운영·환경 gate가 남아 **PARTIAL**이다. Phase 5 private 인증·실제 balance/order/cancel 기능은 **NOT IMPLEMENTED**이며 자동으로 시작하지 않는다. 이전 실패 실행은 최종 C2 증거와 합산하지 않았다.
+
+## TQQQ/Meritz branch (2026-11-13)
+
+The bounded Laoer V1 historical screen is **REJECT**; see [TQQQ report](strategy_research/TQQQ_LAOER_BACKTEST.md). The 2022–2026 historical holdout violated the frozen 35% maximum drawdown criterion. Do not advance this baseline to forward paper, authenticated integration or live orders. In a separate research task, use a new prespecified lower allocation or slower tranche cadence and reserve a new holdout before inspecting outcomes. Review execution realism and independently reconcile historical source prices first. Do not alter the past criterion after seeing the result. Meritz connectivity and account verification remain separate from strategy selection. Upbit/C1/C2 evidence is preserved.
