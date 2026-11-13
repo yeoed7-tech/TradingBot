@@ -11,3 +11,4 @@ httpx==0.28.1
 uvicorn==0.54.0
 psycopg[binary]==3.3.6
 websockets==16.0
+exchange-calendars==4.13.2

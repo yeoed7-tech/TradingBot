@@ -1,2 +1,0 @@
--r requirements.txt
-exchange-calendars==4.13.2

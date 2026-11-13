@@ -54,6 +54,9 @@ class ReadOnlyTransport:
             self.http.close()
 
     def _call(self, method, path, **kw):
+        if (method,path)!=("POST","/oauth2/token") and not (
+                method=="GET" and any(path==rule[0] for rule in READ.values())):
+            raise MeritzError("read-only route blocked")
         if self.halted:
             raise MeritzError("transport halted")
         delay=1-(self.clock()-self._last)

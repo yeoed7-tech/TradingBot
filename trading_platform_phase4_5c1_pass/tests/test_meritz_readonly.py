@@ -165,3 +165,11 @@ def test_missing_credentials_makes_no_request():
     with pytest.raises(MeritzError):
         t.token()
     assert t.halted
+
+
+def test_transport_rejects_unlisted_post_before_io():
+    def handler(_):
+        pytest.fail("unexpected order request")
+    t=make_transport(handler)
+    with pytest.raises(MeritzError,match="route blocked"):
+        t._call("POST","/trading/v1/overseas/orders/buy")
