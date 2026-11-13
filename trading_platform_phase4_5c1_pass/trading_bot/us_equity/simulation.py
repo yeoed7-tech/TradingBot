@@ -1,5 +1,7 @@
 """Session-scoped equity simulator using common RiskEngine, Fill and Portfolio."""
 from dataclasses import asdict
+from hashlib import sha256
+import json
 from decimal import Decimal
 
 from trading_bot.config.settings import RiskConfig
@@ -61,6 +63,7 @@ class ResearchAccount:
         self.intents = {}
         self.fills = {}
         self.filled_by_order = {}
+        self.fill_digest = "0"*64
         self.rows = []
         self.last_day = None
         self.index = 0
@@ -96,6 +99,8 @@ class ResearchAccount:
             raise ValueError("fill exceeds strategy risk budget")
         p.apply(fill, marks)
         self.fills[fill.fill_id] = fill
+        self.fill_digest = sha256((self.fill_digest+json.dumps(asdict(fill),default=str,
+                                                               sort_keys=True)).encode()).hexdigest()
         self.filled_by_order[intent.id] = prev+fill.quantity
         if fill.side == Side.BUY:
             cycle.spent += spend
@@ -203,10 +208,12 @@ class ResearchAccount:
                 "current_target":tick_price(p.positions[SYMBOL].cost/p.quantity(SYMBOL)*(1+self.config.target),
                                              self.config.tick,True) if p.quantity(SYMBOL) else None,
                 "pending_orders":[],"realized_pnl":p.realized_total,"fees":p.fees_total,
-                "distributions":self.dividends,"fill_ids":sorted(self.fills),
+                "distributions":self.dividends,"fill_count":len(self.fills),"fill_digest":self.fill_digest,
                 "risk_killed":self.risk.killed,"risk_reason":self.risk.kill_reason,
                 "risk_peak":self.risk.peak,"risk_last_equity":self.risk.last_equity,
                 "risk_day_start":self.risk.day_start,"risk_week_start":self.risk.week_start,
                 "risk_consecutive_losses":self.risk.consecutive_losses,
-                "filled_by_order":self.filled_by_order,"last_intents":[asdict(i) for i in
+                "last_fills":{i.id:self.filled_by_order.get(i.id,D(0)) for i in self.intents.values()
+                    if i.session==str(self.last_day)},
+                "last_intents":[asdict(i) for i in
                     self.intents.values() if i.session==str(self.last_day)]}

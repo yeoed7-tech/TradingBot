@@ -39,6 +39,10 @@ class AccountClient:
         rows=self.transport.pages("positions")
         return self._unique(rows,("ovrs_exch_vndr_idno","ovrs_stck_symb_iscd","crcd"),"rmnd_dqty")
 
+    def realized_pnl(self,start,end,country_code):
+        return self.transport.pages("pnl",{"oder_sta_date":start.strftime("%Y%m%d"),
+            "oder_fin_date":end.strftime("%Y%m%d"),"ctcd":country_code})
+
     def get_orderable_amount(self):
         rows=list_data(self.transport.get("orderable",{"intg_marg_iqry_yn":"N"}))
         return self._unique(rows,"crcd","oder_crnc_oder_able_camt")
@@ -83,7 +87,10 @@ class OrderReader:
             "cntg_cls_code":"0","seln_byov_clcd":"0"})
 
     def _detail(self,day,number_):
-        return self.transport.pages("detail",{"oder_sta_date":day,"oder_no":number_})
+        rows=self.transport.pages("detail",{"oder_sta_date":day,"oder_no":number_})
+        if any(str(x["oder_date"])!=day or str(x["oder_no"])!=number_ for x in rows):
+            raise MeritzError("order identity mismatch")
+        return rows
 
     def get_order(self,day,number_):
         rows=self._detail(day,number_)
